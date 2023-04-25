@@ -51,7 +51,6 @@ public:
             return line < other.line;
         else
             return pos < other.pos;
-                 
     }
 
 /*********************************************************************************
@@ -89,7 +88,7 @@ public:
 *********************************************************************************/
     friend std::ostream& operator<<(std::ostream& os, const Word& p) {
         os << "[Hilo: " << p.fragment.thread_number << " inicio: " << p.fragment.line_i << " final: " << p.fragment.line_f <<
-         "] :: línea " << p.line << " :: Anterior: " << p.previous_word << " :: Posterior: " << p.later_word << "\n";
+        "] :: línea " << p.line << " :: Anterior: " << p.previous_word << " :: Posterior: " << p.later_word << "\n";
         return os;
     }
 

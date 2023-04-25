@@ -80,8 +80,8 @@ int main(int argc, char *argv[])
 
     //Finalmente imprimimos el vector
     for (auto word : words_found) {
-         std::cout << word;
-     }
+        std::cout << word;
+    }
 
 }
 
@@ -124,17 +124,12 @@ void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int
             // Buscar la palabra en la línea
             int pos = 0;
             while ((pos = line_lower.find(palabra, pos)) != std::string::npos) {
-                
-               
-
-               
-
-                
+                                
                 std::string previous = getRelativeWord(linea, pos, false);  //Palabra anterior
                 std::string last = getRelativeWord(linea, pos, true);       //Palabra posterior
 
                 if (previous.empty() || previous==" ") {
-                   previous="no_word";
+                    previous="no_word";
                 } else if(last.empty()|| last==" "){
                     last="no_word";
                 }
@@ -160,9 +155,3 @@ void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int
     archivo.close();
 
 }
-
-
-    
-   
-
-
