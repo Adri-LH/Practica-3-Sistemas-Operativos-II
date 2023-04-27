@@ -26,62 +26,26 @@
 #include "../include/word.h"
 #include "../include/myfiles.h"
 
+#define WORD_FINDER 4;  //Numero de buscadores
+#define USERS_NUM 50;   //Numero de usuarios. Sus perfiles serán aleatorios.
+
 void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int linea_final, int id_thread);
 
 std::vector<Word> words_found;
 std::vector<std::thread> vhilos;
 std::shared_mutex buffer_mutex;
 
-
-
 int main(int argc, char *argv[])
 {
     //Control de argumentos
-    if (argc != 4)
+    if (argc != 1)
     {
-        std::cerr << "Use: /program file_name word thread_number\n";
+        std::cerr << "Use: /program\n";
         return EXIT_FAILURE;
     }
 
-    //Asignamos parametros del programa a variables
-    std::string file_path = argv[1];
-    std::string word = argv[2];
-    int num_threads = std::stoi(argv[3]);
+    //Creamos el sistema de pago. Será un proceso
 
-    //Lineas totales del fichero
-    int total_lines = countLines(file_path);
-
-    int thread_work = total_lines / num_threads;                    //Trabajo de cada hilo
-    int last_thread = total_lines - (thread_work * num_threads);    //Trabajo extra del ultimo hilo
-    
-    int inicio = 0;                 //Linea inicial de un hilo
-    int final = thread_work - 1;    //Linea final de un hilo
-
-    //Creamos los hilos, repartiendo las tareas
-    for (int i = 0; i < num_threads; i++)
-    {
-        //Si es el ultimo hilo, le asignamos la carga extra
-        if (i == num_threads - 1)
-            final = final + last_thread;
-
-        vhilos.push_back(std::thread(buscarPalabra, file_path, word, inicio,final, i));
-
-        //Actualizamos tareas para el siguiente hilo
-        inicio = inicio + thread_work;
-        final = final + (thread_work);
-
-    }
-
-    //Espera de hilos
-    std::for_each(vhilos.begin(), vhilos.end(), std::mem_fn(&std::thread::join));
-
-    //Ordenamos vector de palabras encontradas
-    std::sort(words_found.begin(), words_found.end());
-
-    //Finalmente imprimimos el vector
-    for (auto word : words_found) {
-        std::cout << word;
-    }
 
 }
 

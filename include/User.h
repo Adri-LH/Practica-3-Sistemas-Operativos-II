@@ -8,7 +8,6 @@ class User{
             {
             case FREE:
                 membership=FREE;
-                balance=0;
                 break;
             case PREMIUM_LIMITED:
                 membership=PREMIUM_LIMITED;
@@ -20,7 +19,15 @@ class User{
             default:
                 break;
             }
-        }
+    }
+
+    User() {
+        
+    }
+
+    void setBalance(double balance){
+        this->balance = balance;
+    }
     
     private:
 

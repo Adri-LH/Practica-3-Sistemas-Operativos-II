@@ -30,29 +30,6 @@ private:
         std::string later_word;
 
 public:
-
-/*********************************************************************************
- * 
- * Nombre de la función: operator<
- *
- *
- * Descripción de la función: Para ordenar al revés, cambiar < por >
- * 
- * Argumentos utilizados: 'file_path' que sera la ruta del archivo
- * 
- * Valor de regreso: bool retorna el orden a llevar a cabo
- *
-*********************************************************************************/
-    bool operator<(const Word& other) const{
-        if (fragment.thread_number != other.fragment.thread_number)
-            return fragment.thread_number < other.fragment.thread_number;
-
-        else if (line != other.line)
-            return line < other.line;
-        else
-            return pos < other.pos;
-    }
-
 /*********************************************************************************
  * 
  * Nombre de la función: Word
