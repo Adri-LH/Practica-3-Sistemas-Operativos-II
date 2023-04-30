@@ -6,30 +6,13 @@
 
 class User{//Clase usuario
     public:
-        User(int _id){ //Constructor usuario
-        id = _id;
-        }
-    private:
-        int id;
-};
-
-class UserFree : protected User{ //Clase UserFree. Hereda de User
-    public:
-        UserFree(int _id, int _balance) : User(_id){ //Constructor UserFree
-        balance = _balance;
+        User(int _id, int _balance, bool premium, bool limited){ //Constructor usuario
+            id = _id;
+            balance = _balance;
         }
 
-    protected:
-        int balance;
+        User();
 
-};
-
-
-class UserPremiumLimited : protected UserFree{ //Clase UserPremiumLimited. Hereda de User
-    public:
-        UserPremiumLimited(int _id, int _balance) : UserFree(_id, _balance){
-            sem.lock(); //Se inicializa quedandose a 0. Con otro lock, se bloquea (-1)
-        }
         void balanceUp(double _balance){
             balance = _balance;
         }
@@ -47,20 +30,20 @@ class UserPremiumLimited : protected UserFree{ //Clase UserPremiumLimited. Hered
             sem.unlock();
         }
 
+        void setPremium(bool _premium){
+            premium = premium;
+        }
+
+        void setLimited(bool _limited){
+            limited = _limited;
+        }
+
     private:
+        int id;
+        int balance;
         std::mutex sem;
-
-};
-
-class UserPremium : protected User{
-    public:
-        UserPremium(int _id) : User(_id){}
+        bool premium, limited;
 
 };
 
 #endif
-
-
-
-
-                  

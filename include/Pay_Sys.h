@@ -19,16 +19,16 @@
 class Pay_Sys{
 public:    
 
-    void esperar(std::mutex& sem, std::condition_variable& cond_var, std::queue<std::shared_ptr<UserPremiumLimited>>& userpl_queue){
+    void paySysWorking(std::mutex& sem, std::condition_variable& cond_var, std::queue<std::shared_ptr<User>>& userpl_queue){
 
          
-        std::unique_lock<std::mutex> lock(sem); //Seccion critica
-        cond_var.wait(lock, [&userpl_queue] {return !(userpl_queue.empty());}); //Hay que añadir this
+        // std::unique_lock<std::mutex> lock(sem); //Seccion critica
+        // cond_var.wait(lock, [&userpl_queue] {return !(userpl_queue.empty());}); //Hay que añadir this
 
-        std::shared_ptr<UserPremiumLimited>& user = userpl_queue.front();
-        user->balanceUp(500);
-        std::cout << "Saldo recargado\n";
-        user->Unlock();
+        // std::shared_ptr<User>& user = userpl_queue.front();
+        // user->balanceUp(500);
+        // std::cout << "Saldo recargado\n";
+        // user->Unlock();
     
     }
     

@@ -18,6 +18,7 @@
 #include <fstream>
 #include <iostream>
 #include <fstream>
+#include <filesystem>
 
 /*********************************************************************************
  * 
@@ -191,6 +192,10 @@ std::string getLineByPosition(std::string path, int position)
 *********************************************************************************/
 std::vector<std::string> getFileWords(std::string path) {
     std::vector<std::string> palabras;
+    if (!std::filesystem::exists(path)) {
+        std::cerr << "Error: el archivo no existe\n";
+        return palabras;
+    }
     std::ifstream archivo(path);
     
     if (archivo.is_open()) {

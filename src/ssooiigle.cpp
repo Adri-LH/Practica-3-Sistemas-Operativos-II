@@ -81,13 +81,14 @@ int main(int argc, char *argv[])
 
     //Creamos buscadores
     createSearchersThreads(SEARCHERS_NUM);
-    std::vector<std::string> vectorr;
-    vectorr.push_back("../resources/prueba.txt");
-    std::shared_ptr<Request> request = std::make_shared<Request>(1, "David", vectorr);
-    request_queue.push(request);
+    //std::vector<std::string> vectorr;
+    //vectorr.push_back("../resources/prueba.txt");
+    //vectorr.push_back("../resources/21-LEYES-DEL-LIDERAZGO.txt");
+    //std::shared_ptr<Request> request = std::make_shared<Request>(1, "David", vectorr);
+    //request_queue.push(request);
     
     //Creamos usuarios y peticiones
-    //createUsersThreads(USERS_NUM);
+    createUsersThreads(USERS_NUM);
     
     
     T_Pay_Sys.join();
