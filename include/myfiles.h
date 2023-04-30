@@ -177,6 +177,32 @@ std::string getLineByPosition(std::string path, int position)
     return ""; // si no se encuentra la posición, devuelve una cadena vacía
 }
 
+/*********************************************************************************
+ * 
+ * Nombre de la función: getFileWords
+ *
+ *
+ * Descripción de la función: Devuelve un vector con las palabras de un archivo
+ * 
+ * Argumentos utilizados: 'path' ruta del archivo, 'position' entero indicando la posicion
+ * 
+ * Valor de regreso: string retorna la linea a la que pertence la posion
+ *
+*********************************************************************************/
+std::vector<std::string> getFileWords(std::string path) {
+    std::vector<std::string> palabras;
+    std::ifstream archivo(path);
+    
+    if (archivo.is_open()) {
+        std::string palabra;
+        while (archivo >> palabra) {
+            palabras.push_back(palabra);
+        }
+        archivo.close();
+    }
+
+    return palabras;
+}
 
 
 #endif

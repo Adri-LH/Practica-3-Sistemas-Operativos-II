@@ -22,19 +22,36 @@
 #include <mutex>
 #include <shared_mutex>
 #include <regex>
+#include <condition_variable>
+#include <queue>
+#include <unistd.h>
 
-#include "../include/word.h"
+
+#include "../include/Result.h"
 #include "../include/myfiles.h"
+#include "../include/User.h"
+#include "../include/Pay_Sys.h"
+
 
 #define WORD_FINDER 4;  //Numero de buscadores
 #define USERS_NUM 50;   //Numero de usuarios. Sus perfiles serán aleatorios.
 
+void createPaySys();
+
 void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int linea_final, int id_thread);
 
-std::vector<Word> words_found;
+//Memorias compartidas (no todas lo tendran que ser)
+std::vector<std::string> dictionary;
+std::vector<Result> results;
 std::vector<std::thread> vhilos;
 std::shared_mutex buffer_mutex;
 
+//Para el sistema de pago
+std::mutex sem_userpl_queue;
+std::queue<std::shared_ptr<UserPremiumLimited>> userpl_queue;
+std::condition_variable cond_var_userpl_queue;
+
+std::shared_ptr<UserPremiumLimited> user = std::make_shared<UserPremiumLimited>(1, 100);
 int main(int argc, char *argv[])
 {
     //Control de argumentos
@@ -44,9 +61,17 @@ int main(int argc, char *argv[])
         return EXIT_FAILURE;
     }
 
-    //Creamos el sistema de pago. Será un proceso
+    //Creamos el diccionario
+    dictionary = getFileWords("../resources/diccionario.txt"); 
 
+    //Creamos hilo del Sistema de Pago
+    std::thread T_Pay_Sys(createPaySys);
+    T_Pay_Sys.join();
+    user->mostrarSaldo();
+    user->Saludar();
 
+    
+    
 }
 
 /*********************************************************************************
@@ -66,6 +91,7 @@ int main(int argc, char *argv[])
  *
 *********************************************************************************/
 void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int linea_final, int id_thread) {
+    Result result(id_thread, linea_inicial, linea_final, palabra);
 
     //Convertir palabra a minuscula
     std::transform(palabra.begin(), palabra.end(), palabra.begin(), [](unsigned char c){ return std::tolower(c); });
@@ -100,11 +126,9 @@ void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int
                 
                 pos += palabra.length();
 
-                Word word(id_thread,linea_inicial,linea_final, num_linea + 1, previous, last, pos); //Borrar el + 1 en caso de que sea necesario (linea 0 o linea 1)
-                
-                //Actualizamos vector con la ayuda del mutex
                 std::unique_lock<std::shared_mutex> lock(buffer_mutex);
-                words_found.emplace_back(word);
+                result.add_Result(num_linea + 1, previous, last);
+
                 lock.unlock();
                 
             }
@@ -114,8 +138,20 @@ void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int
         num_linea++;
         
     }
+
+    //Reciclamos semaforo
+    std::unique_lock<std::shared_mutex> lock(buffer_mutex);
+    results.push_back(result);
+    lock.unlock();
     
     // Cerrar el archivo
     archivo.close();
 
+}
+
+void createPaySys(){
+    Pay_Sys Paysystem;
+    userpl_queue.push(user);
+    Paysystem.esperar(std::ref(sem_userpl_queue), std::ref(cond_var_userpl_queue), userpl_queue);
+    
 }

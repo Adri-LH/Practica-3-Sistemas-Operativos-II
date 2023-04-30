@@ -17,23 +17,19 @@
 #define balance 200 //Cantidad de recargo
 
 class Pay_Sys{
-public:
+public:    
 
-    std::shared_ptr<std::mutex> sem; //Deberá asignarse antes de asociar el objeto a un hilo. Semaforo para cola de recargos
-    std::shared_ptr<std::condition_variable> cond_var; //Deberá asignarse antes de asociar el objeto a un hilo
-    std::shared_ptr<std::queue<std::shared_ptr<User>>> user_queue; //Deberá asignarse antes de asociar el objeto a un hilo
+    void esperar(std::mutex& sem, std::condition_variable& cond_var, std::queue<std::shared_ptr<UserPremiumLimited>>& userpl_queue){
 
-    void operator ()(){
+         
+        std::unique_lock<std::mutex> lock(sem); //Seccion critica
+        cond_var.wait(lock, [&userpl_queue] {return !(userpl_queue.empty());}); //Hay que añadir this
 
-        while(true){
-        std::unique_lock<std::mutex> lock(*sem); //Seccion critica
-        (*cond_var).wait(lock, [this] {return ((*user_queue).empty());}); //Hay que añadir this
-
-        User user = (*(*user_queue).front()); //Ni de coña funciona
-        (*user_queue).pop();
-        user.setBalance(balance);
-
+        std::shared_ptr<UserPremiumLimited>& user = userpl_queue.front();
+        user->balanceUp(500);
+        std::cout << "Saldo recargado\n";
+        user->Unlock();
+    
     }
-
-    }
+    
 };
