@@ -31,27 +31,38 @@
 #include "../include/myfiles.h"
 #include "../include/User.h"
 #include "../include/Pay_Sys.h"
+#include "../include/Request.h"
+#include "../include/Searcher.h"
 
 
-#define WORD_FINDER 4;  //Numero de buscadores
-#define USERS_NUM 50;   //Numero de usuarios. Sus perfiles serán aleatorios.
+#define SEARCHERS_NUM 4  //Numero de buscadores
+#define USERS_NUM 2   //Numero de usuarios. Sus perfiles serán aleatorios.
 
 void createPaySys();
-
-void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int linea_final, int id_thread);
+void createUsersThreads(int num_users);
+void createRequest(int user_id);
+void createSearchersThreads(int num_searchers);
 
 //Memorias compartidas (no todas lo tendran que ser)
 std::vector<std::string> dictionary;
-std::vector<Result> results;
-std::vector<std::thread> vhilos;
-std::shared_mutex buffer_mutex;
+std::vector<std::thread> user_threads;
+std::vector<std::thread> searcher_threads;
 
 //Para el sistema de pago
-std::mutex sem_userpl_queue;
-std::queue<std::shared_ptr<UserPremiumLimited>> userpl_queue;
-std::condition_variable cond_var_userpl_queue;
+std::mutex sem_system_pay_queue;
+std::queue<std::shared_ptr<User>> system_pay_queue;
+std::condition_variable cond_var_system_pay_queue;
 
-std::shared_ptr<UserPremiumLimited> user = std::make_shared<UserPremiumLimited>(1, 100);
+//Para el sistema de búsqueda
+std::queue<std::shared_ptr<Request>> request_queue;
+
+//Para los buscadores
+std::condition_variable cond_var_request_queue;
+std::mutex sem_request_queue;
+
+
+
+//std::shared_ptr<UserPremiumLimited> user = std::make_shared<UserPremiumLimited>(1, 100);
 int main(int argc, char *argv[])
 {
     //Control de argumentos
@@ -62,96 +73,99 @@ int main(int argc, char *argv[])
     }
 
     //Creamos el diccionario
-    dictionary = getFileWords("../resources/diccionario.txt"); 
+    dictionary = getFileWords("../resources/Diccionario.txt");
 
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
+
+
+    //Creamos buscadores
+    createSearchersThreads(SEARCHERS_NUM);
+    std::vector<std::string> vectorr;
+    vectorr.push_back("../resources/prueba.txt");
+    std::shared_ptr<Request> request = std::make_shared<Request>(1, "David", vectorr);
+    request_queue.push(request);
+    
+    //Creamos usuarios y peticiones
+    //createUsersThreads(USERS_NUM);
+    
+    
     T_Pay_Sys.join();
-    user->mostrarSaldo();
-    user->Saludar();
+    //std::for_each(user_threads.begin(), user_threads.end(), std::mem_fn(&std::thread::join));
+    std::for_each(searcher_threads.begin(), searcher_threads.end(), std::mem_fn(&std::thread::join));
 
-    
-    
-}
-
-/*********************************************************************************
- * 
- * Nombre de la función: buscarPalabra
- *
- *
- * Descripción de la función: Este metodo buscara la palabra facilitada por el usuario y 
- * facilitando la palabra anterior y posterior
- *
- * Argumentos utilizados: 'ruta' ruta del archivo en el que buscaremos, 'palabra' sera la 
- * palabra a buscar 'linea_inicial' sera la linea por la que empezara a buscar cada hilo 
- * 'linea_final' sera la linea en la que termine la busqueda de palabras 'id_thread' 
- * identificador del hilo
- * 
- * Valor de regreso: void (no retorna nada )
- *
-*********************************************************************************/
-void buscarPalabra(std::string ruta, std::string palabra, int linea_inicial, int linea_final, int id_thread) {
-    Result result(id_thread, linea_inicial, linea_final, palabra);
-
-    //Convertir palabra a minuscula
-    std::transform(palabra.begin(), palabra.end(), palabra.begin(), [](unsigned char c){ return std::tolower(c); });
-    
-    //Comprobamos si el fichero se abre
-    std::fstream archivo = openFileRead(ruta);
-    if (!archivo)
-        exit(1);
-
-    std::string linea;
-    int num_linea = 0;
-
-    while (std::getline(archivo, linea)) {
-        if (num_linea >= linea_inicial && num_linea <= linea_final) {
-
-            // Convertir la línea a minúsculas
-            std::string line_lower = linea;
-            std::transform(line_lower.begin(), line_lower.end(), line_lower.begin(), [](unsigned char c){ return std::tolower(c); });
-
-            // Buscar la palabra en la línea
-            int pos = 0;
-            while ((pos = line_lower.find(palabra, pos)) != std::string::npos) {
-                                
-                std::string previous = getRelativeWord(linea, pos, false);  //Palabra anterior
-                std::string last = getRelativeWord(linea, pos, true);       //Palabra posterior
-
-                if (previous.empty() || previous==" ") {
-                    previous="no_word";
-                } else if(last.empty()|| last==" "){
-                    last="no_word";
-                }
-                
-                pos += palabra.length();
-
-                std::unique_lock<std::shared_mutex> lock(buffer_mutex);
-                result.add_Result(num_linea + 1, previous, last);
-
-                lock.unlock();
-                
-            }
-            
-        }
-        
-        num_linea++;
-        
-    }
-
-    //Reciclamos semaforo
-    std::unique_lock<std::shared_mutex> lock(buffer_mutex);
-    results.push_back(result);
-    lock.unlock();
-    
-    // Cerrar el archivo
-    archivo.close();
 
 }
 
 void createPaySys(){
     Pay_Sys Paysystem;
-    userpl_queue.push(user);
-    Paysystem.esperar(std::ref(sem_userpl_queue), std::ref(cond_var_userpl_queue), userpl_queue);
+    //userpl_queue.push(user);
+    Paysystem.paySysWorking(std::ref(sem_system_pay_queue), std::ref(cond_var_system_pay_queue), system_pay_queue);
     
+}
+
+//Cada usuario será un hilo
+void createRandomUser(int user_id){
+    //Creacion usuario
+    std::shared_ptr<User> user = std::make_shared<User>(user_id, 500, false, false);
+    
+    srand(time(nullptr));
+    int random_number = rand() % 2 + 0;
+
+    switch (random_number){
+        case 0:
+            //Usuario gratuito
+            break;
+        
+        case 1:
+            //Usuario PremiumLimited
+            user->setLimited(true);
+            break;
+        
+        case 2:
+            //Usuario Premium
+            user->setPremium(true);
+            break;
+    }
+
+    createRequest(user_id);
+    
+}
+
+void createRequest(int user_id){
+    //Para el diccionario
+    srand(time(nullptr));
+    int random_number = rand() % 35 + 0;
+
+    std::string word = dictionary[random_number];
+
+    //Archivos a buscar
+    std::vector<std::string> files;
+    files.push_back("../resources/21-LEYES-DEL-LIDERAZGO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+
+    //Peticion de busqueda
+    std::shared_ptr<Request> request = std::make_shared<Request>(user_id, word, files);
+    request_queue.push(request);
+}
+
+void createUsersThreads(int num_users){
+    
+    for(int i = 0; i < num_users; i++){
+        user_threads.push_back(std::thread(createRandomUser, i));
+    }
+
+    
+}
+
+void createSearchers(int searcher_id){
+    Searcher searcher = Searcher(searcher_id);
+    searcher.searcherWorking(std::ref(sem_request_queue), std::ref(cond_var_request_queue), request_queue);
+}
+
+void createSearchersThreads(int num_searchers){
+    
+    for(int i = 0; i < num_searchers; i++){
+        searcher_threads.push_back(std::thread(createSearchers, i));
+    }
+
 }
