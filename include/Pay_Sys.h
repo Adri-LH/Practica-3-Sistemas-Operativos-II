@@ -21,7 +21,6 @@ public:
 
     void paySysWorking(std::mutex& sem, std::condition_variable& cond_var, std::queue<std::shared_ptr<User>>& userpl_queue){
 
-         
         // std::unique_lock<std::mutex> lock(sem); //Seccion critica
         // cond_var.wait(lock, [&userpl_queue] {return !(userpl_queue.empty());}); //Hay que añadir this
 

@@ -78,6 +78,7 @@ int main(int argc, char *argv[])
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
 
+    //createUsersThreads(USERS_NUM);
 
     //Creamos buscadores
     createSearchersThreads(SEARCHERS_NUM);
@@ -88,7 +89,7 @@ int main(int argc, char *argv[])
     //request_queue.push(request);
     
     //Creamos usuarios y peticiones
-    createUsersThreads(USERS_NUM);
+    
     
     
     T_Pay_Sys.join();
@@ -133,6 +134,14 @@ void createRandomUser(int user_id){
     
 }
 
+void createUsersThreads(int num_users){
+    
+    for(int i = 0; i < num_users; i++){
+        user_threads.push_back(std::thread(createRandomUser, i));
+    }
+
+}
+
 void createRequest(int user_id){
     //Para el diccionario
     srand(time(nullptr));
@@ -149,14 +158,6 @@ void createRequest(int user_id){
     request_queue.push(request);
 }
 
-void createUsersThreads(int num_users){
-    
-    for(int i = 0; i < num_users; i++){
-        user_threads.push_back(std::thread(createRandomUser, i));
-    }
-
-    
-}
 
 void createSearchers(int searcher_id){
     Searcher searcher = Searcher(searcher_id);

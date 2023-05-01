@@ -24,7 +24,7 @@
 #define SUBTHREADS 2//Numero de subhilos que buscan en un mismo documento
 
 void searchWords(std::string file, std::string word, int linea_inicial, int linea_final, int id_searcher, int id_thread);
-void prepareThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher);
+void prepareSubThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher);
 
 std::vector<Result> results;
 std::vector<std::thread> subhilos;
@@ -42,7 +42,7 @@ class Searcher{
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
 
             std::shared_ptr<Request>& request = request_queue.front();
-            prepareThreads(request->GetFiles(), request->getWord(), SUBTHREADS, id_searcher);
+            prepareSubThreads(request->GetFiles(), request->getWord(), SUBTHREADS, id_searcher);
         
         }
         
@@ -50,7 +50,7 @@ class Searcher{
         
 };
 
-void prepareThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher){
+void prepareSubThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher){
         for(int i = 0; i < files.size(); i++){
         
             //Es posible que haya problemas si los archivos no existen
@@ -74,9 +74,6 @@ void prepareThreads(std::vector<std::string> files, std::string word, int num_th
                 final = final + (thread_work);
 
             }
-
-            
-            
 
         }
 
