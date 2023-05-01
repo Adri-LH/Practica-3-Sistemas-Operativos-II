@@ -43,9 +43,9 @@ public:
         return user;
     }
 
-    std::string setSearchResult(std::string _search_result){
-        search_result = _search_result;
-    }
+    // std::string setSearchResult(std::string _search_result){
+    //     search_result = _search_result;
+    // }
 
 };
 

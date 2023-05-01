@@ -36,7 +36,7 @@
 
 
 #define SEARCHERS_NUM 4  //Numero de buscadores
-#define USERS_NUM 4   //Numero de usuarios. Sus perfiles serán aleatorios.
+#define USERS_NUM 1   //Numero de usuarios. Sus perfiles serán aleatorios.
 
 void createPaySys();
 void createUsersThreads(int num_users);
@@ -154,7 +154,7 @@ void createRandomUser(int user_id){
 
 
     user->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
-    user->saludar();
+    //user->saludar();
 
     //Creamos el archivo txt que guarda la petición y el resultado
     std::string path = "../user_results/" + std::to_string(user_id) + ".txt";

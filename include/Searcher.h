@@ -24,14 +24,14 @@
 #include "../include/Request.h"
 
 #define SUBTHREADS 2//Numero de subhilos que buscan en un mismo documento
-#define USERS 4 //Borrar despues, esto es solo para pruebas. debe ser igual a USERS_NUM del main.cpp
+#define USERS 1 //Borrar despues, esto es solo para pruebas. debe ser igual a USERS_NUM del main.cpp
 
 void searchWords(std::string file, std::string word, int linea_inicial, int linea_final, int id_searcher, int id_thread);
 void prepareSubThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher);
 
 std::vector<Result> results;
 std::shared_mutex mutex_results;
-std::atomic<int> buc (1);
+std::atomic<int> buc (0);
 
 class Searcher{
     public:
@@ -58,9 +58,10 @@ class Searcher{
 
             }
 
-            // for (int i = 0; i < results.size(); i++) {
-            //     results[i].PrintResults();
-            // }
+            //std::cout << "Termine" << std::endl;
+            for (int i = 0; i < results.size(); i++) {
+                results[i].PrintResults();
+            }
             
         }
         
