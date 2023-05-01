@@ -9,6 +9,7 @@ class User{//Clase usuario
         User(int _id, int _balance, bool premium, bool limited){ //Constructor usuario
             id = _id;
             balance = _balance;
+            
         }
 
         User();
@@ -21,13 +22,12 @@ class User{//Clase usuario
             std::cout << balance << "\n";
         }
 
-        void Saludar(){
-            sem.lock();
-            std::cout << "Hola\n";
-        }
-
         void Unlock(){
             sem.unlock();
+        }
+
+        void lock(){
+            sem.lock();
         }
 
         void setPremium(bool _premium){
@@ -37,6 +37,16 @@ class User{//Clase usuario
         void setLimited(bool _limited){
             limited = _limited;
         }
+
+        int getID(){
+            return id;
+        }
+
+        void saludar(){
+            std::unique_lock<std::mutex> lock(sem);
+            std::cout << "Hola" << std::endl;
+        }
+
 
     private:
         int id;

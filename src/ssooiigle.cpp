@@ -36,7 +36,7 @@
 
 
 #define SEARCHERS_NUM 4  //Numero de buscadores
-#define USERS_NUM 2   //Numero de usuarios. Sus perfiles serán aleatorios.
+#define USERS_NUM 4   //Numero de usuarios. Sus perfiles serán aleatorios.
 
 void createPaySys();
 void createUsersThreads(int num_users);
@@ -78,8 +78,6 @@ int main(int argc, char *argv[])
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
 
-    //createUsersThreads(USERS_NUM);
-
     //Creamos buscadores
     createSearchersThreads(SEARCHERS_NUM);
     //std::vector<std::string> vectorr;
@@ -89,11 +87,12 @@ int main(int argc, char *argv[])
     //request_queue.push(request);
     
     //Creamos usuarios y peticiones
+    createUsersThreads(USERS_NUM);
     
     
     
     T_Pay_Sys.join();
-    //std::for_each(user_threads.begin(), user_threads.end(), std::mem_fn(&std::thread::join));
+    std::for_each(user_threads.begin(), user_threads.end(), std::mem_fn(&std::thread::join));
     std::for_each(searcher_threads.begin(), searcher_threads.end(), std::mem_fn(&std::thread::join));
 
 
@@ -106,8 +105,24 @@ void createPaySys(){
     
 }
 
+std::string getRandomWordDictionary(){
+    srand(time(nullptr));
+    int random_number = rand() % 35 + 0;
+
+    //return dictionary[random_number];
+    return "David";
+}
+
+std::vector<std::string> getRandomFiles(){
+    //Archivos a buscar
+    std::vector<std::string> files;
+    files.push_back("../resources/prueba.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    files.push_back("../resources/VIVE-TU-SUEÑO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    return files;
+}
+
 //Cada usuario será un hilo
-void createRandomUser(int user_id){
+void createRandomUser(int user_id){ 
     //Creacion usuario
     std::shared_ptr<User> user = std::make_shared<User>(user_id, 500, false, false);
     
@@ -130,7 +145,20 @@ void createRandomUser(int user_id){
             break;
     }
 
-    createRequest(user_id);
+    std::string word = getRandomWordDictionary();
+    std::vector<std::string> files = getRandomFiles();
+
+    std::shared_ptr<Request> request = std::make_shared<Request>(user, word, files);
+    request_queue.push(request);
+    cond_var_request_queue.notify_all(); //Avisamos a un buscador de que hay una peticion
+
+
+    user->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
+    user->saludar();
+
+    //Creamos el archivo txt que guarda la petición y el resultado
+    std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
+    writeFile(path, request->requestToString());
     
 }
 
@@ -140,22 +168,6 @@ void createUsersThreads(int num_users){
         user_threads.push_back(std::thread(createRandomUser, i));
     }
 
-}
-
-void createRequest(int user_id){
-    //Para el diccionario
-    srand(time(nullptr));
-    int random_number = rand() % 35 + 0;
-
-    std::string word = dictionary[random_number];
-
-    //Archivos a buscar
-    std::vector<std::string> files;
-    files.push_back("../resources/21-LEYES-DEL-LIDERAZGO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
-
-    //Peticion de busqueda
-    std::shared_ptr<Request> request = std::make_shared<Request>(user_id, word, files);
-    request_queue.push(request);
 }
 
 

@@ -13,12 +13,19 @@
 #ifndef MYFILES_H
 #define MYFILES_H
 
-#include <iostream>
 #include <thread>
-#include <fstream>
 #include <iostream>
 #include <fstream>
 #include <filesystem>
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <stdlib.h>
+#include <dirent.h>
+#include <string.h>
+#include <unistd.h>
+#include <errno.h>
 
 /*********************************************************************************
  * 
@@ -209,5 +216,17 @@ std::vector<std::string> getFileWords(std::string path) {
     return palabras;
 }
 
+/*Descripcion: Introduce texto (text) a un archivo (path). Si no existe, se crea*/
+void writeFile(const std::string path, const std::string text)
+{
+    FILE *p_src_file = fopen(path.c_str(), "a");
+    if (p_src_file == NULL)
+    {
+        printf("Error opening source file: %s\n", path.c_str());
+    }
+
+    fprintf(p_src_file, "%s\n", text.c_str());
+    fclose(p_src_file);
+}
 
 #endif

@@ -1,0 +1,8 @@
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/VIVE-TU-SUEÑO.txt
+
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 1, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
