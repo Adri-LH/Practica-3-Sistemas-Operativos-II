@@ -5,7 +5,7 @@ DIRSRC := src/
 DIRRES := resources/
 
 CFLAGS := -I$(DIRHEA) -c 
-LDLIBS := -lpthread -lrt
+LDLIBS := -lpthread -lrt -std=c++17
 CC := g++
 
 all : dirs ssooiicle
