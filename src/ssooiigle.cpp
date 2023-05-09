@@ -73,7 +73,7 @@ int main(int argc, char *argv[])
     }
 
     //Creamos el diccionario
-    dictionary = getFileWords("resources/Diccionario.txt");
+    dictionary = getFileWords("../resources/Diccionario.txt");
 
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
@@ -116,8 +116,8 @@ std::string getRandomWordDictionary(){
 std::vector<std::string> getRandomFiles(){
     //Archivos a buscar
     std::vector<std::string> files;
-    files.push_back("resources/prueba.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
-    files.push_back("resources/VIVE-TU-SUEÑO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    files.push_back("../resources/prueba.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    files.push_back("../resources/VIVE-TU-SUEÑO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
     return files;
 }
 
@@ -157,7 +157,7 @@ void createRandomUser(int user_id){
     //user->saludar();
 
     //Creamos el archivo txt que guarda la petición y el resultado
-    std::string path = "user_results/" + std::to_string(user_id) + ".txt";
+    std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
     writeFile(path, request->requestToString());
     
 }

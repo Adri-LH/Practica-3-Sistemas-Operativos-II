@@ -12,3 +12,4 @@ Usuario con ID 0, has buscado la palabra 'David' en los archivos ../resources/pr
 Usuario con ID 0, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
 Usuario con ID 0, has buscado la palabra 'David' en los archivos resources/prueba.txt resources/VIVE-TU-SUEÑO.txt 
 Usuario con ID 0, has buscado la palabra 'David' en los archivos resources/prueba.txt resources/VIVE-TU-SUEÑO.txt 
+Usuario con ID 0, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
