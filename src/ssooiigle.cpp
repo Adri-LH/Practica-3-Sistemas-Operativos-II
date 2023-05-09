@@ -148,17 +148,18 @@ void createRandomUser(int user_id){
     std::string word = getRandomWordDictionary();
     std::vector<std::string> files = getRandomFiles();
 
-    std::shared_ptr<Request> request = std::make_shared<Request>(user, word, files);
-    request_queue.push(request);
+    //std::shared_ptr<Request> request = std::make_shared<Request>(word, files, user->getSemUser(), user->getResult());
+    user->makeRequest(word, files);
+    request_queue.push(user->getRequest());
     cond_var_request_queue.notify_all(); //Avisamos a un buscador de que hay una peticion
 
 
-    user->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
-    //user->saludar();
+    user->getSemUser()->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
+    user->saludar();
 
     //Creamos el archivo txt que guarda la petición y el resultado
-    std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
-    writeFile(path, request->requestToString());
+    //std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
+    //writeFile(path, request->requestToString());
     
 }
 

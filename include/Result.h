@@ -52,6 +52,8 @@ class Result {
             word = _word;
         }
 
+        Result(){};
+
         void PrintResults(){
             for (int i = 0; i < results.size(); i++){
                 std::cout <<"Buscador: " << id_searcher << " Archivo: " << results[i].file << " Hilo: " << thread_number << " inicio: " << line_i << " final: " << line_f <<
