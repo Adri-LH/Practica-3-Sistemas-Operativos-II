@@ -1,0 +1,4 @@
+***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::    ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::     *****
+Buscador: 0 Hilo: 1 no encontró ningún resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+Buscador: 0 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/El-oro-y-la-ceniza.txt
+

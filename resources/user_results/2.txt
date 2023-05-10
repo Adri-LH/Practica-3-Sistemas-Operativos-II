@@ -1,0 +1,3 @@
+***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt::     *****
+Buscador: 1 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+

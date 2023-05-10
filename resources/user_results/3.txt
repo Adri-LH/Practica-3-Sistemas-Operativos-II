@@ -1,0 +1,3 @@
+***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
+Buscador: 4 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+

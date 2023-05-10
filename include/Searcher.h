@@ -21,11 +21,13 @@
 #include "../include/Result.h"
 #include "../include/myfiles.h"
 #include "../include/Request.h"
+#include "../include/Global_Vars.h"
 
 void searchWords(std::string file, std::string word, int id_searcher, int id_thread);
 void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher);
 
 std::shared_mutex mutex_results;
+std::atomic<int> user_counter(0);
 
 class Searcher{
     public:
@@ -41,7 +43,7 @@ class Searcher{
 
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
-            while (true){
+            while (user_counter != USERS_NUM){
             
             //Espera entrada seccion critica con semáforo y variable de concición
             std::unique_lock<std::mutex> lock(sem_request_queue);
@@ -55,9 +57,14 @@ class Searcher{
             //Imprimimos información
             std::cout << color << "Buscador " << id_searcher << ": procesará la petición del Usuario " << current_request->getUserId() << std::endl;
 
-            //Obtenemos por referencia el resultado del usuario
+            //Obtenemos por referencia el resultado del usuario e indicamos que buscador ha atendido la petición y la palabra que se ha buscado
             current_result = current_request->getResult();
+            current_result-> setIdSearcher(id_searcher);
+            current_result->setWordSearched(current_request->getWord());
+
             request_queue.pop();
+
+            user_counter++;
             lock.unlock();
 
             //Se preparan los hilos para la búsqueda de palabra
@@ -70,6 +77,7 @@ class Searcher{
             std::cout << color << "Buscador " << id_searcher << ": ha finalizado la petición del Usuario " << current_request->getUserId()
             << ", se desbloqueará su semáforo" << std::endl;
 
+            
             }
             
         }
@@ -107,7 +115,7 @@ class Searcher{
     *********************************************************************************/
     void searchWords(std::string file, std::string word, int id_searcher, int id_thread) {
 
-            Searcher_Result_Info searcher_result (id_searcher, id_thread, file);
+            File_Result_Info searcher_result (id_thread, file);
 
             std::transform(word.begin(), word.end(), word.begin(), [](unsigned char c){ return std::tolower(c); });
                 
@@ -145,16 +153,18 @@ class Searcher{
                         Word_Found_Info word_found(num_linea+1, previous, last);
                         searcher_result.addWordFound(word_found);
 
-                    }
-            
+                    } int random_number = rand() % 2 + 0;
+                
                 num_linea++;
             
             }
 
+            archivo.close();
+
             std::unique_lock<std::shared_mutex> lock(mutex_results);
             current_result -> addSearcherResultInfo(searcher_result);
 
-            archivo.close();
+            
             
     }
         

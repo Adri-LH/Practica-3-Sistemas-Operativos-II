@@ -1,0 +1,4 @@
+***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt::    ::../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt::     *****
+Buscador: 1 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+Buscador: 1 Hilo: 1 no encontró ningún resultado en el archivo../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+

@@ -31,16 +31,14 @@ class Word_Found_Info{
 
 };
 
-class Searcher_Result_Info{
+class File_Result_Info{
 
     public:
-        int id_searcher;
         int id_thread;
         std::string file;
         std::vector<Word_Found_Info> words_found;
 
-        Searcher_Result_Info(int _id_searcher, int _id_thread, std::string _file){
-            id_searcher = _id_searcher;
+        File_Result_Info(int _id_thread, std::string _file){
             id_thread = _id_thread;
             file = _file;
         }
@@ -55,20 +53,40 @@ class Searcher_Result_Info{
 class Result{
 
     public:
-        std::vector<Searcher_Result_Info> searcher_result_info;
+        int id_searcher;
+        std::string word_searched;
+        std::vector<File_Result_Info> searcher_result_info;
+
         Result(){};
-        void addSearcherResultInfo(Searcher_Result_Info searcher){
-            searcher_result_info.push_back(searcher);
+
+        void addSearcherResultInfo(File_Result_Info file_result){
+            searcher_result_info.push_back(file_result);
         }
 
-    std::string resultToString(){
-        std::string result;
-        for(int i = 0; i < searcher_result_info.size(); i++)
-            for (int j = 0; j < searcher_result_info[i].words_found.size(); j++)
-                result += "Buscador: " + std::to_string(searcher_result_info[i].id_searcher) + " Hilo: " + std::to_string(searcher_result_info[i].id_thread)
-                + " Archivo: " + searcher_result_info[i].file + " Linea: " + std::to_string(searcher_result_info[i].words_found[j].line)
-                + " --> " + searcher_result_info[i].words_found[j].previous_word + " " + searcher_result_info[i].words_found[j].later_word +  "\n";
-        return result;
+        void setIdSearcher(int _id_searcher){
+            id_searcher = _id_searcher;
+        }
+
+        void setWordSearched(std::string _word_searched){
+            word_searched = _word_searched;
+        }
+
+        std::string resultToString(){
+            std::string result;
+            for(int i = 0; i < searcher_result_info.size(); i++){
+                if (searcher_result_info[i].words_found.size() == 0) result+= "Buscador: " + std::to_string(id_searcher) 
+                + " Hilo: " + std::to_string(searcher_result_info[i].id_thread) + " no encontró ningún resultado en el archivo"
+                + searcher_result_info[i].file + "\n";
+
+                else
+                for (int j = 0; j < searcher_result_info[i].words_found.size(); j++)
+                    result += "Buscador: " + std::to_string(id_searcher) + " Hilo: " + std::to_string(searcher_result_info[i].id_thread)
+                    + " Archivo: " + searcher_result_info[i].file + " Linea: " + std::to_string(searcher_result_info[i].words_found[j].line)
+                    + " --> " + searcher_result_info[i].words_found[j].previous_word + " " + word_searched +" " 
+                    + searcher_result_info[i].words_found[j].later_word +  "\n";
+            }
+                
+            return result;
     }
         
 };

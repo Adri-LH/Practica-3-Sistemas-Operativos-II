@@ -244,4 +244,53 @@ void writeFile(const std::string path, const std::string text)
     fclose(p_src_file);
 }
 
+/*Descripcion: Devuelve un vector de strings con todos los nombres de archivos de un determinado directorio*/
+std::vector<std::string> getFilesInDirectory(const std::string& directoryPath)
+{
+    std::vector<std::string> files;
+
+    for (const auto& entry : std::filesystem::directory_iterator(directoryPath))
+    {
+        if (entry.is_regular_file())
+        {
+            files.push_back(entry.path().filename().string());
+        }
+    }
+
+    return files;
+}
+
+/*Descripcion: Devuelve un numero entre min y max*/
+int getRandomNumber(int min, int max){
+    static std::mt19937 mt(std::chrono::system_clock::now().time_since_epoch().count());
+    std::uniform_int_distribution<int> dist(min, max);
+
+    return dist(mt);
+}
+
+/*Descripcion: Borra el contenido de un directorio*/
+void deleteDirectoryFiles(const std::string& directory)
+{
+    std::vector<std::string> files;
+
+    for (const auto& entry : std::filesystem::directory_iterator(directory))
+    {
+        if (!entry.is_directory())
+        {
+            files.push_back(entry.path().string());
+        }
+    }
+
+    while (!files.empty())
+    {
+        const auto file = files.back();
+        files.pop_back();
+
+        if (std::remove(file.c_str()) != 0)
+        {
+            std::cerr << "Error deleting file: " << file << std::endl;
+        }
+    }
+}
+
 #endif

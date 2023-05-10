@@ -1,0 +1,3 @@
+***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::     *****
+Buscador: 3 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/El-oro-y-la-ceniza.txt
+
