@@ -155,8 +155,10 @@ void createRandomUser(int user_id){
 
 
     user->getSemUser()->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
-    user->saludar();
+    //user->saludar();
 
+    std::unique_lock<std::mutex> lock(*(user->getSemUser()));
+    user->getResult()->printResult();
     //Creamos el archivo txt que guarda la petición y el resultado
     //std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
     //writeFile(path, request->requestToString());

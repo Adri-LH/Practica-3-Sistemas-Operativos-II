@@ -54,6 +54,10 @@ public:
         return sem_user;
     }
 
+    std::shared_ptr<Result> getResult(){
+        return result;
+    }
+
     // std::string requestToString(){
     //     std::string request_string = "Usuario con ID " + std::to_string(user->getID()) + ", has buscado la palabra '" + word + "' en los archivos ";
     //     for (int i = 0; i < files.size(); i++)

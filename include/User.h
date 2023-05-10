@@ -62,6 +62,12 @@ class User{//Clase usuario
             request -> setSemUser(sem);
             request -> setResult(result);
         }
+        
+        // void printResults(){
+        //     for(int i=0; i < result->size(); i++){
+        //         std::cout <<"dfdf" <<std::endl;
+        //     }
+        // } 
 
 
 
