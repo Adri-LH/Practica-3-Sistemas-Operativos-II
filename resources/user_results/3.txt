@@ -1,3 +1,77 @@
-***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
-Buscador: 4 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+***** Saludos usuario, has buscado la palabra 'Sangre' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::    ::../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt::    ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
+
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7471 --> la Sangre de
+
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 967 --> la Sangre que
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4128 --> la Sangre de
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5477 --> s Sangre y
+
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 152 --> era Sangre ravesé
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 173 --> la Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 181 --> de Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 196 --> la Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 197 --> la Sangre que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 240 --> cuya Sangre se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 578 --> mi Sangre era
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1427 --> La Sangre orreó
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2198 --> en Sangre recía
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2221 --> la Sangre que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3008 --> la Sangre día
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3134 --> la Sangre que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3141 --> Era Sangre lo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3142 --> hombres Sangre muerta
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3145 --> una Sangre ura,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3145 --> una Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3148 --> s Sangre de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3148 --> misma Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3149 --> la Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3151 --> la Sangre ahora
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4006 --> no_word Sangre pero
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4333 --> la Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4352 --> de Sangre negra
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4384 --> era Sangre Sangraba
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4392 --> s Sangre se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4392 --> la Sangre putrefacta
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4421 --> de Sangre coagulada
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4445 --> noche Sangre  L
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4755 --> de Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5390 --> su Sangre separado
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5790 --> roja Sangre se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6286 --> sino Sangre sangre
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6286 --> sangre Sangre ubicunda,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6432 --> la Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6435 --> de Sangre día
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6453 --> eaba s Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6456 --> la Sangre Cual
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6820 --> de Sangre Dice
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6878 --> la Sangre alemana
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7047 --> la Sangre  d
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7048 --> la Sangre de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7090 --> esa Sangre que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7166 --> su Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7315 --> de Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7345 --> la Sangre que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7553 --> y Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7689 --> la Sangre  mal
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8023 --> y Sangre se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8075 --> las Sangre de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8295 --> escupí Sangre no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8298 --> no_word Sangre caiga
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8516 --> La Sangre la
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8692 --> en Sangre los
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8797 --> su Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8824 --> de Sangre �a,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8890 --> no_word Sangre a
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8945 --> s Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9543 --> no_word Sangre me
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10644 --> la Sangre mala
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11136 --> su Sangre scura,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11255 --> la Sangre uerí
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11286 --> de Sangre sus
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11310 --> la Sangre de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11311 --> la Sangre y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11655 --> de Sangre en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11670 --> de Sangre sos
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11683 --> de Sangre Tiene
+
 

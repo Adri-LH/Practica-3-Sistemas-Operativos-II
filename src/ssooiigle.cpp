@@ -98,8 +98,7 @@ std::string getRandomWordDictionary() {
 
     //Obtenemos una palabra aleatoria
     int random_number = getRandomNumber(0, dictionary.size()-1);
-    //return dictionary[random_number];
-    return "guhys";
+    return dictionary[random_number];
 }
 
 std::vector<std::string> getRandomFiles(){
@@ -149,13 +148,17 @@ void createRandomUser(int user_id){
     std::vector<std::string> files = getRandomFiles();
 
     user->makeRequest(word, files);
+
+    //Colocamos la peticion en la cola de peticiones, bloqueando el semaforo de peticiones
+    std::unique_lock<std::mutex> lock_request_queue(sem_request_queue);
     request_queue.push(user->getRequest());
-    cond_var_request_queue.notify_all(); //Avisamos a un buscador de que hay una peticion
+    cond_var_request_queue.notify_one(); //Avisamos a un buscador de que hay una peticion
+    lock_request_queue.unlock();
 
+    //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará (se hace 2 veces porque la primera es para inicializarlo)
+    user->getSemUser()->lock();
+    user->getSemUser()->lock();
 
-    user->getSemUser()->lock(); //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará
-
-    std::unique_lock<std::mutex> lock(*(user->getSemUser()));
     //Creamos el archivo txt que guarda la petición y el resultado
     std::string path = std::string(RESULTS_PATH) + std::to_string(user_id) + ".txt";
     writeFile(path, user-> getRequest()->requestToString());

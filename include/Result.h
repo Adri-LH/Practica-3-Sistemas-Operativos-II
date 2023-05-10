@@ -84,6 +84,8 @@ class Result{
                     + " Archivo: " + searcher_result_info[i].file + " Linea: " + std::to_string(searcher_result_info[i].words_found[j].line)
                     + " --> " + searcher_result_info[i].words_found[j].previous_word + " " + word_searched +" " 
                     + searcher_result_info[i].words_found[j].later_word +  "\n";
+                
+                result += "\n";
             }
                 
             return result;

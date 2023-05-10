@@ -1,4 +1,110 @@
-***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::    ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::     *****
-Buscador: 0 Hilo: 1 no encontró ningún resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
-Buscador: 0 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/El-oro-y-la-ceniza.txt
+***** Saludos usuario, has buscado la palabra 'Guerra' en los archivos ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::    ::../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt::    ::../resources/Libros/El-oro-y-la-ceniza.txt::     *****
+
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 856 --> de Guerra valorado
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 896 --> no_word Guerra que
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 896 --> Segunda Guerra Mundial
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 899 --> la Guerra eso
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 907 --> la Guerra guió
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1064 --> Segunda Guerra undial,
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1354 --> la Guerra Estuviste
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3287 --> Segunda Guerra undial,
+
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 689 --> la Guerra guió
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 802 --> la Guerra  civi
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3239 --> mera g Guerra undial,
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4130 --> una Guerra no_word
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4216 --> no_word Guerra olucionaria»,
+
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 363 --> no_word Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 528 --> la Guerra Los
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 560 --> Segunda Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 636 --> no_word Guerra ina,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 929 --> de Guerra para
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1011 --> Segunda Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1495 --> g Guerra para
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1667 --> las Guerra Sus
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1696 --> de Guerra los
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1766 --> la Guerra A
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1776 --> la Guerra el
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2133 --> la Guerra  e
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2274 --> Segunda Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2482 --> la Guerra Schiller
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2824 --> la Guerra Y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2949 --> Segunda Guerra dial...
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2967 --> la Guerra en
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3037 --> una Guerra en
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3044 --> no_word Guerra era
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3199 --> no_word Guerra de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3764 --> Segunda Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3918 --> la Guerra ería
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3923 --> la Guerra é
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4165 --> la Guerra  l
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4437 --> Segunda Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4464 --> no_word Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4770 --> la Guerra de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4809 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4831 --> no_word Guerra ,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4852 --> no_word Guerra �lix
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4877 --> de Guerra jefe
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4953 --> la Guerra cuando
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5089 --> la Guerra Aunque
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5301 --> la Guerra rmitiéndole
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5305 --> no_word Guerra 
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5570 --> en Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5683 --> la Guerra cuando
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5959 --> la Guerra Era
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5977 --> la Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5981 --> la Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6033 --> Segunda Guerra Mundial
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6091 --> la Guerra lo
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6367 --> la Guerra Siendo
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6407 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6413 --> Segunda Guerra Mundial
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6416 --> de Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6532 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6583 --> de Guerra nían
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6633 --> la Guerra con
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6764 --> la Guerra lo
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6870 --> Primera Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6875 --> la Guerra por
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6884 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6890 --> la Guerra mundial
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6900 --> de Guerra El
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6939 --> la Guerra los
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7235 --> la Guerra un
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7252 --> una Guerra  ordenad
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7264 --> la Guerra onviene,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7269 --> una Guerra entre
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7271 --> de Guerra contra
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7275 --> de Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7280 --> g Guerra de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7418 --> no_word Guerra en
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8784 --> la Guerra a
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8789 --> la Guerra mbió
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8791 --> la Guerra lo
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8798 --> aquella Guerra terna:
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8836 --> Segunda Guerra undial.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9228 --> no_word Guerra undial,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9363 --> la Guerra sponía
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9625 --> Segunda Guerra undial.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9633 --> no_word Guerra uno
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9835 --> la Guerra lo
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9841 --> la Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9960 --> la Guerra Carl
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10018 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10198 --> de Guerra Cuando
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10226 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10250 --> de Guerra o,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10265 --> la Guerra eso
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10509 --> una Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10900 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10934 --> la Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10940 --> la Guerra é
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11091 --> la Guerra y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11092 --> la Guerra no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11406 --> no_word Guerra Mundial
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11406 --> la Guerra de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11805 --> Segunda Guerra undial.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11848 --> de Guerra de
+
 

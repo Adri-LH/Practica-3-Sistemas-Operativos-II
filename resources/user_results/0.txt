@@ -1,3 +1,68 @@
-***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::     *****
-Buscador: 3 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/El-oro-y-la-ceniza.txt
+***** Saludos usuario, has buscado la palabra 'Nubes' en los archivos ::../resources/Libros/La-última-sirena.txt::    ::../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt::     *****
+
+Buscador: 2 Hilo: 1 no encontró ningún resultado en el archivo../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 479 --> Las Nubes del
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 559 --> las Nubes que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 781 --> las Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 826 --> y Nubes de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1619 --> de Nubes hacia
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2613 --> y Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2902 --> de Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3007 --> de Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3021 --> por Nubes que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3058 --> las Nubes de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3222 --> las Nubes de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3469 --> las Nubes y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3603 --> de Nubes y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3665 --> de Nubes el
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4825 --> de Nubes en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5220 --> las Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5323 -->  n Nubes se
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5929 --> de Nubes y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5966 --> las Nubes en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6039 --> las Nubes Para
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6415 --> las Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6623 --> Leila Nubes rosadas
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6897 --> las Nubes marfil
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6918 --> Las Nubes soplaban
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7723 -->  n Nubes que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7730 --> esas Nubes Por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7763 --> las Nubes Nadie
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8658 --> las Nubes entraba
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8964 --> las Nubes un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9511 --> las Nubes y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9822 --> las Nubes Se
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9835 --> y Nubes el
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9858 --> hab� Nubes a
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10203 --> las Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10322 --> haber Nubes sobre
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11363 --> las Nubes pronto
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11426 --> las Nubes He
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11648 --> sin Nubes suave
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11750 --> ella Nubes magulladas
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11996 --> las Nubes comenzaban
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12147 -->  n Nubes que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12168 --> sin Nubes �stino.
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12890 --> de Nubes francesas
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12892 --> esas Nubes y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12909 --> aquellas Nubes gordas
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13063 --> cielo Nubes color
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13078 --> Las Nubes  s
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13121 --> Las Nubes se
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13192 --> esas Nubes La
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13215 --> de Nubes negras
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13218 --> Las Nubes gían
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13246 --> las Nubes estaban
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13292 --> horribles Nubes ía
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13826 --> de Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14149 -->  n Nubes burbujeaban
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14296 --> Las Nubes de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14302 --> no Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14443 --> de Nubes Sin
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14930 --> de Nubes no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15400 --> las Nubes  negra
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15436 --> las Nubes eran
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15448 --> las Nubes Su
+
 

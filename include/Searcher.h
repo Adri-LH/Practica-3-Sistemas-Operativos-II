@@ -43,14 +43,13 @@ class Searcher{
 
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
-            while (user_counter != USERS_NUM){
+            while (user_counter < USERS_NUM){
             
             //Espera entrada seccion critica con semáforo y variable de concición
             std::unique_lock<std::mutex> lock(sem_request_queue);
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
             
             //Seccion critica
-
             //Obtenemos por referencia la peticion del usuario
             current_request = std::move(request_queue.front());
 
@@ -63,7 +62,6 @@ class Searcher{
             current_result->setWordSearched(current_request->getWord());
 
             request_queue.pop();
-
             user_counter++;
             lock.unlock();
 

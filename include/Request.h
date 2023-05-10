@@ -73,7 +73,7 @@ public:
         for (int i = 0; i < files.size(); i++)
             request_string += ("::" + files[i] + "::    ");
 
-        request_string += " *****";
+        request_string += " *****\n";
         return request_string;
     }
 

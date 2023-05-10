@@ -1,3 +1,5 @@
-***** Saludos usuario, has buscado la palabra 'guhys' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
-Buscador: 2 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+***** Saludos usuario, has buscado la palabra 'Nubes' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
+
+Buscador: 1 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+
 
