@@ -1,0 +1,22 @@
+***** Saludos usuario, has buscado la palabra 'Éxito' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1163 --> no_word rande.
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2366 --> AL no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3414 --> DE no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4117 --> AL no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8772 --> TU FUTURO
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8772 --> LOS  FAMOSO
+
+***** Saludos usuario, has buscado la palabra 'Guerra' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2064 --> Segunda undial,
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2072 --> la no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4489 --> Segunda Mundial
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5512 --> g estadounidense
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5528 --> de y
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5951 --> de que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6701 --> G ivil,
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7696 --> La de
+
+***** Saludos usuario, has buscado la palabra 'Cielo' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3463 --> los no
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6646 --> al y
+

@@ -1,12 +1,36 @@
-***** Saludos usuario, has buscado la palabra 'Escritor' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1902 --> no_word de
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2199 --> pastor y
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2642 --> e y
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2659 --> ingenioso Mark
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3859 --> Mi no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4596 --> todo eña
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4658 --> buen una
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6212 --> El no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6791 --> e .
-Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8205 --> el Eric
+***** Saludos usuario, has buscado la palabra 'Vista' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 192 --> de tu
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 818 --> una en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 825 --> la Resulta
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1293 --> una publicada
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1328 --> de la
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2071 --> de su
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2079 --> de el
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2080 --> la te
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2475 --> una de
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3493 --> una por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3840 --> de no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3883 --> LA EN
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4034 --> no_word sobre
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4375 --> una general
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6677 --> a v por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7169 --> cinco por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7194 --> de algunos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7380 --> las no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7816 --> de tá
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7878 --> gloriosa que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8164 --> de Sin
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8253 --> ás bajo
+
+***** Saludos usuario, has buscado la palabra 'Horas' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 345 --> Sus  so
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 862 --> pasar enteras
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2315 --> ntas h por
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2470 --> dos al
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2996 --> largas para
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4521 --> cuantas al
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5524 --> apenas antes
+Buscador: 2 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7340 --> en comunes
+
+***** Saludos usuario, has buscado la palabra 'Árbol' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
 

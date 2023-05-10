@@ -52,6 +52,7 @@ class User{//Clase usuario
             request -> setFiles(_files);
             request -> setSemUser(sem);
             request -> setResult(result);
+            request -> setUserId(id);
         }
 
 

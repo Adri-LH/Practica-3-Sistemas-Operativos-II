@@ -1,12 +1,91 @@
-***** Saludos usuario, has buscado la palabra 'Escritor' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1902 --> no_word de
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2199 --> pastor y
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2642 --> e y
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2659 --> ingenioso Mark
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3859 --> Mi no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4596 --> todo eña
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4658 --> buen una
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6212 --> El no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6791 --> e .
-Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8205 --> el Eric
+***** Saludos usuario, has buscado la palabra 'Cielo' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3463 --> los no
+Buscador: 1 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6646 --> al y
+
+***** Saludos usuario, has buscado la palabra 'Francés' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4104 --> gobierno no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6941 --> novelista Emile
+
+***** Saludos usuario, has buscado la palabra 'Libro' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 106 --> e l te
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 124 --> e l no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 503 --> este uí
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1507 --> su Live
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1558 --> de comerciales
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1656 --> cuatro por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1658 --> m� en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1659 --> de cristianos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1703 --> de de
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1705 --> cuyos  nuevo
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1707 --> cuyos nuevos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1848 --> un sobre
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1898 --> un escuchar
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1915 --> un que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2771 --> l cía
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2817 --> este llé
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2991 --> su Million
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3280 --> este Te
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3864 --> cinco en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3885 --> mejores sobre
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4213 --> este es
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4596 --> un que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4598 --> l y
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4600 --> l lo
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4609 --> un Eso
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4612 --> suficientes  par
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4631 --> el En
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4634 --> l a
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4636 --> de para
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4637 --> del no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4638 --> el Las
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4640 --> de sobre
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4642 --> ese no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4644 --> escribir Tal
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4655 --> ese dría
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4667 --> este no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4674 --> los  e
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4678 --> el en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4681 --> vender en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4765 --> un no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5137 --> mi El
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 5139 --> sus no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6112 --> l davía
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6229 --> su Los
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6996 --> maravilloso >s
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7144 --> los Sopa
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7150 --> mer l spués
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7160 --> vender Ellos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7170 --> el para
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7172 --> no_word como
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7173 --> el no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7176 --> Book de
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7184 --> del a
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7189 --> el y
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7190 --> el no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7193 --> del redactamos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7195 --> del en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7198 --> fiamos l en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7236 --> el por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7237 --> el en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7238 --> los en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7240 --> el en
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7242 --> l visitamos
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7243 --> el hasta
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7244 --> el Fue
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7384 --> l al
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7807 --> de para
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7984 --> del Sin
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7992 --> de muy
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 7994 --> los �s
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8000 --> algunos no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8003 --> los de
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8008 --> no_word saco
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8011 --> el que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8013 --> del ice:
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8014 --> un que
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8378 --> un  titulad
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8549 --> el Medio
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8641 --> este no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8647 --> e l Por
+Buscador: 0 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8648 --> este Mira
 

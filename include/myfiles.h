@@ -27,6 +27,21 @@
 #include <unistd.h>
 #include <errno.h>
 
+std::vector<std::string> colors = {
+    "\033[31m",    // Rojo
+    "\033[35m",    // Magenta
+    "\033[93m",    // Amarillo claro
+    "\033[94m",    // Azul claro
+    "\033[33m",    // Amarillo
+    "\033[32m",    // Verde
+    "\033[34m",    // Azul
+    "\033[36m",    // Cyan
+    "\033[90m",    // Gris
+    "\033[92m",    // Verde claro
+    "\033[95m",    // Magenta claro
+    "\033[96m",    // Cyan claro
+};
+
 /*********************************************************************************
  * 
  * Nombre de la función: openFileRead

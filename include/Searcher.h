@@ -22,56 +22,72 @@
 #include "../include/myfiles.h"
 #include "../include/Request.h"
 
-#define USERS 4 //Borrar despues, esto es solo para pruebas. debe ser igual a USERS_NUM del main.cpp
-
 void searchWords(std::string file, std::string word, int id_searcher, int id_thread);
 void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher);
 
-
 std::shared_mutex mutex_results;
-std::atomic<int> buc (0);
-
 
 class Searcher{
     public:
         int id_searcher;
+        std::string color;
         std::shared_ptr<Result> current_result; //Resultado equivalente al del usuario
+        std::shared_ptr<Request> current_request;
 
-        Searcher(int _id_searcher){
+        Searcher(int _id_searcher, std::string _color){
             id_searcher = _id_searcher;
+            color = _color;
         }
 
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
-            while (buc != USERS){
+            while (true){
             
-            std::unique_lock<std::mutex> lock(sem_request_queue); //Seccion critica
+            //Espera entrada seccion critica con semáforo y variable de concición
+            std::unique_lock<std::mutex> lock(sem_request_queue);
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
+            
+            //Seccion critica
 
-            std::shared_ptr<Request> request = std::move(request_queue.front()); //Necesario, si no no encuentra los archivos
-            current_result = request->getResult();
+            //Obtenemos por referencia la peticion del usuario
+            current_request = std::move(request_queue.front());
+
+            //Imprimimos información
+            std::cout << color << "Buscador " << id_searcher << ": procesará la petición del Usuario " << current_request->getUserId() << std::endl;
+
+            //Obtenemos por referencia el resultado del usuario
+            current_result = current_request->getResult();
             request_queue.pop();
             lock.unlock();
 
-            prepareSubThreads(request->GetFiles(), request->getWord(), id_searcher);
-            buc++;
+            //Se preparan los hilos para la búsqueda de palabra
+            prepareSubThreads(current_request->GetFiles(), current_request->getWord(), id_searcher);
+            
+            //Desbloqueamos el semaforo del usuario. Su peticion ha sido atendida
+            current_request-> getSemUser() -> unlock();
 
-            request-> getSemUser() -> unlock(); //Desbloqueamos el semaforo del usuario. Su peticion ha sido atendida
+            //Imprimimos información
+            std::cout << color << "Buscador " << id_searcher << ": ha finalizado la petición del Usuario " << current_request->getUserId()
+            << ", se desbloqueará su semáforo" << std::endl;
 
             }
             
         }
 
-    void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher){
-    std::vector<std::thread> subthreads;
-    for(int i = 0; i < files.size(); i++){
-        subthreads.push_back(std::thread([this, &files, &word, id_searcher, i]() {searchWords(files[i], word, id_searcher, i);})); //Debido a funcion de miembro no estatica
+        void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher){
+            std::vector<std::thread> subthreads;
+            for(int i = 0; i < files.size(); i++){
+                //Imprimimos información
+                std::cout << color << "Buscador " << id_searcher << " buscará la palabra :" << word << ": en el archivo :" << files[i]
+                << ": para el Usuario " << current_request->getUserId() << std::endl;
+                
+                //Se crean los hilos
+                subthreads.push_back(std::thread([this, &files, &word, id_searcher, i]() {searchWords(files[i], word, id_searcher, i);})); //Debido a funcion de miembro no estatica
+            }
 
-    }
+            std::for_each(subthreads.begin(), subthreads.end(), std::mem_fn(&std::thread::join));
 
-    std::for_each(subthreads.begin(), subthreads.end(), std::mem_fn(&std::thread::join));
-
-}
+        }
 
     /*********************************************************************************
      * 

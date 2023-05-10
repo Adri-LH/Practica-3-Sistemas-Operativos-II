@@ -25,6 +25,8 @@
 #include <condition_variable>
 #include <queue>
 #include <unistd.h>
+#include <random>
+#include <chrono>
 
 
 #include "../include/Result.h"
@@ -33,10 +35,7 @@
 #include "../include/Pay_Sys.h"
 #include "../include/Request.h"
 #include "../include/Searcher.h"
-
-
-#define SEARCHERS_NUM 4  //Numero de buscadores
-#define USERS_NUM 5   //Numero de usuarios. Sus perfiles serán aleatorios.
+#include "../include/Global_Vars.h"
 
 void createPaySys();
 void createUsersThreads(int num_users);
@@ -73,7 +72,7 @@ int main(int argc, char *argv[])
     }
 
     //Creamos el diccionario
-    dictionary = getFileWords("../resources/Diccionario.txt");
+    dictionary = getFileWords(std::string(FILES_PATH) + "Diccionario.txt");
 
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
@@ -92,24 +91,23 @@ int main(int argc, char *argv[])
 
 void createPaySys(){
     Pay_Sys Paysystem;
-    //userpl_queue.push(user);
     Paysystem.paySysWorking(std::ref(sem_system_pay_queue), std::ref(cond_var_system_pay_queue), system_pay_queue);
     
 }
 
-std::string getRandomWordDictionary(){
-    srand(time(nullptr));
-    int random_number = rand() % 35 + 0;
+std::string getRandomWordDictionary() {
+    static std::mt19937 mt(std::chrono::system_clock::now().time_since_epoch().count());
+    std::uniform_int_distribution<int> dist(0, 34);
 
+    int random_number = dist(mt);
     return dictionary[random_number];
-    //return "David";
 }
 
 std::vector<std::string> getRandomFiles(){
     //Archivos a buscar
     std::vector<std::string> files;
-    files.push_back("../resources/prueba.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
-    files.push_back("../resources/VIVE-TU-SUEÑO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    files.push_back(std::string(FILES_PATH) + "prueba.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
+    files.push_back(std::string(FILES_PATH) + "VIVE-TU-SUEÑO.txt"); //Cambiar por algo más aleatorio, y que puedan ser varios
     return files;
 }
 
@@ -151,7 +149,7 @@ void createRandomUser(int user_id){
 
     std::unique_lock<std::mutex> lock(*(user->getSemUser()));
     //Creamos el archivo txt que guarda la petición y el resultado
-    std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
+    std::string path = std::string(RESULTS_PATH) + std::to_string(user_id) + ".txt";
     writeFile(path, user-> getRequest()->requestToString());
     writeFile(path, user-> getResult()->resultToString());
     
@@ -166,15 +164,21 @@ void createUsersThreads(int num_users){
 }
 
 
-void createSearchers(int searcher_id){
-    Searcher searcher = Searcher(searcher_id);
+void createSearchers(int searcher_id, std::string color){
+    Searcher searcher = Searcher(searcher_id, color);
     searcher.searcherWorking(std::ref(sem_request_queue), std::ref(cond_var_request_queue), request_queue);
 }
 
 void createSearchersThreads(int num_searchers){
-    
+    int color_index = 0;
     for(int i = 0; i < num_searchers; i++){
-        searcher_threads.push_back(std::thread(createSearchers, i));
+        std::string color = colors[color_index];
+
+        searcher_threads.push_back(std::thread(createSearchers, i,color));
+        color_index++;
+
+        if(color_index == colors.size())
+            color_index = 0;
     }
 
 }

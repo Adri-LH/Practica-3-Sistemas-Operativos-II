@@ -14,14 +14,16 @@ private:
     
     std::shared_ptr<std::mutex> sem_user;
     std::shared_ptr<Result> result; //resultado de la búsqueda
+    int user_id;
 
 public:
-    Request(std::string _word, std::vector<std::string> _files, std::shared_ptr<std::mutex> _sem_user, std::shared_ptr<Result> _result)
+    Request(std::string _word, std::vector<std::string> _files, std::shared_ptr<std::mutex> _sem_user, std::shared_ptr<Result> _result, int _user_id)
     {
         word = _word;
         files = _files;
         sem_user = _sem_user;
         result = _result;
+        user_id = _user_id;
     }
 
     Request(){}
@@ -42,6 +44,10 @@ public:
         result = _result;
     }
 
+    void setUserId(int _user_id){
+        user_id = _user_id;
+    }
+
     std::string getWord(){
         return word;
     }
@@ -58,6 +64,10 @@ public:
         return result;
     }
 
+    int getUserId(){
+        return user_id;
+    }
+
     std::string requestToString(){
         std::string request_string = "***** Saludos usuario, has buscado la palabra '" + word + "' en los archivos ";
         for (int i = 0; i < files.size(); i++)
@@ -66,14 +76,6 @@ public:
         request_string += " *****";
         return request_string;
     }
-
-    // std::shared_ptr<User> getUser(){
-    //     return user;
-    // }
-
-    // std::string setSearchResult(std::string _search_result){
-    //     search_result = _search_result;
-    // }
 
 };
 
