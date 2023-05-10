@@ -58,13 +58,14 @@ public:
         return result;
     }
 
-    // std::string requestToString(){
-    //     std::string request_string = "Usuario con ID " + std::to_string(user->getID()) + ", has buscado la palabra '" + word + "' en los archivos ";
-    //     for (int i = 0; i < files.size(); i++)
-    //         request_string += (files[i] + " ");
+    std::string requestToString(){
+        std::string request_string = "***** Saludos usuario, has buscado la palabra '" + word + "' en los archivos ";
+        for (int i = 0; i < files.size(); i++)
+            request_string += (files[i] + " ");
 
-    //     return request_string;
-    // }
+        request_string += " *****";
+        return request_string;
+    }
 
     // std::shared_ptr<User> getUser(){
     //     return user;

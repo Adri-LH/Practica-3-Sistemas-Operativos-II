@@ -36,7 +36,7 @@
 
 
 #define SEARCHERS_NUM 4  //Numero de buscadores
-#define USERS_NUM 1   //Numero de usuarios. Sus perfiles serán aleatorios.
+#define USERS_NUM 5   //Numero de usuarios. Sus perfiles serán aleatorios.
 
 void createPaySys();
 void createUsersThreads(int num_users);
@@ -80,21 +80,13 @@ int main(int argc, char *argv[])
 
     //Creamos buscadores
     createSearchersThreads(SEARCHERS_NUM);
-    //std::vector<std::string> vectorr;
-    //vectorr.push_back("../resources/prueba.txt");
-    //vectorr.push_back("../resources/21-LEYES-DEL-LIDERAZGO.txt");
-    //std::shared_ptr<Request> request = std::make_shared<Request>(1, "David", vectorr);
-    //request_queue.push(request);
     
     //Creamos usuarios y peticiones
     createUsersThreads(USERS_NUM);
     
-    
-    
     T_Pay_Sys.join();
     std::for_each(user_threads.begin(), user_threads.end(), std::mem_fn(&std::thread::join));
     std::for_each(searcher_threads.begin(), searcher_threads.end(), std::mem_fn(&std::thread::join));
-
 
 }
 
@@ -109,8 +101,8 @@ std::string getRandomWordDictionary(){
     srand(time(nullptr));
     int random_number = rand() % 35 + 0;
 
-    //return dictionary[random_number];
-    return "David";
+    return dictionary[random_number];
+    //return "David";
 }
 
 std::vector<std::string> getRandomFiles(){
@@ -158,10 +150,10 @@ void createRandomUser(int user_id){
     //user->saludar();
 
     std::unique_lock<std::mutex> lock(*(user->getSemUser()));
-    user->getResult()->printResult();
     //Creamos el archivo txt que guarda la petición y el resultado
-    //std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
-    //writeFile(path, request->requestToString());
+    std::string path = "../user_results/" + std::to_string(user_id) + ".txt";
+    writeFile(path, user-> getRequest()->requestToString());
+    writeFile(path, user-> getResult()->resultToString());
     
 }
 

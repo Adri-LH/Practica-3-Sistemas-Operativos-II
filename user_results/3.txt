@@ -1,4 +1,12 @@
-Usuario con ID 3, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
-Usuario con ID 3, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
-Usuario con ID 3, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
-Usuario con ID 3, has buscado la palabra 'David' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt 
+***** Saludos usuario, has buscado la palabra 'Escritor' en los archivos ../resources/prueba.txt ../resources/VIVE-TU-SUEÑO.txt  *****
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 1902 --> no_word de
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2199 --> pastor y
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2642 --> e y
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 2659 --> ingenioso Mark
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 3859 --> Mi no_word
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4596 --> todo eña
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 4658 --> buen una
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6212 --> El no_word
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 6791 --> e .
+Buscador: 3 Hilo: 1 Archivo: ../resources/VIVE-TU-SUEÑO.txt Linea: 8205 --> el Eric
+

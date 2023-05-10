@@ -19,10 +19,6 @@ class User{//Clase usuario
             balance = _balance;
         }
 
-        void mostrarSaldo(){
-            std::cout << balance << "\n";
-        }
-
         void setPremium(bool _premium){
             premium = premium;
         }
@@ -33,11 +29,6 @@ class User{//Clase usuario
 
         int getID(){
             return id;
-        }
-
-        void saludar(){
-            std::unique_lock<std::mutex> lock(*sem);
-            std::cout << "Hola" << std::endl;
         }
 
         std::shared_ptr<Request> getRequest(){
@@ -62,12 +53,6 @@ class User{//Clase usuario
             request -> setSemUser(sem);
             request -> setResult(result);
         }
-        
-        // void printResults(){
-        //     for(int i=0; i < result->size(); i++){
-        //         std::cout <<"dfdf" <<std::endl;
-        //     }
-        // } 
 
 
 

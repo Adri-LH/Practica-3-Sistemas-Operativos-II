@@ -22,20 +22,21 @@
 #include "../include/myfiles.h"
 #include "../include/Request.h"
 
-#define SUBTHREADS 2//Numero de subhilos que buscan en un mismo documento
-#define USERS 1 //Borrar despues, esto es solo para pruebas. debe ser igual a USERS_NUM del main.cpp
+#define USERS 4 //Borrar despues, esto es solo para pruebas. debe ser igual a USERS_NUM del main.cpp
 
-void searchWords(std::string file, std::string word, int linea_inicial, int linea_final, int id_searcher, int id_thread, File_Result_Info& file_result_info);
-void prepareSubThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher);
+void searchWords(std::string file, std::string word, int id_searcher, int id_thread);
+void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher);
 
-std::shared_ptr<Result> current_result; //Resultado equivalente al del usuario
+
 std::shared_mutex mutex_results;
 std::atomic<int> buc (0);
 
 
-
 class Searcher{
     public:
+        int id_searcher;
+        std::shared_ptr<Result> current_result; //Resultado equivalente al del usuario
+
         Searcher(int _id_searcher){
             id_searcher = _id_searcher;
         }
@@ -48,69 +49,27 @@ class Searcher{
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
 
             std::shared_ptr<Request> request = std::move(request_queue.front()); //Necesario, si no no encuentra los archivos
+            current_result = request->getResult();
             request_queue.pop();
             lock.unlock();
 
-            current_result = request -> getResult();
-            prepareSubThreads(request->GetFiles(), request->getWord(), SUBTHREADS, id_searcher);
+            prepareSubThreads(request->GetFiles(), request->getWord(), id_searcher);
             buc++;
 
             request-> getSemUser() -> unlock(); //Desbloqueamos el semaforo del usuario. Su peticion ha sido atendida
 
             }
-
-            //std::cout << "Termine" << std::endl;
-            // for (int i = 0; i < results.size(); i++) {
-            //     results[i].PrintResults();
-            // }
-            
-        }
-        
-        int id_searcher;
-        
-};
-
-void prepareSubThreads(std::vector<std::string> files, std::string word, int num_threads, int id_searcher){
-        std::vector<std::thread> subhilos;
-        for(int i = 0; i < files.size(); i++){
-        
-            Searcher_Result_Info searcher_result_info(id_searcher, files[i]); ///////////
-
-            //Es posible que haya problemas si los archivos no existen
-            int total_lines = countLines(files[i]);
-            int thread_work = total_lines / num_threads;                    //Trabajo de cada hilo
-            int last_thread = total_lines - (thread_work * num_threads);    //Trabajo extra del ultimo hilo
-            int inicio = 0;                 //Linea inicial de un hilo
-            int final = thread_work - 1;    //Linea final de un hilo
-
-            //Creamos sublos hilos, repartiendo las tareas
-            for (int j = 0; j < num_threads; j++)
-            {
-                //Si es el ultimo hilo, le asignamos la carga extra
-                if (j == num_threads - 1)
-                    final = final + last_thread;
-                
-                File_Result_Info file_result_info (j, inicio, final); ////////////////
-
-                subhilos.push_back(std::thread(searchWords, files[i], word, inicio, final, id_searcher, j, std::ref(file_result_info)));
-
-                //Actualizamos tareas para el siguiente hilo
-                inicio = inicio + thread_work;
-                final = final + (thread_work);
-                
-                //std::cout << file_result_info.word_found_info[0].later_word << std::endl;
-                searcher_result_info.addFileResultInfo(file_result_info);
-
-            }
-
-            current_result->addSearcherResultInfo(searcher_result_info);
             
         }
 
-        //Espera de subhilos
-            std::for_each(subhilos.begin(), subhilos.end(), std::mem_fn(&std::thread::join));
-            
-            
+    void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher){
+    std::vector<std::thread> subthreads;
+    for(int i = 0; i < files.size(); i++){
+        subthreads.push_back(std::thread([this, &files, &word, id_searcher, i]() {searchWords(files[i], word, id_searcher, i);})); //Debido a funcion de miembro no estatica
+
+    }
+
+    std::for_each(subthreads.begin(), subthreads.end(), std::mem_fn(&std::thread::join));
 
 }
 
@@ -130,11 +89,10 @@ void prepareSubThreads(std::vector<std::string> files, std::string word, int num
      * Valor de regreso: void (no retorna nada )
      *
     *********************************************************************************/
-    void searchWords(std::string file, std::string word, int linea_inicial, int linea_final, int id_searcher, int id_thread, File_Result_Info& file_result_info) {
+    void searchWords(std::string file, std::string word, int id_searcher, int id_thread) {
 
-            //Result result(id_searcher, id_thread, linea_inicial, linea_final,word);
-        
-            //Convertir palabra a minuscula
+            Searcher_Result_Info searcher_result (id_searcher, id_thread, file);
+
             std::transform(word.begin(), word.end(), word.begin(), [](unsigned char c){ return std::tolower(c); });
                 
             //Comprobamos si el fichero se abre
@@ -146,7 +104,6 @@ void prepareSubThreads(std::vector<std::string> files, std::string word, int num
             int num_linea = 0;
 
             while (std::getline(archivo, linea)) {
-                if (num_linea >= linea_inicial && num_linea <= linea_final) {
 
                     // Convertir la línea a minúsculas
                     std::string line_lower = linea;
@@ -164,37 +121,30 @@ void prepareSubThreads(std::vector<std::string> files, std::string word, int num
                         }else if(last.empty()|| last==" "){
                             last="no_word";
                         }
-                        
+
                         pos += word.length();
-                        
-                        Word_Found_Info word_found_info (num_linea + 1, previous, last);
 
+                        //Si encuentra palabra:
                         std::unique_lock<std::shared_mutex> lock(mutex_results);
-                        file_result_info.addWordFoundInfo(word_found_info);
+                        Word_Found_Info word_found(num_linea+1, previous, last);
+                        searcher_result.addWordFound(word_found);
 
-                        // std::unique_lock<std::shared_mutex> lock(mutex_results);
-                        // //result.add_Result(file, num_linea + 1, previous, last);
-                        
-                        // lock.unlock();
-                        
                     }
-                    
-                }
-
             
                 num_linea++;
             
             }
 
-            // //Reciclamos semaforo
-            // std::unique_lock<std::shared_mutex> lock(mutex_results);
-            // //results.push_back(result);
-            // lock.unlock();
+            std::unique_lock<std::shared_mutex> lock(mutex_results);
+            current_result -> addSearcherResultInfo(searcher_result);
 
-            // Cerrar el archivo
             archivo.close();
+            
+    }
+        
+};
 
-        }
+
     
 
 #endif
