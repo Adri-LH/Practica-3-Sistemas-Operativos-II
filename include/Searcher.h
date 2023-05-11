@@ -31,10 +31,10 @@ std::atomic<int> user_counter(0);
 
 class Searcher{
     public:
-        int id_searcher;
-        std::string color;
-        std::shared_ptr<Result> current_result; //Resultado equivalente al del usuario
-        std::shared_ptr<Request> current_request;
+        int id_searcher;                            //ID del buscador
+        std::string color;                          //Color de impresión del buscador
+        std::shared_ptr<Result> current_result;     //Resultado equivalente al del usuario
+        std::shared_ptr<Request> current_request;   //Peticion equivalente a la del usuario
 
         Searcher(int _id_searcher, std::string _color){
             id_searcher = _id_searcher;
@@ -44,14 +44,18 @@ class Searcher{
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
             while (user_counter < USERS_NUM){
-            
             //Espera entrada seccion critica con semáforo y variable de concición
             std::unique_lock<std::mutex> lock(sem_request_queue);
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
             
             //Seccion critica
+            user_counter++;
+
             //Obtenemos por referencia la peticion del usuario
             current_request = std::move(request_queue.front());
+
+            //Se saca la peticion de la cola
+            request_queue.pop();
 
             //Imprimimos información
             std::cout << color << "Buscador " << id_searcher << ": procesará la petición del Usuario " << current_request->getUserId() << std::endl;
@@ -61,8 +65,7 @@ class Searcher{
             current_result-> setIdSearcher(id_searcher);
             current_result->setWordSearched(current_request->getWord());
 
-            request_queue.pop();
-            user_counter++;
+            //Desbloqueo de semaforo para que otros buscadores atiendan peticiones
             lock.unlock();
 
             //Se preparan los hilos para la búsqueda de palabra
@@ -81,7 +84,9 @@ class Searcher{
         }
 
         void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher){
+            //Creeacion de vector de hilos
             std::vector<std::thread> subthreads;
+
             for(int i = 0; i < files.size(); i++){
                 //Imprimimos información
                 std::cout << color << "Buscador " << id_searcher << " buscará la palabra :" << word << ": en el archivo :" << files[i]
@@ -91,6 +96,7 @@ class Searcher{
                 subthreads.push_back(std::thread([this, &files, &word, id_searcher, i]() {searchWords(files[i], word, id_searcher, i);})); //Debido a funcion de miembro no estatica
             }
 
+            //Espera a todos los hilos
             std::for_each(subthreads.begin(), subthreads.end(), std::mem_fn(&std::thread::join));
 
         }
@@ -112,9 +118,10 @@ class Searcher{
      *
     *********************************************************************************/
     void searchWords(std::string file, std::string word, int id_searcher, int id_thread) {
-
+            //Creamos resultado de busqueda de un archivo
             File_Result_Info searcher_result (id_thread, file);
 
+            //Convertimos línea a minúscula
             std::transform(word.begin(), word.end(), word.begin(), [](unsigned char c){ return std::tolower(c); });
                 
             //Comprobamos si el fichero se abre
@@ -148,10 +155,12 @@ class Searcher{
 
                         //Si encuentra palabra:
                         std::unique_lock<std::shared_mutex> lock(mutex_results);
+
+                        //Añadimos la palabra encontrada al resultado del archivo
                         Word_Found_Info word_found(num_linea+1, previous, last);
                         searcher_result.addWordFound(word_found);
 
-                    } int random_number = rand() % 2 + 0;
+                    }
                 
                 num_linea++;
             
@@ -159,6 +168,7 @@ class Searcher{
 
             archivo.close();
 
+            //Añadimos resultado del archivo a resultado del buscador
             std::unique_lock<std::shared_mutex> lock(mutex_results);
             current_result -> addSearcherResultInfo(searcher_result);
 

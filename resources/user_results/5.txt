@@ -1,238 +1,308 @@
-***** Saludos usuario, has buscado la palabra 'Hombre' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::    ::../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt::    ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::     *****
+***** Saludos usuario, has buscado la palabra 'Capítulo' en los archivos ::../resources/Libros/El-oro-y-la-ceniza.txt::    ::../resources/Libros/La-última-sirena.txt::     *****
 
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 170 --> os  Hombre Filipenses
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 171 --> de Hombre se
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 278 --> el Hombre pues
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 278 --> el Hombre  mir
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 287 --> no_word Hombre se
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 295 --> el Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 470 --> el Hombre embrare,
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 499 --> no_word Hombre ayuda
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 515 --> los Hombre hagan
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 523 --> no_word Hombre con
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 525 --> los Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 540 --> un Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 541 --> no_word Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 567 --> el Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 623 --> no_word Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 638 --> por Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 683 --> destacados Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 685 --> eran Hombre felices
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 701 --> no_word Hombre miraban
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 787 --> desarrollado Hombre tenaces
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 810 --> un Hombre no
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 818 --> nifica � Hombre y
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 828 --> no_word Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 831 --> no_word Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 833 --> Este Hombre muy
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 870 --> los Hombre a
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 870 --> Sus Hombre le
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 890 --> el Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 891 --> del Hombre le
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 892 --> el Hombre legremente,
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 899 --> un Hombre observaba
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 952 --> los Hombre y
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 952 --> de Hombre  s
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1018 --> h Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1052 --> un Hombre me
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1310 --> dos Hombre ue,
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1311 --> los Hombre fueran
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1312 --> los Hombre fueran
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1331 --> un Hombre y
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1332 --> los Hombre por
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1662 --> h Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1718 --> h Hombre vino
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1734 --> h Hombre mira
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1746 --> los Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1820 --> menos Hombre han
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2035 --> un Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2053 --> Al Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2155 --> con Hombre experimentados
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2159 --> no_word Hombre valientes
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2202 --> esos Hombre valientes
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2235 --> El Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2237 --> grandes Hombre Una
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2400 --> que Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2439 --> h Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2457 --> un Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2494 --> grandes Hombre é
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2498 --> del Hombre le
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2511 --> h Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2514 --> el Hombre quiero
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2567 --> un Hombre predispone
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2587 --> un Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2608 --> sus Hombre le
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2677 --> grandes Hombre  nunc
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2682 --> el Hombre gún
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2684 --> estos Hombre spués
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2688 --> Ning� Hombre va
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2708 --> los Hombre y
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2724 --> no_word Hombre nterior,
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2738 --> e h Hombre disciplinado
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2913 --> del Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2992 --> un Hombre cuya
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3019 --> el Hombre es
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3039 --> Los Hombre �venes
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3039 --> los Hombre viejos
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3066 --> cuánt Hombre y
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3111 --> h Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3117 --> El Hombre lo
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3151 --> diez Hombre entregaron
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3166 --> son Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3196 --> primeros Hombre el
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3255 --> del Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3338 --> el Hombre piensa
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3340 --> dos Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3409 --> este Hombre ha
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3499 --> el Hombre piensa
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3684 --> El Hombre sabio
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3690 --> al Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3808 --> lquier h Hombre puede
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3810 --> los Hombre es
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3830 --> Este Hombre abí
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3926 --> el Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3929 --> el Hombre con
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3950 --> el Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3956 --> un Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4120 --> el Hombre con
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4120 --> el Hombre sin
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4127 --> el Hombre que
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4220 --> del Hombre hay
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4237 --> del Hombre con
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4310 --> destacados Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4332 --> este Hombre en
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4339 --> El Hombre de
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4476 --> h Hombre al
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4882 --> de Hombre a
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5061 --> los Hombre no_word
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5066 --> no_word Hombre tienen
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5115 --> un Hombre es
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5117 --> en Hombre como
-Buscador: 4 Hilo: 2 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5119 --> no_word Hombre mayor
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 12 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 13 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 14 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 16 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 17 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 18 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 19 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 20 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 22 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 23 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 24 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 25 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 26 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 28 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 29 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 30 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 31 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 32 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 34 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 35 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 36 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 37 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 38 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 39 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 41 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 43 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 44 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 45 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 46 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 47 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 49 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 50 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 51 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 52 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 53 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 54 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 55 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 56 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 57 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 58 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 59 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 60 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 61 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 84 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 85 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 86 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 87 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 88 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 90 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 91 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 92 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 93 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 94 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 96 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 97 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 99 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 100 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 101 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 103 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 104 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 105 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 106 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 107 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 109 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 110 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 111 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 112 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 113 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 115 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 116 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 117 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 118 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 119 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 120 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 122 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 123 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 124 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 125 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 126 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 127 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 129 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 130 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 131 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 132 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 133 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 134 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 135 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 136 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 137 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 138 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 139 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 141 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 142 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 221 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 370 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 545 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 892 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1296 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1646 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1895 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2230 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2601 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3006 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3123 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3395 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3747 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4340 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4538 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4666 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5019 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5431 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5753 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5947 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6270 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6842 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6869 --> tercer Capítulo indagaba
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6892 --> mi Capítulo no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7427 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7719 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8015 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8094 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8261 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8407 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8620 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8745 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8804 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9037 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9700 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9887 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10181 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10284 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10402 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10421 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10634 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10735 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10865 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10947 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11049 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11237 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11352 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11443 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11484 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11588 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11626 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11695 --> no_word Capítulo 
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11838 --> el Capítulo pertenecen
 
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 334 --> h Hombre �s
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 438 --> El Hombre de
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 863 --> el Hombre mejor
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 942 --> un Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1034 --> de Hombre viven
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1854 --> un Hombre a
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2043 --> Jurási Hombre de
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2063 --> un Hombre admirable
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2070 --> sus Hombre realizan
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2529 --> no_word Hombre superficiales
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2529 --> Los Hombre fuertes
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2532 --> «L Hombre superficiales
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2534 --> no_word Hombre fuertes
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2786 --> el Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2787 --> el Hombre hay
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2825 --> el Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2829 --> no_word Hombre hay
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3511 --> H Hombre DE
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3722 --> un Hombre de
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4159 --> un Hombre dinerado,
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4730 --> el Hombre �s
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5544 --> de Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6253 --> Cuatro Hombre se
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6255 --> os h Hombre áles
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6530 --> un Hombre lanco.
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6590 --> no_word Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6655 --> no_word Hombre son
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6663 --> los Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6792 --> « Hombre que
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6806 --> l  Hombre que
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7115 --> esos Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7135 --> el Hombre de
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7588 --> el Hombre �s
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7687 --> un Hombre  l
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7689 --> todo Hombre  Supong
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7972 --> un Hombre por
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8033 --> grandes Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8127 --> l  Hombre �s
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8150 --> los Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8156 --> tambi� Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8171 --> a Hombre mujeres
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8186 --> los Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8244 --> [u Hombre conrra
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8249 -->  h Hombre y
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8256 --> no_word Hombre de
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8256 --> un Hombre no_word
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8422 --> un Hombre de
-
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 146 --> un Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 307 --> los Hombre trabajaban
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 322 --> un Hombre alentoso,
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 323 --> no_word Hombre entoso».
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 370 --> Los Hombre o
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 693 --> sus Hombre trabajando
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 707 --> los Hombre cubiertos
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 713 --> no_word Hombre endurecidos
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 728 --> toso h Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 831 --> los Hombre no_word
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 832 --> un Hombre no_word
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 860 --> no_word Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 924 --> El Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1180 --> no_word Hombre una
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1185 --> de Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1204 --> un Hombre se
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1208 --> el Hombre Y
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1210 --> al Hombre tratando
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1215 --> al Hombre Debo
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1220 --> unos h Hombre llevaron
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1226 -->  h Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1306 --> los Hombre se
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1324 --> muchos Hombre antes
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1340 --> los Hombre ndrían
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1343 --> pamento h Hombre y
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1357 --> de Hombre edaría
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1358 --> dos Hombre ían
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1366 --> un Hombre y
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1377 --> los Hombre Porque
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1533 --> cuatro Hombre estaban
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1620 --> dos Hombre durante
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1620 --> tres Hombre  durant
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1646 --> er h Hombre en
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1648 --> estos Hombre el
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1737 --> mejores Hombre la
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1926 --> de Hombre tá
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1957 --> de Hombre trataron
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1960 --> unos Hombre cuando
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1963 --> los Hombre  qu
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1978 --> qu Hombre tá
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2299 -->  h Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2644 --> el Hombre �s
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3056 --> el Hombre  co
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3057 --> al Hombre  co
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3299 --> Seremos Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3399 --> no_word Hombre en
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3470 --> El Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3494 --> no_word Hombre y
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3808 --> esos Hombre era
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3812 --> los Hombre no_word
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3815 --> Los Hombre estaban
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3817 --> no_word Hombre no
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3820 --> mil Hombre disponibles
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3830 --> de Hombre no_word
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3833 --> los Hombre pudieran
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3924 --> un Hombre rto».
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4071 --> los Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4244 --> «sex Hombre la
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4413 --> eccionar h Hombre uenos,
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4414 --> seleccionar Hombre buenos
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4702 --> un Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4901 --> un Hombre con
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4910 --> los Hombre no_word
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5215 --> quieren Hombre o
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5279 --> de Hombre enyuntaron
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5302 --> no_word Hombre llamaban
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5305 --> no_word Hombre era
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5310 --> Un Hombre renuncia
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5323 --> los Hombre soportaran
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5331 -->  h Hombre golpeaban
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5427 --> el Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5683 --> a Hombre de
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5683 --> suyas Hombre  qu
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5741 --> un Hombre  considerad
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6188 --> del Hombre que
-Buscador: 4 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6452 --> el Hombre Gran
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 16 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 17 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 18 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 19 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 20 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 21 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 25 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 26 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 27 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 28 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 29 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 30 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 31 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 32 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 33 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 34 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 35 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 36 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 37 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 38 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 39 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 40 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 44 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 45 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 46 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 47 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 48 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 49 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 50 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 51 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 52 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 53 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 54 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 55 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 56 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 57 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 58 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 59 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 60 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 72 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 73 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 74 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 75 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 76 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 77 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 78 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 79 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 80 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 81 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 82 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 83 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 84 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 85 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 86 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 87 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 88 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 92 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 93 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 94 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 95 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 96 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 97 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 98 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 99 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 100 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 101 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 103 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 104 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 105 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 106 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 107 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 108 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 111 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 112 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 113 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 114 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 115 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 116 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 117 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 118 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 119 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 120 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 121 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 122 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 123 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 124 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 125 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 126 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 127 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 255 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 456 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 772 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1111 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1317 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1557 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1870 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2337 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2605 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3009 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3403 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3879 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4350 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4659 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5054 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5321 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5568 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6143 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6396 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6799 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7050 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7356 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7719 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8210 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8489 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8851 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9192 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9452 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9845 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10149 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10416 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10705 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11005 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11528 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11747 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12031 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12371 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12812 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12885 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13176 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13528 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13620 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14106 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14156 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14523 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14846 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14874 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15249 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15462 --> no_word Capítulo 
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15510 --> no_word Capítulo 
 
 

@@ -27,21 +27,6 @@
 #include <unistd.h>
 #include <errno.h>
 
-std::vector<std::string> colors = {
-    "\033[31m",    // Rojo
-    "\033[35m",    // Magenta
-    "\033[93m",    // Amarillo claro
-    "\033[94m",    // Azul claro
-    "\033[33m",    // Amarillo
-    "\033[32m",    // Verde
-    "\033[34m",    // Azul
-    "\033[36m",    // Cyan
-    "\033[90m",    // Gris
-    "\033[92m",    // Verde claro
-    "\033[95m",    // Magenta claro
-    "\033[96m",    // Cyan claro
-};
-
 /*********************************************************************************
  * 
  * Nombre de la función: openFileRead
@@ -234,14 +219,15 @@ std::vector<std::string> getFileWords(std::string path) {
 /*Descripcion: Introduce texto (text) a un archivo (path). Si no existe, se crea*/
 void writeFile(const std::string path, const std::string text)
 {
-    FILE *p_src_file = fopen(path.c_str(), "a");
-    if (p_src_file == NULL)
+    std::ofstream file(path, std::ios::app | std::ios::binary);
+    if (!file.is_open())
     {
         printf("Error opening source file: %s\n", path.c_str());
+        return;
     }
 
-    fprintf(p_src_file, "%s\n", text.c_str());
-    fclose(p_src_file);
+    file << text << std::endl;
+    file.close();
 }
 
 /*Descripcion: Devuelve un vector de strings con todos los nombres de archivos de un determinado directorio*/

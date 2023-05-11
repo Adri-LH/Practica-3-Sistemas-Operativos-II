@@ -1,5 +1,6 @@
-***** Saludos usuario, has buscado la palabra 'Nubes' en los archivos ::../resources/Libros/VIVE-TU-SUEÑO.txt::     *****
+***** Saludos usuario, has buscado la palabra 'Americano' en los archivos ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::     *****
 
-Buscador: 1 Hilo: 0 no encontró ningún resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 745 --> estadista Americano Hubert
+Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4215 --> colonos Americano durante
 
 

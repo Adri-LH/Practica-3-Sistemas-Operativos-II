@@ -43,7 +43,6 @@ void createRequest(int user_id);
 void createSearchersThreads(int num_searchers);
 
 //Memorias compartidas (no todas lo tendran que ser)
-std::vector<std::string> dictionary;
 std::vector<std::thread> user_threads;
 std::vector<std::thread> searcher_threads;
 
@@ -58,8 +57,7 @@ std::queue<std::shared_ptr<Request>> request_queue;
 //Para los buscadores
 std::condition_variable cond_var_request_queue;
 std::mutex sem_request_queue;
-
-
+//Son los users
 
 //std::shared_ptr<UserPremiumLimited> user = std::make_shared<UserPremiumLimited>(1, 100);
 int main(int argc, char *argv[])
@@ -93,9 +91,6 @@ void createPaySys(){
 }
 
 std::string getRandomWordDictionary() {
-    //Creamos el diccionario
-    dictionary = getFileWords(std::string(DICTIONARY_PATH) + "Diccionario.txt");
-
     //Obtenemos una palabra aleatoria
     int random_number = getRandomNumber(0, dictionary.size()-1);
     return dictionary[random_number];
@@ -130,9 +125,7 @@ void createRandomUser(int user_id){
 
     switch (random_number){
         case 0:
-            //Usuario gratuito
             break;
-        
         case 1:
             //Usuario PremiumLimited
             user->setLimited(true);
