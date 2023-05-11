@@ -19,6 +19,7 @@
 #include <vector>
 #include <algorithm>
 #include <cctype>
+#include <tuple>
 #include <mutex>
 #include <shared_mutex>
 #include <regex>
@@ -47,9 +48,10 @@ std::vector<std::thread> user_threads;
 std::vector<std::thread> searcher_threads;
 
 //Para el sistema de pago
-std::mutex sem_system_pay_queue;
-std::queue<std::shared_ptr<User>> system_pay_queue;
-std::condition_variable cond_var_system_pay_queue;
+std::shared_ptr<std::mutex> sem_system_pay_queue = std::make_shared<std::mutex>(); //a los dos
+std::shared_ptr<std::condition_variable> cond_var_system_pay_queue = std::make_shared<std::condition_variable>();
+std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>> system_pay_queue = std::make_shared<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>>();
+
 
 //Para el sistema de búsqueda
 std::queue<std::shared_ptr<Request>> request_queue;
@@ -86,7 +88,7 @@ int main(int argc, char *argv[])
 
 void createPaySys(){
     Pay_Sys Paysystem;
-    Paysystem.paySysWorking(std::ref(sem_system_pay_queue), std::ref(cond_var_system_pay_queue), system_pay_queue);
+    Paysystem.paySysWorking(sem_system_pay_queue, cond_var_system_pay_queue, system_pay_queue);
     
 }
 
@@ -125,8 +127,8 @@ std::vector<std::string> getRandomFiles(){
 void createRandomUser(int user_id){ 
     //Creacion usuario, por defecto Free
     std::shared_ptr<User> user = std::make_shared<User>(user_id, USER_BALANCE, User_Type::FREE);
-    int random_number = getRandomNumber(0, 2);
-
+    //int random_number = getRandomNumber(0, 2);
+    int random_number = 1;
     switch (random_number){
         case 0:
             //Usuario Free
@@ -175,7 +177,7 @@ void createUsersThreads(int num_users){
 }
 
 void createSearchers(int searcher_id, std::string color){
-    Searcher searcher = Searcher(searcher_id, color);
+    Searcher searcher = Searcher(searcher_id, color, sem_system_pay_queue, cond_var_system_pay_queue, system_pay_queue);
     searcher.searcherWorking(std::ref(sem_request_queue), std::ref(cond_var_request_queue), request_queue);
 }
 

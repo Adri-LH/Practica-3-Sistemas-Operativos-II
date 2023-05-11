@@ -10,7 +10,7 @@
 #define MIN_FILES 1         //Numero minimo de archivos que puede buscar un usuario.
 #define MAX_FILES 3         //Numero maximo de archivos que puede buscar un usuario.
 
-#define USER_BALANCE 4
+#define USER_BALANCE 5
 
 enum User_Type { FREE, PREMIUMLIMITED, PREMIUM }; //Tipos de usuario
 std::string UserTypeToString(User_Type type){

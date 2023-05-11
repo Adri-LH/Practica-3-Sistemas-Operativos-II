@@ -6,6 +6,7 @@
 #include <thread>
 #include <sstream>
 #include <string>
+#include <tuple>
 #include <chrono>
 #include <vector>
 #include <algorithm>
@@ -14,20 +15,30 @@
 #include <shared_mutex>
 #include "User.h"
 
-#define balance 200 //Cantidad de recargo
+#define balance 4 //Cantidad de recargo
 
 class Pay_Sys{
 public:    
 
-    void paySysWorking(std::mutex& sem, std::condition_variable& cond_var, std::queue<std::shared_ptr<User>>& userpl_queue){
+    void paySysWorking(std::shared_ptr<std::mutex>  sem_system_pay_queue,
+    std::shared_ptr<std::condition_variable> cond_var_system_pay_queue, 
+    std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>> system_pay_queue){
+        
+        while(true){
+        std::unique_lock<std::mutex> lock(*sem_system_pay_queue); //Seccion critica
+        cond_var_system_pay_queue->wait(lock, [&system_pay_queue] {return !(system_pay_queue->empty());});
 
-        // std::unique_lock<std::mutex> lock(sem); //Seccion critica
-        // cond_var.wait(lock, [&userpl_queue] {return !(userpl_queue.empty());}); //Hay que añadir this
+        std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>> tuple_balance_sem = system_pay_queue->front();
+        system_pay_queue->pop();
+        
+        std::shared_ptr<int> user_balance = std::get<0>(tuple_balance_sem);
+        *user_balance = balance;
 
-        // std::shared_ptr<User>& user = userpl_queue.front();
-        // user->balanceUp(500);
-        // std::cout << "Saldo recargado\n";
-        // user->Unlock();
+        std::shared_ptr<std::mutex> searcher_sem = std::get<1>(tuple_balance_sem);
+        searcher_sem->unlock();
+
+        std::cout << "Saldo recargado\n";
+        }
     
     }
     
