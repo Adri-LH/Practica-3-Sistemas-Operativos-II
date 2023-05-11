@@ -4,31 +4,38 @@
 #include <mutex>
 #include <shared_mutex>
 #include "../include/Request.h"
+#include "../include/Global_Vars.h"
 
 class User{//Clase usuario
     public:
-        User(int _id, int _balance, bool premium, bool limited){ //Constructor usuario
+
+        User(int _id, int _balance, User_Type _type){ //Constructor usuario
             id = _id;
-            balance = _balance;
-            
+            *balance = _balance;
+            type = _type;
         }
 
         User(){};
 
         void balanceUp(double _balance){
-            balance = _balance;
-        }
-
-        void setPremium(bool _premium){
-            premium = premium;
-        }
-
-        void setLimited(bool _limited){
-            limited = _limited;
+            *balance = _balance;
         }
 
         int getID(){
             return id;
+        }
+
+        std::shared_ptr<int> getBalance(){
+            return balance;
+    
+        }
+
+        void setType(User_Type _type){
+            type = _type;
+        }
+
+        User_Type getType(){
+            return type;
         }
 
         std::shared_ptr<Request> getRequest(){
@@ -53,14 +60,16 @@ class User{//Clase usuario
             request -> setSemUser(sem);
             request -> setResult(result);
             request -> setUserId(id);
+            request -> setUserBalance(balance);
+            request -> setUserType(type);
         }
 
 
 
     private:
         int id;
-        int balance;
-        bool premium, limited;
+        std::shared_ptr<int> balance = std::make_shared<int>(0);
+        User_Type type;
 
         std::shared_ptr<std::mutex> sem = std::make_shared<std::mutex>();
         std::shared_ptr<Request> request = std::make_shared<Request>();

@@ -71,11 +71,11 @@ class Result{
             word_searched = _word_searched;
         }
 
-        std::string resultToString(){
-            std::string result;
+        std::string resultToString(int balance){
+            std::string result = "RESULTADOS:\n\n";
             for(int i = 0; i < searcher_result_info.size(); i++){
                 if (searcher_result_info[i].words_found.size() == 0) result+= "Buscador: " + std::to_string(id_searcher) 
-                + " Hilo: " + std::to_string(searcher_result_info[i].id_thread) + " no encontró ningún resultado en el archivo"
+                + " Hilo: " + std::to_string(searcher_result_info[i].id_thread) + " no pudo encontrar ningun resultado en el archivo"
                 + searcher_result_info[i].file + "\n";
 
                 else
@@ -86,7 +86,12 @@ class Result{
                     + searcher_result_info[i].words_found[j].later_word +  "\n";
                 
                 result += "\n";
+                
+                
             }
+
+            if (balance <= 0)
+                    result += "AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.";
                 
             return result;
     }

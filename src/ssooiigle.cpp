@@ -93,7 +93,8 @@ void createPaySys(){
 std::string getRandomWordDictionary() {
     //Obtenemos una palabra aleatoria
     int random_number = getRandomNumber(0, dictionary.size()-1);
-    return dictionary[random_number];
+    //return dictionary[random_number];
+    return "David";
 }
 
 std::vector<std::string> getRandomFiles(){
@@ -107,33 +108,37 @@ std::vector<std::string> getRandomFiles(){
     //Archivos seleccionados
     std::vector<std::string> selected_files;
     
-    for (int i = 0; i < num_files; i++){
-        //Obtenemos archivo aleatorio
-        std::string file = files[getRandomNumber(0, files.size() - 1)];
-        selected_files.push_back((std::string(FILES_PATH) + file));
+    // for (int i = 0; i < num_files; i++){
+    //     //Obtenemos archivo aleatorio
+    //     std::string file = files[getRandomNumber(0, files.size() - 1)];
+    //     selected_files.push_back((std::string(FILES_PATH) + file));
 
-    }
+    // }
+
+    selected_files.push_back((std::string(FILES_PATH) + "prueba.txt"));
+    selected_files.push_back((std::string(FILES_PATH) + "prueba2.txt"));
 
     return selected_files;
 }
 
 //Cada usuario será un hilo
 void createRandomUser(int user_id){ 
-    //Creacion usuario
-    std::shared_ptr<User> user = std::make_shared<User>(user_id, 500, false, false);
+    //Creacion usuario, por defecto Free
+    std::shared_ptr<User> user = std::make_shared<User>(user_id, USER_BALANCE, User_Type::FREE);
     int random_number = getRandomNumber(0, 2);
 
     switch (random_number){
         case 0:
+            //Usuario Free
             break;
         case 1:
             //Usuario PremiumLimited
-            user->setLimited(true);
+            user->setType(User_Type::PREMIUMLIMITED);
             break;
         
         case 2:
             //Usuario Premium
-            user->setPremium(true);
+            user->setType(User_Type::PREMIUM);
             break;
     }
 
@@ -155,7 +160,7 @@ void createRandomUser(int user_id){
     //Creamos el archivo txt que guarda la petición y el resultado
     std::string path = std::string(RESULTS_PATH) + std::to_string(user_id) + ".txt";
     writeFile(path, user-> getRequest()->requestToString());
-    writeFile(path, user-> getResult()->resultToString());
+    writeFile(path, user-> getResult()->resultToString(*(user->getBalance())));
     
 }
 

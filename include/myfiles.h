@@ -92,7 +92,7 @@ int countLines(std::string path) {
  * 
  * Argumentos utilizados: 'line' linea en la que se encuentra la palabra, 'pos' posicion 
  * de la primera letra de la palabra, 'previous' booleano para saber si devolver la 
- * antecesora o la predecesora
+ * antecesora (true) o la predecesora (false)
  * 
  * Valor de regreso: string retorna la palabra encontrada
  *
@@ -143,10 +143,18 @@ std::string getRelativeWord(std::string line, int pos, bool previous)
         
     }
 
+    //Creación de la palabra
+    std::string word;
     if (!previous)
-            return line.substr(pos + 2, long_word);
-        else
-            return line.substr(pos - long_word - 1, long_word);
+        word = line.substr(pos + 2, long_word);
+    else
+        word = line.substr(pos - long_word - 1, long_word);
+    
+    //si la palabra está vacía
+    if(word.empty() || word == " ")
+        word = "no_word";
+    
+    return word;
     
 }
 

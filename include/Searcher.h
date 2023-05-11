@@ -26,8 +26,11 @@
 void searchWords(std::string file, std::string word, int id_searcher, int id_thread);
 void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher);
 
-std::shared_mutex mutex_results;
-std::atomic<int> user_counter(0);
+std::shared_mutex mutex_results;    //Semaforo para introducir reultados
+std::atomic<int> user_counter(0);   //Variable que cuenta los usuarios totales
+
+std::shared_mutex mutex_balance;            //Semaforo para acceder al saldo
+std::condition_variable cond_var_balance;   //Variable de condicion para saldo
 
 class Searcher{
     public:
@@ -35,12 +38,15 @@ class Searcher{
         std::string color;                          //Color de impresión del buscador
         std::shared_ptr<Result> current_result;     //Resultado equivalente al del usuario
         std::shared_ptr<Request> current_request;   //Peticion equivalente a la del usuario
+        std::shared_ptr<int> current_user_balance;  //Referencia al saldo del actual usuario
+        User_Type current_user_type;                //Tipo del actual usuario
+
 
         Searcher(int _id_searcher, std::string _color){
             id_searcher = _id_searcher;
             color = _color;
         }
-
+ 
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
             while (user_counter < USERS_NUM){
@@ -58,12 +64,16 @@ class Searcher{
             request_queue.pop();
 
             //Imprimimos información
-            std::cout << color << "Buscador " << id_searcher << ": procesará la petición del Usuario " << current_request->getUserId() << std::endl;
+            std::cout << color << "[Buscador " << id_searcher << "] procesará la petición del Usuario " << current_request->getUserId() << std::endl;
 
             //Obtenemos por referencia el resultado del usuario e indicamos que buscador ha atendido la petición y la palabra que se ha buscado
             current_result = current_request->getResult();
             current_result-> setIdSearcher(id_searcher);
             current_result->setWordSearched(current_request->getWord());
+
+            //Obtenemos el saldo y el tipo de usuario
+            current_user_balance = current_request->getUserBalance();
+            current_user_type = current_request->getUserType();
 
             //Desbloqueo de semaforo para que otros buscadores atiendan peticiones
             lock.unlock();
@@ -75,10 +85,9 @@ class Searcher{
             current_request-> getSemUser() -> unlock();
 
             //Imprimimos información
-            std::cout << color << "Buscador " << id_searcher << ": ha finalizado la petición del Usuario " << current_request->getUserId()
+            std::cout << color << "[Buscador " << id_searcher << "] ha finalizado la petición del Usuario " << current_request->getUserId()
             << ", se desbloqueará su semáforo" << std::endl;
 
-            
             }
             
         }
@@ -89,7 +98,7 @@ class Searcher{
 
             for(int i = 0; i < files.size(); i++){
                 //Imprimimos información
-                std::cout << color << "Buscador " << id_searcher << " buscará la palabra :" << word << ": en el archivo :" << files[i]
+                std::cout << color << "[Buscador " << id_searcher << "] buscará la palabra :" << word << ": en el archivo :" << files[i]
                 << ": para el Usuario " << current_request->getUserId() << std::endl;
                 
                 //Se crean los hilos
@@ -98,6 +107,10 @@ class Searcher{
 
             //Espera a todos los hilos
             std::for_each(subthreads.begin(), subthreads.end(), std::mem_fn(&std::thread::join));
+
+            //Si el usuario se ha quedado sin saldo, lo mostramos
+            if(*current_user_balance <= 0)
+                std::cout << color << "[Buscador " << id_searcher << "] IMPORTANTE: el usuario " << current_request->getUserId() << " se ha quedado sin saldo." << std::endl;
 
         }
 
@@ -134,31 +147,40 @@ class Searcher{
 
             while (std::getline(archivo, linea)) {
 
+                    //Si el usuario no tiene saldo, dejamos de buscar palabras en el archivo
+                    std::unique_lock<std::shared_mutex> lock(mutex_results);
+                    if(*current_user_balance <= 0)
+                        break;
+                    lock.unlock();
+
                     // Convertir la línea a minúsculas
                     std::string line_lower = linea;
                     std::transform(line_lower.begin(), line_lower.end(), line_lower.begin(), [](unsigned char c){ return std::tolower(c); });
 
                     // Buscar la palabra en la línea
                     int pos = 0;
+
                     while ((pos = line_lower.find(word, pos)) != std::string::npos) {
-                        
-                        std::string previous = getRelativeWord(linea, pos, false);  //Palabra anterior
-                        std::string last = getRelativeWord(linea, pos, true);       //Palabra posterior
-
-                        if (previous.empty() || previous==" ") {
-                            previous="no_word";
-                        }else if(last.empty()|| last==" "){
-                            last="no_word";
-                        }
-
+                        //Si el buscador encuentra una palabra:
                         pos += word.length();
 
-                        //Si encuentra palabra:
+                        std::string previous = getRelativeWord(linea, pos, false);  //Palabra anterior
+                        std::string last = getRelativeWord(linea, pos, true);       //Palabra posterior
+                        
+                        //Semaforo para acceder a resultados
                         std::unique_lock<std::shared_mutex> lock(mutex_results);
+
+                        //Si el usuario no tiene saldo, dejamos de buscar palabras en la línea del archivo
+                        if(*current_user_balance <= 0)
+                        break;
 
                         //Añadimos la palabra encontrada al resultado del archivo
                         Word_Found_Info word_found(num_linea+1, previous, last);
                         searcher_result.addWordFound(word_found);
+                        //Si el usuario es FREE o PREMIUMLIMITED, su saldo se resta
+                        if(current_user_type == User_Type::FREE || current_user_type == User_Type::PREMIUMLIMITED)
+                            *current_user_balance = *current_user_balance -1;
+                        //std::cout << *current_user_balance << std::endl;
 
                     }
                 

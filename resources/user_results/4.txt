@@ -1,6 +1,0 @@
-***** Saludos usuario, has buscado la palabra 'Americano' en los archivos ::../resources/Libros/ACTITUD-DE-VENDEDOR.txt::     *****
-
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 745 --> estadista Americano Hubert
-Buscador: 4 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4215 --> colonos Americano durante
-
-
