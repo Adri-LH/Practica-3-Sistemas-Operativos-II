@@ -1,8 +1,8 @@
 #ifndef GLOBAL_VARS_H
 #define GLOBAL_VARS_H
 
-#define SEARCHERS_NUM 1     //Numero de buscadores.
-#define USERS_NUM 1         //Numero de usuarios. Sus perfiles serán aleatorios.
+#define SEARCHERS_NUM 2     //Numero de buscadores.
+#define USERS_NUM 3         //Numero de usuarios. Sus perfiles serán aleatorios.
 
 #define FILES_PATH      "../resources/Libros/"          //Ruta donde estarán los ficheros txt donde los buscadores buscarán palabras.
 #define RESULTS_PATH    "../resources/user_results/"    //Ruta donde se almacenarám los resultados de cada usuario.
@@ -38,7 +38,6 @@ std::string UserTypeToString(User_Type type){
 std::vector<std::string> colors = {
     "\033[31m",    // Rojo
     "\033[35m",    // Magenta
-    "\033[93m",    // Amarillo claro
     "\033[94m",    // Azul claro
     "\033[33m",    // Amarillo
     "\033[32m",    // Verde

@@ -54,6 +54,7 @@ class Result{
 
     public:
         int id_searcher;
+        int total_balance_reload;
         std::string word_searched;
         std::vector<File_Result_Info> searcher_result_info;
 
@@ -69,6 +70,10 @@ class Result{
 
         void setWordSearched(std::string _word_searched){
             word_searched = _word_searched;
+        }
+
+        void increaseTotalBalanceReload(){
+            total_balance_reload++;
         }
 
         std::string resultToString(int balance){
@@ -91,8 +96,11 @@ class Result{
             }
 
             if (balance <= 0)
-                    result += "AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.";
-                
+                result += "AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.\n";
+            
+            if (total_balance_reload > 0)
+                result += "AVISO: Durante tu busqueda se han realizado " + std::to_string(total_balance_reload) + " recargas de saldo.";
+
             return result;
     }
         

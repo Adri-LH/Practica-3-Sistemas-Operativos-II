@@ -1,0 +1,13 @@
+***** Saludos usuario Gratuito con ID 2, has buscado la palabra 'David' en los archivos ::../resources/Libros/prueba.txt::    ::../resources/Libros/prueba2.txt::     *****
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/prueba.txt Linea: 1 --> David David me
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/prueba.txt Linea: 6 --> bien David no_word
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/prueba.txt Linea: 9 --> david David me
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/prueba2.txt Linea: 1 --> David David me
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/prueba2.txt Linea: 6 --> bien David no_word
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+

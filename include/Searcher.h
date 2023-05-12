@@ -28,7 +28,7 @@ void searchWords(std::string file, std::string word, int id_searcher, int id_thr
 void prepareSubThreads(std::vector<std::string> files, std::string word, int id_searcher);
 
 std::shared_mutex mutex_results;    //Semaforo para introducir reultados
-std::atomic<int> user_counter(0);   //Variable que cuenta los usuarios totales
+//std::atomic<int> user_counter(0);   //Variable que cuenta los usuarios totales
 
 std::mutex mutex_balance;            //Semaforo para acceder al saldo
 std::condition_variable cond_var_balance;   //Variable de condicion para saldo
@@ -39,7 +39,7 @@ class Searcher{
         std::string color;                          //Color de impresión del buscador
         std::shared_ptr<std::mutex> sem_system_pay_queue; //Semaforo para acceder a la cola del sistema de pago
         std::shared_ptr<std::condition_variable> cond_var_system_pay_queue;
-        std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>> system_pay_queue;
+        std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>> system_pay_queue;
         std::shared_ptr<std::mutex> searcher_sem_system_pay = std::make_shared<std::mutex>(); //Semaforo para bloquearse y esperar al sistema de pago
 
         std::shared_ptr<Result> current_result;     //Resultado equivalente al del usuario
@@ -50,7 +50,7 @@ class Searcher{
 
         Searcher(int _id_searcher, std::string _color, std::shared_ptr<std::mutex> _sem_system_pay_queue,
         std::shared_ptr<std::condition_variable> _cond_var_system_pay_queue,
-        std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>> _system_pay_queue){
+        std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>> _system_pay_queue){
 
             id_searcher = _id_searcher;
             color = _color;
@@ -62,14 +62,12 @@ class Searcher{
  
         void searcherWorking(std::mutex& sem_request_queue, std::condition_variable& cond_var_request_queue, std::queue<std::shared_ptr<Request>>& request_queue){
  
-            while (user_counter < USERS_NUM){
+            while (true){
             //Espera entrada seccion critica con semáforo y variable de concición
             std::unique_lock<std::mutex> lock(sem_request_queue);
             cond_var_request_queue.wait(lock, [&request_queue] {return !(request_queue.empty());});
             
                 //Seccion critica
-                user_counter++;
-
                 //Obtenemos por referencia la peticion del usuario
                 current_request = std::move(request_queue.front());
 
@@ -158,6 +156,8 @@ class Searcher{
             std::string linea;
             int num_linea = 0;
 
+
+
             while (std::getline(archivo, linea)) {
 
                     //Si el usuario no tiene saldo, dejamos de buscar palabras en el archivo
@@ -185,13 +185,12 @@ class Searcher{
                             //Si el usuario no tiene saldo y es premium limitado, se recarga su saldo con el sistema de pago
                            
                                     
-                                    std::cout << std::to_string(*current_user_balance) << "\n";
-                                    
                                     if(*current_user_balance <= 0 && current_user_type == User_Type::PREMIUMLIMITED){
                                     std::unique_lock<std::mutex> lock_ps(mutex_balance);
-                                    system_pay_queue->push(std::make_tuple(current_user_balance, searcher_sem_system_pay));
+                                    system_pay_queue->push(std::make_tuple(current_user_balance, searcher_sem_system_pay, current_request->getUserId()));
                                     cond_var_system_pay_queue->notify_one();
                                     searcher_sem_system_pay->lock(); //Se bloquea hasta que el sistema de pago termine
+                                    current_result -> increaseTotalBalanceReload();
                                     lock_ps.unlock();
                                     }
                                     

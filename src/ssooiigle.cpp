@@ -50,7 +50,7 @@ std::vector<std::thread> searcher_threads;
 //Para el sistema de pago
 std::shared_ptr<std::mutex> sem_system_pay_queue = std::make_shared<std::mutex>(); //a los dos
 std::shared_ptr<std::condition_variable> cond_var_system_pay_queue = std::make_shared<std::condition_variable>();
-std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>> system_pay_queue = std::make_shared<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>>>>();
+std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>> system_pay_queue = std::make_shared<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>>();
 
 
 //Para el sistema de búsqueda
@@ -127,8 +127,8 @@ std::vector<std::string> getRandomFiles(){
 void createRandomUser(int user_id){ 
     //Creacion usuario, por defecto Free
     std::shared_ptr<User> user = std::make_shared<User>(user_id, USER_BALANCE, User_Type::FREE);
-    //int random_number = getRandomNumber(0, 2);
-    int random_number = 1;
+    int random_number = getRandomNumber(0, 2);
+
     switch (random_number){
         case 0:
             //Usuario Free
