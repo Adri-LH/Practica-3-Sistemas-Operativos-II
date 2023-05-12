@@ -34,7 +34,7 @@
 class Word_Found_Info{
 
     public:
-
+        //Para simplificar resultToString, los atributos son publicos
         int line;                   //Linea de la palabra
         std::string previous_word;  //Palabra anterior
         std::string later_word;     //Palabra posterior
@@ -51,6 +51,7 @@ class Word_Found_Info{
 class File_Result_Info{
 
     public:
+        //Para simplificar resultToString, los atributos son publicos
         int id_thread;                              //Hilo encargado de la busqueda del fichero
         std::string file;                           //Nombre archivo
         std::vector<Word_Found_Info> words_found;   //vector de palabras encontradas
@@ -69,15 +70,16 @@ class File_Result_Info{
 
 /*Descripcion: resultado de un buscador*/
 class Result{
-
-    public:
+    private:
         int id_searcher;                                    //ID del buscador encargado de la busqueda del usuario
         int total_balance_reload;                           //Recargos de saldo que se han hecho durante la busqueda
         std::string word_searched;                          //Palabra que el usuario ha buscado
         USER_TYPE user_type;                                //Tipo de usuario
+        float total_search_time;
         std::vector<File_Result_Info> searcher_result_info; //Vector de resultados ficheros
-        
 
+    public:
+        
         Result(){};
 
         void addSearcherResultInfo(File_Result_Info file_result){
@@ -88,6 +90,10 @@ class Result{
             id_searcher = _id_searcher;
         }
 
+        void setTotalSearchTime(float _total_search_time){
+            total_search_time = _total_search_time;
+        }
+
         void setWordSearched(std::string _word_searched){
             word_searched = _word_searched;
         }
@@ -96,8 +102,8 @@ class Result{
             user_type = _user_type;
         }
 
-        void increaseTotalBalanceReload(){
-            total_balance_reload++;
+        void setTotalBalanceReload(int _total_balance_reload){
+            total_balance_reload = _total_balance_reload;
         }
 
         /*Descripcion: Retorna informacion del resultado en forma legible al usuario*/
@@ -118,17 +124,18 @@ class Result{
                     + searcher_result_info[i].words_found[j].later_word +  "\n";
                 
                 result += "\n";
-                
-                
+                  
             }
-            
+
             //Si el usuario se ha quedado sin saldo
             if (balance <= 0 && user_type == USER_TYPE::FREE)
-                result += "AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.\n";
+                result += "AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.\n\n";
             
-            //Si e lusuario ha realizado recargos
+            //Si el usuario ha realizado recargos
             if (total_balance_reload > 0)
-                result += "AVISO: Durante tu busqueda se han realizado " + std::to_string(total_balance_reload) + " recargas de saldo.";
+                result += "AVISO: Durante tu busqueda se han realizado " + std::to_string(total_balance_reload) + " recargas de saldo.\n\n";
+
+            result += "El tiempo total de la busqueda ha sido  " + std::to_string(total_search_time) + " segundos.\n";
 
             return result;
     }

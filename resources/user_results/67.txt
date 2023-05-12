@@ -1,0 +1,21 @@
+Saludos usuario Gratuito con ID 67, has buscado la palabra 'Nube' en los archivos:
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+../resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1812 --> nube Nube de
+
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1983 --> nube Nube de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3560 --> las Nube de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3589 --> no_word Nube enicientas;
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7509 --> nube Nube asfixiante
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7682 --> las Nube descargan
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube derramaban
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube prestaban
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10683 --> las Nube el
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10874 --> no_word Nube menazadoras.
+
+El tiempo total de la busqueda ha sido  0.021924 segundos.
+

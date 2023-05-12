@@ -1,0 +1,10 @@
+Saludos usuario Gratuito con ID 59, has buscado la palabra 'Mal' en los archivos:
+../resources/Libros/prueba.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+
+El tiempo total de la busqueda ha sido  0.000192 segundos.
+

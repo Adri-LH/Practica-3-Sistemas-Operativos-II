@@ -1,0 +1,10 @@
+Saludos usuario Premium limitado con ID 68, has buscado la palabra 'Nube' en los archivos:
+../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+
+El tiempo total de la busqueda ha sido  0.013427 segundos.
+

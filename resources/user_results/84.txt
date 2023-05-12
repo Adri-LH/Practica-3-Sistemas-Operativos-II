@@ -1,0 +1,27 @@
+Saludos usuario Gratuito con ID 84, has buscado la palabra 'Capítulo' en los archivos:
+../resources/Libros/prueba2.txt
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 192 --> capítu Capítulo John
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 265 --> siguientes Capítulo tenga
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1483 --> ítulo Capítulo de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1507 --> capítu Capítulo de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2521 --> capítu Capítulo de
+
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 228 --> capítu Capítulo agíneselo
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1270 --> capítu Capítulo nterior.
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1557 --> capítu Capítulo nterior,
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1649 --> no_word Capítulo enideros,
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2758 --> este Capítulo �dale
+Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3465 --> tres Capítulo nos
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.009426 segundos.
+

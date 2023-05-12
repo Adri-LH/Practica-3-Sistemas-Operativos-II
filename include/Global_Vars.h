@@ -10,12 +10,12 @@
 * Fecha de creación/actualización: SSOO2 2023
 *
 * Descripción: Header que contiene variables y estructuras globales que usan la mayoria
-* de programas de la practica
+* de programas de la practica.
 *
 ************************************************************************************/
 
 #define SEARCHERS_NUM   4       //Numero de buscadores a crear.
-#define USERS_NUM       8      //Numero de usuarios a crear. Sus tipos (free, premium) seran aleatorios.
+#define USERS_NUM       50      //Numero de usuarios a crear. Sus tipos (free, premium) seran aleatorios.
 
 #define FILES_PATH      "../resources/Libros/"          //Ruta donde estarán los ficheros txt donde los buscadores buscarán palabras.
 #define RESULTS_PATH    "../resources/user_results/"    //Ruta donde se almacenaran los resultados de cada usuario.
@@ -23,7 +23,7 @@
 #define MIN_FILES 1         //Numero minimo de archivos que puede buscar un usuario.
 #define MAX_FILES 3         //Numero maximo de archivos que puede buscar un usuario.
 
-#define USER_BALANCE    0   //Saldo por defecto que tendra un usuario
+#define USER_BALANCE    11   //Saldo por defecto que tendra un usuario
 #define RELOAD_BALANCE  4   //Cantidad de recargo de saldo que aplicara el siste,a de pago
 
 enum USER_TYPE { FREE, PREMIUMLIMITED, PREMIUM };   //Tipos de usuario posibles

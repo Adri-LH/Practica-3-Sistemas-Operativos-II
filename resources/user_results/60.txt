@@ -1,0 +1,27 @@
+Saludos usuario Gratuito con ID 60, has buscado la palabra 'poder' en los archivos:
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+../resources/Libros/La-ﾃｺltima-sirena.txt
+../resources/Libros/VIVE-TU-SUEﾃ前.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 270 --> er g poder arlaﾂｻ.
+Buscador: 2 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 336 --> el poder mar
+Buscador: 2 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 585 --> contribuyen poder no_word
+Buscador: 2 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 633 --> poder poder alcanzar
+
+Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/La-ﾃｺltima-sirena.txt
+
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 188 --> declaraciﾃ poder y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 271 --> poder poder aprender
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.001228 segundos.
+

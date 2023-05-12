@@ -26,9 +26,6 @@ class User{//Clase usuario
             *p_balance = _balance;
             type = _type;
 
-            p_result->setUserType(type); //Se inicia el resultado rellenando algunas variables
-
-
             p_sem->lock(); //Se inicializa el semaforo (no se bloquea)
         
         }
@@ -82,8 +79,9 @@ class User{//Clase usuario
             p_request -> setUserBalance(p_balance);
             p_request -> setUserType(type);
 
-            //Se le informa al resultado de la palabra a buscar
+            //Se le informa al resultado de la palabra a buscar y el tipo de usuario
             p_result->setWordSearched(_word);
+            p_result->setUserType(type);
         }
 
 

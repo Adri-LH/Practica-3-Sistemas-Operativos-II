@@ -1,0 +1,177 @@
+Saludos usuario Premium limitado con ID 57, has buscado la palabra 'forma' en los archivos:
+../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+../resources/Libros/VIVE-TU-SUEﾃ前.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 173 --> forma forma parte
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 189 --> forma forma individual
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 205 --> la forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 222 --> todas forma y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 223 --> esposa forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 360 --> no_word forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 393 --> no_word forma quipos.
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 459 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 528 --> Podrﾃ forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 540 --> continﾃ forma equipos
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 568 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 608 --> forma forma  e
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 641 --> un forma  d
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 683 --> FORMA forma DE
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 684 --> que forma equipos
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 769 --> logrado forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 784 --> intente forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 798 --> forma forma otable,
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 876 --> no_word forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 931 --> forma forma imple,
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 970 --> forma forma inusual
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1006 --> que forma parte
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1014 --> forma forma u
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1109 --> forma forma ｡s
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1135 --> la forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1230 --> forma forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1370 --> estaba forma por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1372 --> aba f forma por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1398 --> para forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1463 --> personas forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1468 --> no_word forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1469 --> de forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1473 --> ha forma no
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1483 --> ha forma no
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1492 --> ya forma parte
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1543 --> de t forma a
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1633 --> las forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1636 --> forma forma ingeniosa
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1750 --> forma forma ingenua
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1756 --> que forma Ella
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1871 --> forma forma por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1872 --> forma forma que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1877 --> forma forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1877 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1918 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1956 --> original forma  e
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1963 --> forma forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1971 --> forma forma al
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1976 --> una forma no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2003 --> forma forma permanente
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2036 --> las forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2198 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2612 --> no_word forma e
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2679 --> a f forma una
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2988 --> forma forma en
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3069 --> para forma acerca
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3277 --> lo forma Por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3294 --> la forma que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3372 --> mbro f forma no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3443 --> no forma realmente
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3468 --> Soviﾃｩti forma  clasificad
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3473 --> SVR forma confidencial
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3474 --> Esa forma totalizaba
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3477 --> la forma pasada
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3649 --> no_word forma I),
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3801 --> ientemente f forma Estados
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3827 --> sin forma Para
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3839 --> reciﾃ forma Quienes
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4044 --> forma forma al
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4051 --> continua forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4057 --> la forma que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4126 --> obtener forma pecﾃｭfica
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4128 --> intercambiar forma Incluso
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4254 --> debe forma  s
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4261 --> forma forma directa
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4414 --> puede forma  u
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4465 --> va forma  u
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4480 --> ha forma no_word
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4502 --> forma forma continuamente
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4890 --> no_word forma un
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5047 --> boletﾃ forma  mensua
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5051 --> e forma a
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5148 -->  f forma y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5150 --> la forma que
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5174 --> mucha forma a
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5176 --> iciente i forma con
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5269 --> forma forma oportuna
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5275 --> en forma Sin
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5338 --> Compartieron forma Se
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5498 --> forma forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5539 -->  f forma A
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5575 --> nuestra forma y
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5659 --> la forma del
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6064 --> est forma por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6094 --> en forma Sin
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6104 --> forma forma comenzaron
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6260 --> lo forma Por
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6291 --> la forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6299 --> lo forma La
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6311 --> f forma de
+Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6314 --> f forma de
+
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 98 --> desearﾃｭ forma  Si
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 275 --> no_word forma CON
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 278 --> no_word forma con
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 279 --> habﾃｭ forma Los
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 285 -->  c forma con
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 540 --> forma forma ptima
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 648 --> para forma un
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 776 --> forma forma correcta
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 809 --> tomar forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 863 --> mejor forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 954 --> forma forma aceptable
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 955 --> forma forma rdinaria,
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1098 --> toca forma con
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1358 --> tu forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1668 --> forma forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1759 --> la forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1813 --> forma forma ｡s
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1833 --> no_word forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1852 --> en forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2049 --> propﾃｳsi forma tu
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2084 --> me forma que
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2139 --> Si forma parte
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2240 --> la forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2316 --> forma forma ｡s
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2471 --> canciones forma una
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2736 --> estas forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3005 --> forma forma ｡s
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3054 --> forma forma opuesta
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3483 --> no_word forma se
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3630 --> y forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3801 --> buena forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3960 --> Puede forma tu
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3962 --> de forma Como
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4075 --> ma a forma ﾃｳnoma.
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4105 --> no_word forma parte
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4564 --> la forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4976 --> DEBEN forma PARTE
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5327 --> esta forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5329 --> suficiente forma para
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5576 --> a forma parte
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5620 --> ﾂｿQuiﾃ forma mi
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6162 --> forma forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6233 --> fundamento forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6243 --> fundamento forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6436 --> dele forma y
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6634 --> forma forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6898 --> forma forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7081 --> forma forma en
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7089 --> forma forma en
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7499 --> pueden forma empresas
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7514 --> t forma ｳmo
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7781 --> forma forma de
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7789 --> de forma sino
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7805 --> forma forma nueva
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7806 --> ma o forma riginal.
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7938 --> forma forma en
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7953 --> forma forma  d
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7958 --> ma m forma ｡s
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8271 --> ﾂｫ forma no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8282 --> forma forma definitiva
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8581 --> plataforma forma para
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8704 --> ma e forma experta
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8752 --> MA E forma EXPERTA
+
+AVISO: Durante tu busqueda se han realizado 39 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.014766 segundos.
+

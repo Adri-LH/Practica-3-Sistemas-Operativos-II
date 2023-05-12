@@ -1,0 +1,26 @@
+Saludos usuario Gratuito con ID 79, has buscado la palabra 'Casa' en los archivos:
+../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+../resources/Libros/El-oro-y-la-ceniza.txt
+../resources/Libros/La-última-sirena.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 388 --> casa Casa de
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 815 --> casa Casa de
+
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 775 --> su Casa no_word
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 812 --> su Casa un
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 836 --> casa Casa pronto
+
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 112 --> han Casa Algunas
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 222 --> est Casa usted
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 471 --> Se Casa en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 484 --> casa Casa y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 697 --> sus Casa ndrían
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 836 --> Casa Casa Blanca
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.001669 segundos.
+

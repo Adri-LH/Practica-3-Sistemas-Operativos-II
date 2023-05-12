@@ -55,7 +55,8 @@ class Searcher{
         std::shared_mutex mutex_results;    
         //Puntero a semaforo para bloquearse y esperar al sistema de pago. Se envia al S.P.
         std::shared_ptr<std::mutex> p_searcher_sem_system_pay = std::make_shared<std::mutex>(); 
-        bool userHasBalance = true; //boolean para saber si un usuario tiene saldo.
+        bool g_user_has_balance;            //Boolean para saber si un usuario tiene saldo.
+        int g_user_total_balance_reload;    //Contador de recargas de saldo del cliente
         
 
         //VARIABLES QUE SI ASIGNAN EN EL CONSTRUCTOR
@@ -113,11 +114,11 @@ class Searcher{
             std::unique_lock<std::mutex> lock(*p_sem_request_queue);
             p_cond_var_request_queue->wait(lock, [&p_request_queue] {return !(p_request_queue->empty());});
 
-                //Obtenemos por referencia la peticion del usuario
-                p_current_request = std::move(p_request_queue->front());
-            
-                //Obtenemos los datos del nuevo cliente a traves de la peticion actual
-                getCurrentUserData();  
+                //Para calcular tiempo total de busqueda del usuario
+                auto start_time = std::chrono::high_resolution_clock::now();
+
+                //Obtenemos los datos del nuevo cliente a traves de la cola
+                getCurrentUserData(p_request_queue);  
 
                 //Imprimimos información
                 std::cout << color << "[Buscador " << id_searcher << "] procesará la petición del Usuario " << UserTypeToString(current_user_type) 
@@ -135,6 +136,9 @@ class Searcher{
             //Desbloqueamos el semaforo del usuario. Su peticion ha sido atendida
             p_current_request-> getSemUser() -> unlock();
 
+            //Agregamos ciertos datos en el resultado final
+            setFinalResultData(start_time);
+            
             //Imprimimos información
             std::cout << color << "[Buscador " << id_searcher << "] ha finalizado la petición del Usuario " << UserTypeToString(current_user_type)
             << " " << p_current_request->getUserId() << ", se desbloqueará su semáforo" << std::endl;
@@ -143,9 +147,11 @@ class Searcher{
             
         }
 
-        /*Descripcion: A traves de la peticion actual se obtienen los datos del nuevo usuario a
-        servir Y SE RELLENAN DATOS DEL RESULTADO*/
-        void getCurrentUserData(){
+        /*Descripcion: A traves de la cola de peticiones, se obtienen los datos del nuevo usuario 
+        a servir y se trata la informacion necesaria para tratar la peticion*/
+        void getCurrentUserData(std::shared_ptr<std::queue<std::shared_ptr<Request>>> p_request_queue){
+                //Obtenemos por referencia la peticion del usuario
+                p_current_request = std::move(p_request_queue->front());
 
                 //Obtenemos por referencia el resultado del usuario
                 p_current_result = p_current_request->getResult();
@@ -157,10 +163,27 @@ class Searcher{
                 //Le indicamos al resultado que buscador le ha atendido
                 p_current_result->setIdSearcher(id_searcher);
 
+                //Establecemos el numero de recargas del nuevo usuario a 0
+                g_user_total_balance_reload = 0;
+
                 //Se determina si el usuario tiene saldo
                 if(*p_current_user_balance <= 0 && current_user_type == USER_TYPE::FREE)
-                    userHasBalance = false;
+                    g_user_has_balance = false;
+                else
+                    g_user_has_balance = true;
                 
+        }
+
+        /*Descripcion: Establece informacion final al resultado del usuario
+        El parametro es la marca de tiempo en la que se empezo a tratar la peticion*/
+        void setFinalResultData(auto start_time){
+            //Para calcular tiempo total de busqueda del usuario
+            auto end_time = std::chrono::high_resolution_clock::now();
+            auto elapsed_time = std::chrono::duration_cast<std::chrono::microseconds>(end_time - start_time).count();
+
+            //Establecemos el tiempo total de la busqueda y el numero de recargos del usuario
+            p_current_result->setTotalSearchTime(static_cast<float>(elapsed_time) / 1000000.0);
+            p_current_result->setTotalBalanceReload (g_user_total_balance_reload);
         }
 
         /*Descripcion: Crea y espera subhilos. A cada uno se le asigna un fichero donde buscar*/
@@ -211,7 +234,7 @@ class Searcher{
             int num_line = 0;
 
             //Busqueda en una linea
-            while (std::getline(file, line) && userHasBalance) {
+            while (std::getline(file, line) && g_user_has_balance) {
 
                 // Convertir la línea a minúsculas
                 std::string line_lower = line;
@@ -231,7 +254,7 @@ class Searcher{
 
                         //Comprobamos el saldo del usuario y si puede recargar. Si no, se corta la busqueda 
                         if (!checkUserBalance()){
-                            userHasBalance = false;
+                            g_user_has_balance = false;
                             break;
                         }
 
@@ -276,9 +299,9 @@ class Searcher{
         std::unique_lock<std::mutex> lock_pay_sys(*p_sem_system_pay_queue);
             p_system_pay_queue->push(std::make_tuple(p_current_user_balance, p_searcher_sem_system_pay, p_current_request->getUserId()));
             p_cond_var_system_pay_queue->notify_one();
+            g_user_total_balance_reload ++; //Se incrementa el numero de recargas de saldo del usuario
         lock_pay_sys.unlock();
         p_searcher_sem_system_pay->lock(); //Se bloquea hasta que el sistema de pago termine
-        p_current_result -> increaseTotalBalanceReload(); //Se incrementa el numero de recargas de saldo del usuario
     }
         
 };

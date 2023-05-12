@@ -47,12 +47,14 @@ void createUsersThreads(int num_users);
 void createRandomUser(int user_id);
 void createUserRequest(std::shared_ptr<User> user);
 void createTxtResults(std::string path, std::string request, std::string result);
+void addUserRequestWithPreference(std::shared_ptr<User> user);
 std::string getRandomWordDictionary();
 std::vector<std::string> getRandomFiles();
 
 //Variables globales
 std::vector<std::thread> g_user_threads;      //Vector de hilos de usuarios
 std::vector<std::thread> g_searcher_threads;  //Vector de hilos de buscadores
+int g_user_id_counter = 0;                    //Contador de usuarios creados
 
 //PARA EL SISTEMA DE PAGO
 
@@ -93,7 +95,11 @@ int main(int argc, char *argv[])
     
     //Creamos usuarios y peticiones
     createUsersThreads(USERS_NUM);
-    
+
+    //Volvemos a crear usurios y peticiones a los 5 segundos
+    std::this_thread::sleep_for(std::chrono::seconds(5));
+    createUsersThreads(USERS_NUM);
+
     //Espera a todas las entidades
     T_Pay_Sys.join();
     std::for_each(g_user_threads.begin(), g_user_threads.end(), std::mem_fn(&std::thread::join));
@@ -137,7 +143,8 @@ void createUsersThreads(int num_users){
     deleteDirectoryFiles(RESULTS_PATH);
 
     for(int i = 0; i < num_users; i++){
-        g_user_threads.push_back(std::thread(createRandomUser, i));
+        g_user_threads.push_back(std::thread(createRandomUser, g_user_id_counter));
+        g_user_id_counter++;
     }
 
 }
@@ -179,9 +186,10 @@ void createUserRequest(std::shared_ptr<User> user){
 
     //Colocamos la peticion en la cola de peticiones, bloqueando el semaforo de peticiones
     std::unique_lock<std::mutex> lock_request_queue(*p_sem_request_queue);
-        p_request_queue->push(user->getRequest());
-        //Avisamos a un buscador de que hay una peticion
-        p_cond_var_request_queue->notify_one(); 
+    addUserRequestWithPreference(user);
+
+    //Avisamos a un buscador de que hay una peticion
+    p_cond_var_request_queue->notify_one(); 
     lock_request_queue.unlock();
 
     //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará.
@@ -190,6 +198,26 @@ void createUserRequest(std::shared_ptr<User> user){
     //Creamos resultados
     std::string path = std::string(RESULTS_PATH) + std::to_string(user->getID()) + ".txt";
     createTxtResults(path, user-> getRequest()->requestToString(), user-> getResult()->resultToString(*(user->getBalance())));
+}
+
+/*Descripcion: */
+void addUserRequestWithPreference(std::shared_ptr<User> user){
+    int randomnumber = getRandomNumber(0, 9);
+
+    //Usuarios no premium
+    if(user->getType() == USER_TYPE::FREE){
+        if (randomnumber <= 1)
+            p_request_queue->push(user->getRequest());      // 20% Principio de la cola
+        else
+            p_request_queue->emplace(user->getRequest());   //80% Final de la cola
+    }
+    //Usuarios premium
+    else{
+        if (randomnumber <= 1)
+            p_request_queue->emplace(user->getRequest());   //20% Final de la cola
+        else
+            p_request_queue->push(user->getRequest());      //80% Principio de la cola
+    }
 }
 
 /*Descripcion: Crea un txt de resultado de busqueda y le añade informacion*/
@@ -221,7 +249,6 @@ std::vector<std::string> getRandomFiles(){
         //Obtenemos archivo aleatorio
         std::string file = files[getRandomNumber(0, files.size() - 1)];
         selected_files.push_back((std::string(FILES_PATH) + file));
-
     }
 
     return selected_files;

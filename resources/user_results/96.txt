@@ -1,0 +1,10 @@
+Saludos usuario Premium con ID 96, has buscado la palabra 'talento' en los archivos:
+../resources/Libros/prueba2.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+El tiempo total de la busqueda ha sido  0.002107 segundos.
+

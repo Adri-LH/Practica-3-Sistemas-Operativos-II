@@ -1,0 +1,18 @@
+Saludos usuario Gratuito con ID 58, has buscado la palabra 'Americano' en los archivos:
+../resources/Libros/VIVE-TU-SUEÑO.txt
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2146 --> ricano ( Americano L),
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2151 --> americano Americano nunca
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4034 --> fútb Americano la
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4563 --> americano Americano reciben
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6252 --> paracaidistas Americano no_word
+
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3180 --> Fútb Americano ijo:
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5617 --> americano Americano en
+
+El tiempo total de la busqueda ha sido  0.014404 segundos.
+

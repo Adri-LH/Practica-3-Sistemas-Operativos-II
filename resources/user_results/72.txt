@@ -1,0 +1,13 @@
+Saludos usuario Gratuito con ID 72, has buscado la palabra 'Árbol' en los archivos:
+../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+../resources/Libros/La-última-sirena.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+Buscador: 0 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/La-última-sirena.txt
+
+El tiempo total de la busqueda ha sido  0.030599 segundos.
+

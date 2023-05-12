@@ -1,0 +1,191 @@
+Saludos usuario Premium limitado con ID 90, has buscado la palabra 'Mal' en los archivos:
+../resources/Libros/La-última-sirena.txt
+../resources/Libros/prueba.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 232 --> dolor Mal el
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 239 --> no_word Mal nacida
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 244 --> mi Mal la
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 352 --> lugar Mal con
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 505 --> hab� Mal en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 543 --> No Mal eas,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 552 --> m Mal sea
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 581 --> no_word Mal via...
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 584 --> no_word Mal Digo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 594 --> trueno Mal jía,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 614 --> instante Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 621 --> y Mal Una
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 684 -->  m Mal jaro,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 688 --> m Mal canto
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 719 --> no_word Mal �lo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 816 --> no_word Mal pero
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 937 --> con Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 947 --> espíri Mal en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1126 --> ños Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1257 --> sangre Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1293 --> sientes Mal l
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1469 --> tienes Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1483 --> mal c Mal como
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1490 --> casi Mal su
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1521 --> no_word Mal bía
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1611 --> no_word Mal Io
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1860 --> mal Mal porque
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1876 --> no_word Mal bién.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2258 --> ni� Mal Esa
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2403 --> e m Mal alerta
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2457 --> y Mal luego
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2512 --> serio Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2546 --> formal Mal con
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2647 --> la Mal ería
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2652 --> la Mal lo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2960 --> y Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2977 --> La Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2984 --> en Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3059 --> fantasmal Mal sobre
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3109 --> La Mal egó
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3132 --> La Mal te
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3176 --> hombres Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3220 --> la Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3323 --> ¿ Mal otra
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3324 --> —respo Mal No
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3324 --> la Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3349 --> de Mal en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3453 --> mi Mal no
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3465 --> y Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3500 --> retrocedi Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3506 --> hab� Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3865 --> la Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3960 --> fantasmal Mal sonido
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4096 --> era Mal ea,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4128 --> y Mal Entonces
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4176 --> s m Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4223 --> preocupaci� Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4314 --> muy Mal tiradores
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4547 --> quiz� Mal epción?
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4639 --> me Mal Estoy
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4800 --> la Mal pueda
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4848 --> las Mal piedras
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4930 --> y Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5073 --> la Mal lo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5084 --> figuras Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5144 --> fantasmal Mal silencio
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5146 --> y Mal en
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5163 --> no_word Mal eas,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5169 --> sale Mal debes
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5326 --> no_word Mal el
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5396 --> otros Mal prisioneros
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5588 --> con Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5871 --> y Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5880 --> —d Mal eas,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5945 --> al Mal éano
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5948 --> Un Mal vendaval
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6192 --> habr Mal mi
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6252 --> estóma Mal comida
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6500 --> � Mal Estoy
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6560 --> muy Mal �bil
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6565 --> los Mal Veneno
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6627 --> es f Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6649 --> animal Mal despiadado
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6806 --> tros f Mal el
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6808 --> bastante Mal como
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6859 --> s Mal era
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6910 --> total Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7002 --> no_word Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7003 --> Los Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7096 --> la Mal ondres.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7191 --> Alg� Mal idiota
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7411 --> la Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7584 --> un Mal todo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7683 --> s Mal El
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7693 --> no_word Mal aldito,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7693 --> maldita Mal nderé
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7724 --> épo Mal  par
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7751 --> oscuras Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7840 --> m Mal carruaje
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7920 --> la Mal suerte
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8171 --> vidas Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8184 --> cierta Mal Se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8417 --> mal Mal apoyados
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8474 --> desearlo Mal sus
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8475 --> aba m Mal bía
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8695 --> llave Mal Lo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8913 --> imagen Mal ea.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8916 --> no_word Mal los
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8989 --> sientes Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9219 --> mal Mal por
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9457 --> vides Mal por
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9562 --> ¡Espe Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9581 --> sonrisa Mal Pero
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9737 --> tentaci� Mal del
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9876 --> La Mal el
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10013 --> no_word Mal sonrisa
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10076 --> el Mal por
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10081 --> el Mal viviente
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10515 --> manera Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10520 --> no_word Mal bería
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10708 --> algo Mal sola
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10932 --> era Mal que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10979 --> reverencia Mal luego
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11277 --> de Mal gana
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11337 --> s.  Mal ea!
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11692 --> oí Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11696 --> no_word Mal éfono.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11696 --> Ten� Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11730 --> no_word Mal rca..
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11733 --> mal Mal humor
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11741 --> El Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11799 --> que Mal trajo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11800 --> mal Mal Ruri
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11852 --> de Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11856 --> ¿Al Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11944 --> no_word Mal Quienquiera
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12029 --> a;  Mal silencioso
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12037 --> mal Mal tiempo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12221 --> no_word Mal ea.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12227 --> y Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12562 --> de Mal putación
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12573 --> a Mal aquel
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12586 --> de Mal có
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12694 --> que Mal no
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12819 --> los Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12975 --> lo Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13045 --> su Mal  co
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13046 --> una Mal con
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13051 --> el Mal  d
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13141 --> la Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13345 --> Mi Mal otestó
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13348 --> su Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13457 --> Só Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13628 --> lecturas Mal pero
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13800 --> su Mal la
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13885 --> idas i Mal para
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13900 --> fantasmal Mal que
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14000 --> de Mal ana.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14046 --> extraordinariamente Mal para
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14060 --> informal Mal arecido,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14152 --> aterraron Mal y
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14229 --> no_word Mal mera
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14324 --> la Mal bierta,
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14329 --> fantasmal Mal se
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14371 --> luz Mal Cuando
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14504 --> la Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14594 --> la Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14612 --> densa Mal de
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14893 --> esa Mal lancha
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15045 --> no_word Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15182 --> mal Mal r—.
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15183 --> no_word Mal suerte
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15244 --> oscura Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15582 --> un Mal espejo
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15668 --> con Mal Ruri
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15677 --> me Mal Me
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15682 --> no_word Mal no_word
+
+AVISO: Durante tu busqueda se han realizado 42 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.026704 segundos.
+

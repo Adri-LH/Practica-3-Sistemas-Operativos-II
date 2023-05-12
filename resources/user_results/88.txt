@@ -1,0 +1,17 @@
+Saludos usuario Gratuito con ID 88, has buscado la palabra 'Luna' en los archivos:
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+../resources/Libros/prueba2.txt
+../resources/Libros/VIVE-TU-SUEÑO.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1055 --> l Luna Y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1855 --> no_word Luna Albert
+
+El tiempo total de la busqueda ha sido  0.011396 segundos.
+

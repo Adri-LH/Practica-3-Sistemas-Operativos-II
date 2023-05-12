@@ -1,0 +1,52 @@
+Saludos usuario Premium con ID 63, has buscado la palabra 'poder' en los archivos:
+../resources/Libros/prueba.txt
+../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 97 --> poder poder contar
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 281 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 339 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 391 --> poder poder a
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 449 --> todo poder dejemos
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 511 --> de poder no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 833 --> ≥rguele poder Pocas
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 833 --> poder poder que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 884 --> famosos poder y
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 984 --> los poder extranjeros
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1024 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1029 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1110 --> poder poder poner
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1569 --> poder poder ormal.
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1585 --> vivos poder no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1884 --> poder poder y
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2879 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3142 --> poder poder contar
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3218 --> poder poder contar
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3231 --> poder poder contar
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3257 --> no_word poder Hela
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3451 --> poder poder contar
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3462 --> poder poder que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3497 --> deben poder no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3567 --> poder poder seguir
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3881 --> poder poder a
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3985 --> m√ poder en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4229 --> nsiva p poder Sin
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4233 --> no_word poder banca
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4773 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4779 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5077 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5275 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5282 --> poder poder en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5613 --> poder poder  de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5654 --> su poder iderazgo.
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5673 --> venci poder intereses
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6057 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6280 --> poder poder de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6358 --> su poder tr√©guelo
+
+El tiempo total de la busqueda ha sido  0.011232 segundos.
+

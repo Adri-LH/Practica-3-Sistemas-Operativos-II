@@ -1,0 +1,22 @@
+Saludos usuario Gratuito con ID 54, has buscado la palabra 'poder' en los archivos:
+../resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 567 --> poder poder vitarlo,
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 824 --> el poder la
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1074 --> er s poder salir
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1191 --> poder poder que
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1200 --> mÃ poder el
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1207 --> poder poder upremo,
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1266 --> de poder que
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1300 --> y poder el
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1311 --> el poder en
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1934 --> poder poder y
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2079 --> poder poder y
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.003982 segundos.
+

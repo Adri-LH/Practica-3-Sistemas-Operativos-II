@@ -1,0 +1,18 @@
+Saludos usuario Premium con ID 66, has buscado la palabra 'Nube' en los archivos:
+../resources/Libros/VIVE-TU-SUEÑO.txt
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+../resources/Libros/prueba2.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 2 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1919 --> e d Nube de
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2073 --> nube Nube  d
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3364 --> nube Nube negra
+
+Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+
+El tiempo total de la busqueda ha sido  0.015767 segundos.
+

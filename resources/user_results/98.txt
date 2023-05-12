@@ -1,0 +1,196 @@
+Saludos usuario Premium limitado con ID 98, has buscado la palabra 'forma' en los archivos:
+../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 32 --> forma forma o
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 56 --> forma forma encantadora
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 135 --> forma forma mÃºn
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 145 --> xi forma la
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 145 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 172 --> misma forma John
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 174 --> forma forma parte
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 202 --> forma forma nnata,
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 219 --> las forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 225 --> al forma habitualmente
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 265 --> algunas forma para
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 309 --> forma forma nunca
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 356 --> las forma para
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 401 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 405 --> las forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 442 --> alguna forma Luego
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 494 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 497 --> buscar forma para
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 497 --> busque forma para
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 563 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 614 --> para forma un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 649 --> la forma se
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 653 --> plataforma forma para
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 699 --> que forma un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 746 --> forma forma  un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 754 --> para forma un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 783 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 813 --> forma forma ¡s
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 940 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 972 --> tiempo forma un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1039 --> la forma no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1080 --> diferentes forma hasta
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1088 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1274 --> plataforma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1304 --> las forma ¡s
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1307 --> forma forma pue
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1360 --> forma forma que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1410 --> para forma sobre
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1427 --> esa forma Un
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1430 --> transforma forma cuando
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1446 --> mejor forma lÃ­tica
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1494 --> la forma Nos
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1500 --> esa forma uego,
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1529 --> DAR forma  VALIOS
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1530 --> ser forma que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1561 --> una forma no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1576 --> no_word forma Usted
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1579 --> la forma ³lo
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1581 --> una forma privada
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1692 --> forma forma  qu
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1713 --> recolectando forma acerca
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1733 --> forma forma maravillosa
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1739 --> esa forma entonces
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1767 --> esta forma Colorado
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1780 --> desarrollara forma Por
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1795 --> las forma ¡s
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1821 --> varias forma alrededor
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1847 --> otra forma no
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1862 --> forma forma exacta
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1897 --> plataforma forma nacional
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1929 --> forma forma nunca
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1966 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1977 --> para forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2006 --> forma forma que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2133 --> ma l forma la
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2304 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2379 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2461 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2487 --> varias forma Puede
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2572 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2604 --> otra forma Les
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2618 --> forma forma que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2638 --> informa forma ¡s
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2778 --> y forma educacional
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2865 --> archivar forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2915 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2937 --> en forma de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3113 --> forma forma muchas
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3193 --> forma forma ¡s
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3336 --> forma forma en
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3363 --> esta forma Lleve
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3372 -->  f forma que
+
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 173 --> forma forma parte
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 189 --> forma forma individual
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 205 --> la forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 222 --> todas forma y
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 223 --> esposa forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 360 --> no_word forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 393 --> no_word forma quipos.
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 459 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 528 --> PodrÃ forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 540 --> continÃ forma equipos
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 568 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 608 --> forma forma  e
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 641 --> un forma  d
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 683 --> FORMA forma DE
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 684 --> que forma equipos
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 769 --> logrado forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 784 --> intente forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 798 --> forma forma otable,
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 876 --> no_word forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 931 --> forma forma imple,
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 970 --> forma forma inusual
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1006 --> que forma parte
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1014 --> forma forma u
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1109 --> forma forma ¡s
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1135 --> la forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1230 --> forma forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1370 --> estaba forma por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1372 --> aba f forma por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1398 --> para forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1463 --> personas forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1468 --> no_word forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1469 --> de forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1473 --> ha forma no
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1483 --> ha forma no
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1492 --> ya forma parte
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1543 --> de t forma a
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1633 --> las forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1636 --> forma forma ingeniosa
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1750 --> forma forma ingenua
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1756 --> que forma Ella
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1871 --> forma forma por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1872 --> forma forma que
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1877 --> forma forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1877 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1918 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1956 --> original forma  e
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1963 --> forma forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1971 --> forma forma al
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1976 --> una forma no_word
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2003 --> forma forma permanente
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2036 --> las forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2198 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2612 --> no_word forma e
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2679 --> a f forma una
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2988 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3069 --> para forma acerca
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3277 --> lo forma Por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3294 --> la forma que
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3372 --> mbro f forma no_word
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3443 --> no forma realmente
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3468 --> SoviÃ©ti forma  clasificad
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3473 --> SVR forma confidencial
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3474 --> Esa forma totalizaba
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3477 --> la forma pasada
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3649 --> no_word forma I),
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3801 --> ientemente f forma Estados
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3827 --> sin forma Para
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3839 --> reciÃ forma Quienes
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4044 --> forma forma al
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4051 --> continua forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4057 --> la forma que
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4126 --> obtener forma pecÃ­fica
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4128 --> intercambiar forma Incluso
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4254 --> debe forma  s
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4261 --> forma forma directa
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4414 --> puede forma  u
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4465 --> va forma  u
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4480 --> ha forma no_word
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4502 --> forma forma continuamente
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4890 --> no_word forma un
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5047 --> boletÃ forma  mensua
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5051 --> e forma a
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5148 -->  f forma y
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5150 --> la forma que
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5174 --> mucha forma a
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5176 --> iciente i forma con
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5269 --> forma forma oportuna
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5275 --> en forma Sin
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5338 --> Compartieron forma Se
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5498 --> forma forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5539 -->  f forma A
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5575 --> nuestra forma y
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5659 --> la forma del
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6064 --> est forma por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6094 --> en forma Sin
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6104 --> forma forma comenzaron
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6260 --> lo forma Por
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6291 --> la forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6299 --> lo forma La
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6311 --> f forma de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6314 --> f forma de
+
+AVISO: Durante tu busqueda se han realizado 43 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.015036 segundos.
+

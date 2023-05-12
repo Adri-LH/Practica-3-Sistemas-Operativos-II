@@ -1,0 +1,26 @@
+Saludos usuario Gratuito con ID 83, has buscado la palabra 'Nube' en los archivos:
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+../resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 410 --> las Nube  Entr
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1180 --> las Nube o
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2890 --> no_word Nube Cuando
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3064 --> no_word Nube si
+Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4683 --> las Nube cuando
+
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1983 --> nube Nube de
+Buscador: 3 Hilo: 2 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3560 --> las Nube de
+
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 410 --> las Nube  Entr
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1180 --> las Nube o
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2890 --> no_word Nube Cuando
+Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3064 --> no_word Nube si
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.012699 segundos.
+

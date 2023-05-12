@@ -1,0 +1,13 @@
+Saludos usuario Gratuito con ID 74, has buscado la palabra 'David' en los archivos:
+../resources/Libros/La-última-sirena.txt
+../resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10560 --> David David cribió
+
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/La-última-sirena.txt
+
+El tiempo total de la busqueda ha sido  0.020159 segundos.
+

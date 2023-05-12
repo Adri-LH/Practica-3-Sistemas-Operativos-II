@@ -1,0 +1,25 @@
+Saludos usuario Gratuito con ID 87, has buscado la palabra 'poder' en los archivos:
+../resources/Libros/prueba2.txt
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 188 --> declaraciÃ poder y
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 271 --> poder poder aprender
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 386 --> poder poder usarla
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 536 --> poder poder de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> es poder Mucha
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> poder poder  e
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.001062 segundos.
+

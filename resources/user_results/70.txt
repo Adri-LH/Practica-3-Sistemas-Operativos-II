@@ -1,0 +1,25 @@
+Saludos usuario Gratuito con ID 70, has buscado la palabra 'Luna' en los archivos:
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+../resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1155 --> luna Luna se
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1925 --> medias Luna su
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2859 --> la Luna  L
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2870 --> la Luna recía
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2961 --> la Luna no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> la Luna a
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> luna Luna que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3116 --> la Luna no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3552 --> ros,  Luna sol
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3574 --> luna Luna velaba
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3586 --> luna Luna erida;
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.007827 segundos.
+

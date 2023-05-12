@@ -1,0 +1,25 @@
+Saludos usuario Gratuito con ID 71, has buscado la palabra 'Mal' en los archivos:
+../resources/Libros/prueba.txt
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 350 --> para Mal Pero
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 354 --> mal Mal antes
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 429 --> parec� Mal Pero
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 539 --> nuestras Mal se
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 653 --> personas Mal sto.
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 686 --> para Mal Dos
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 700 --> era Mal entonces
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 765 --> ne m Mal ltados—,
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 765 --> anda Mal davía
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 774 --> mal Mal que
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 966 --> formal Mal y
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.001941 segundos.
+

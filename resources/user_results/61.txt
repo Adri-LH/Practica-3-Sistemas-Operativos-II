@@ -1,0 +1,24 @@
+Saludos usuario Gratuito con ID 61, has buscado la palabra 'Mal' en los archivos:
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 263 --> una Mal titud»
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 272 --> no_word Mal o
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 306 --> no_word Mal de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 309 --> espíri Mal de
+Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 310 --> espíri Mal no_word
+
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 263 --> una Mal titud»
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 272 --> no_word Mal o
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 306 --> no_word Mal de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 309 --> espíri Mal de
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 310 --> espíri Mal no_word
+Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 321 --> mal Mal que
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.000998 segundos.
+
