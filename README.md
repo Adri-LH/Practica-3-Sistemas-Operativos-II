@@ -3,7 +3,7 @@
 ## Solución del problema
 Realizado por Adrián Carrasco Espinosa y Javier De la Concepción Dorado.
 
-## Informacion general
+## Informacin general
 
 - La autoevaluación se encuentra en el fichero pdf con el enunciado de la práctica.
 - Para la solución no se han usado procesos, solo hilos. 
@@ -30,7 +30,7 @@ Si se trata de un usuario premium limitado, cuando su saldo se acaba, ocurre alg
 
 ## Recursos
 
-- El diccionario es un vector de strings que se encuentra en /include/Gloval_Vars.h
+El diccionario es un vector de strings que se encuentra en /include/Gloval_Vars.h
 
 ## Sistema de prioridad de usuarios 
 
@@ -40,5 +40,6 @@ Para un usuario premium: 0-1 -> Se añade al final de la cola | 2-9 -> Se añade
 
 ## Problemas
 
-En principio, las palabras se encuentran de forma correcta. Sin embargo, la palabra anterior y la posterior no, pero nos hemos querido centrar en los objetivos de esta práctica.
+- En principio, las palabras se encuentran de forma correcta. Sin embargo, la palabra anterior y la posterior no, pero nos hemos querido centrar en los objetivos de esta práctica.
+- Es posible que en los resultados de un usuarios haya fallos en algunos caracteres, como acentos o la letra 'ñ'.
 
