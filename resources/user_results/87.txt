@@ -1,25 +1,62 @@
-Saludos usuario Gratuito con ID 87, has buscado la palabra 'poder' en los archivos:
-../resources/Libros/prueba2.txt
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+Saludos usuario Premium limitado con ID 87, has buscado la palabra 'forma' en los archivos:
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 95 --> e forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 372 --> forma forma ositiva.
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 966 --> honesto forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1037 --> la forma la
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1150 --> transforma forma en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1162 --> forma forma vicaria
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1271 --> se forma con
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1529 --> mujeres forma un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1901 --> para forma un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1961 --> forma forma en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2239 --> con forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2258 --> Ã¡ndole forma Si
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2275 --> forma forma Ã¡
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2334 --> obtener forma onfiable.
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2336 --> no_word forma que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2383 --> sea forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2394 --> no_word forma aliosa,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2438 --> en forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2637 --> para forma para
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2672 --> de forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2673 --> mÃ forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2685 --> mÃ forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2861 --> forma forma amÃ¡tica
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2932 --> de forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3023 --> esa forma se
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3048 --> todas forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3397 --> nueva forma y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3492 --> forma forma amÃ¡tica
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3572 --> educaciÃ forma Pero
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3629 --> forma forma precisa
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4206 --> acumular forma respecto
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4279 --> misma forma El
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4284 --> y forma en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4453 --> forma forma muy
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4619 --> para forma un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4831 --> en forma no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4837 --> al forma la
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4852 --> forma forma erdurable,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4953 --> contexto forma programe
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5093 --> comunicar forma No
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5113 --> ser forma u
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5124 --> se forma Requieren
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5197 --> forma forma progresiva
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5217 --> o forma nterior.
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5231 --> forma forma que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5236 --> de forma es
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5299 --> forma forma tal
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5350 --> forma forma sincera
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5442 --> ma o forma ficial,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5459 --> da forma a
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5539 --> forma forma ndependiente,
 
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 188 --> declaraciÃ poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 271 --> poder poder aprender
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 386 --> poder poder usarla
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 536 --> poder poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> es poder Mucha
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> poder poder  e
+AVISO: Durante tu busqueda se han realizado 10 recargas de saldo.
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.001062 segundos.
+El tiempo total de la busqueda ha sido  0.011572 segundos.
 

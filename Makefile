@@ -4,8 +4,8 @@ DIRHEA := include/
 DIRSRC := src/
 DIRRES := resources/
 
-CFLAGS := -I$(DIRHEA) -c 
-LDLIBS := -lpthread -lrt -std=c++17
+CFLAGS := -I$(DIRHEA) -c -std=c++20
+LDLIBS := -lpthread -lrt 
 CC := g++
 
 all : dirs ssooiicle

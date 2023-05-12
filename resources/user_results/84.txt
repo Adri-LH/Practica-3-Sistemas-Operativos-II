@@ -1,27 +1,62 @@
-Saludos usuario Gratuito con ID 84, has buscado la palabra 'Capítulo' en los archivos:
-../resources/Libros/prueba2.txt
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
-../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+Saludos usuario Premium limitado con ID 84, has buscado la palabra 'poder' en los archivos:
+./resources/Libros/La-última-sirena.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1216 --> poder poder ontrolarlas;
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1425 --> la poder fortaleza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2032 --> poder poder separarle
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2064 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2132 --> no_word poder corcel
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2214 --> poder poder sentarse
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2579 --> y poder fuerza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3331 --> mi poder rderé
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3518 --> poder poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3670 --> significaba poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3671 --> er p poder día
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3692 --> poder poder descansar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3894 --> una poder fuerza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4009 --> poder poder ponerse
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4919 --> poder poder o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4921 --> poder poder al
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4976 --> poder poder llevarles
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5066 --> er d poder del
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5169 --> poder poder pelear
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5201 --> poder poder darle
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5338 --> una poder mirada
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5560 --> poder poder ensar,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5598 --> poder poder del
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5854 --> se poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6133 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6518 --> poder poder escapar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6529 --> hombre poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6531 --> hombre poder ntinuó
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6532 --> no_word poder Reina
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6921 --> poder poder sentir
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7154 --> m� poder que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7178 --> poder poder confiar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7286 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7567 --> el poder Leila
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7790 --> se poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8098 --> sentido poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8503 --> poder poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9131 --> era poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9285 --> poder poder ayudar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9446 --> poder poder ver
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10142 --> Tengo poder que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11674 --> para poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11774 --> poder poder superarlo
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13267 --> para poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13370 --> pueblo poder ustera,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13662 --> poder poder vivir
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13852 --> no_word poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14019 --> er v poder ver
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14033 --> poder poder responder
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14759 --> sin poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15104 --> se poder de
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 192 --> capítu Capítulo John
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 265 --> siguientes Capítulo tenga
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1483 --> ítulo Capítulo de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1507 --> capítu Capítulo de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2521 --> capítu Capítulo de
+AVISO: Durante tu busqueda se han realizado 10 recargas de saldo.
 
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 228 --> capítu Capítulo agíneselo
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1270 --> capítu Capítulo nterior.
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1557 --> capítu Capítulo nterior,
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1649 --> no_word Capítulo enideros,
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2758 --> este Capítulo �dale
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3465 --> tres Capítulo nos
-
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.009426 segundos.
+El tiempo total de la busqueda ha sido  0.031271 segundos.
 

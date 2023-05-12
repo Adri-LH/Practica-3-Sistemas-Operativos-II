@@ -1,16 +1,15 @@
-Saludos usuario Premium con ID 73, has buscado la palabra 'Árbol' en los archivos:
-../resources/Libros/VIVE-TU-SUEÑO.txt
-../resources/Libros/El-oro-y-la-ceniza.txt
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+Saludos usuario Premium limitado con ID 73, has buscado la palabra 'talento' en los archivos:
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/prueba.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+Buscador: 3 Hilo: 1 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
 
-Buscador: 0 Hilo: 2 no pudo encontrar ningun resultado en el archivo../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3463 --> verdadero talento no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7668 --> su talento  Ahor
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11036 --> talento talento y
 
-Buscador: 0 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/El-oro-y-la-ceniza.txt
-
-El tiempo total de la busqueda ha sido  0.023677 segundos.
+El tiempo total de la busqueda ha sido  0.026707 segundos.
 

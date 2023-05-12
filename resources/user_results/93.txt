@@ -1,16 +1,10 @@
-Saludos usuario Premium limitado con ID 93, has buscado la palabra 'talento' en los archivos:
-../resources/Libros/prueba.txt
-../resources/Libros/prueba2.txt
-../resources/Libros/prueba2.txt
+Saludos usuario Premium limitado con ID 93, has buscado la palabra 'Nube' en los archivos:
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1812 --> nube Nube de
 
-Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
-
-Buscador: 2 Hilo: 2 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
-
-El tiempo total de la busqueda ha sido  0.000782 segundos.
+El tiempo total de la busqueda ha sido  0.011487 segundos.
 

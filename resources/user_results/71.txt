@@ -1,25 +1,190 @@
-Saludos usuario Gratuito con ID 71, has buscado la palabra 'Mal' en los archivos:
-../resources/Libros/prueba.txt
-../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+Saludos usuario Premium limitado con ID 71, has buscado la palabra 'forma' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/prueba2.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 350 --> para Mal Pero
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 354 --> mal Mal antes
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 429 --> parec� Mal Pero
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 539 --> nuestras Mal se
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 653 --> personas Mal sto.
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 686 --> para Mal Dos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 700 --> era Mal entonces
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 765 --> ne m Mal ltados—,
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 765 --> anda Mal davía
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 774 --> mal Mal que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 966 --> formal Mal y
+Buscador: 1 Hilo: 2 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 269 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 333 --> que forma el
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 651 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 702 --> no_word forma volutas
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 761 --> que forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 792 --> as f forma raída
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 895 --> extrañ forma e
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 943 --> que forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 972 --> que forma tanto
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 995 --> pesadas forma se
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1004 --> y forma negras
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1025 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1033 --> verdadera forma ró
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1040 --> la forma lí
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1045 --> forma forma para
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1059 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1216 --> forma forma que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1288 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1323 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1370 --> y forma scamas.
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1426 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1483 --> no_word forma como
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1575 --> lo forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1690 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1828 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1885 --> se forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2015 --> forma forma  d
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2077 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2154 --> su forma sus
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2281 --> la forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2321 --> plataforma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2322 --> la forma estaba
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2331 --> plataforma forma y
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2334 --> y forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2341 --> la forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2358 --> que forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2377 --> agua forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2396 --> la forma Ella
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2459 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2546 --> jard� forma con
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2762 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2763 --> y forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2773 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2846 --> forma forma del
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2957 --> para forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2971 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3129 --> á forma por
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3149 --> est forma El
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3219 --> forma forma para
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3221 --> la forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3327 --> siquiera forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3471 --> no_word forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3507 --> campa� forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3684 --> no forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3764 --> se forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3943 --> se forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4062 --> y forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4269 --> pod� forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4282 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4295 --> forma forma humana
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4300 --> de forma De
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4531 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4715 --> � forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4930 --> y forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5085 --> no_word forma al
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5377 --> cueva forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5430 --> plataforma forma cercana
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5490 --> no_word forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5588 --> con forma y
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5681 --> honra,  forma nciertas,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5881 --> tom forma No
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6468 --> forma forma in
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6627 --> es f forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6689 --> forma forma del
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6695 --> con forma y
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6750 --> forma forma habitual
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6766 --> y forma �lo
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6910 --> total forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6938 --> para forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7154 --> se forma �s
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8104 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8184 --> cierta forma Se
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8234 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8255 --> forma forma gradual
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8678 --> se forma  aureola
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9160 --> t forma que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9334 --> otras forma �nteme,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9551 --> ,  forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9643 --> hab� forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9729 --> có forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9938 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10013 --> lo forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10229 --> plataforma forma no
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10238 --> la forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10273 --> la forma nía
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10306 --> la forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10388 --> ía forma onan,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10409 --> labios forma palabras
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10474 --> forma forma  d
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10515 --> manera forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10613 --> no_word forma que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10745 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10804 --> hab� forma No
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10933 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10979 --> reverencia forma luego
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11081 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11116 --> forma forma �s
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11199 --> ma d forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11461 --> mi forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11556 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11660 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11808 --> no_word forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11886 --> que forma el
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11906 --> forma forma o
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12012 --> as f forma le
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12046 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12116 --> que forma sus
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12148 --> brisas forma remolinos
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12218 --> encaje forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12286 --> su forma las
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12290 --> sol forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12409 --> esta forma no
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12432 --> dedos forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12482 --> no_word forma a
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12588 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12611 --> que forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12634 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12888 --> hasta forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13133 --> con forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13220 --> forma forma  e
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13229 --> olas forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13252 --> cosas forma su
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13321 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13329 --> tambi� forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13602 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13604 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13628 --> lecturas forma pero
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13641 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13650 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13680 --> y forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13744 --> mujeres forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13766 --> forma forma y
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13825 --> ella forma parte
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13856 --> ma d forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13885 --> idas i forma para
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13897 --> no_word forma una
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13958 --> y forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14005 --> forma forma traña
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14006 --> esta forma  per
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14060 --> e forma arecido,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14137 --> en forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14168 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14194 --> opini� forma ultó
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14243 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14273 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14399 --> ma e forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14573 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14881 --> para forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14997 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15053 --> forma forma tal
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15358 --> para forma un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15396 --> forma forma que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15416 --> forma forma de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15417 --> n f forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15427 --> forma forma  redond
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15432 --> se forma En
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15439 --> agua forma espuma
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15473 --> y forma  un
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15546 --> que forma la
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15547 --> plataforma forma  d
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15617 --> la forma no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15665 --> forma forma en
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15823 --> cadena forma un
 
-El tiempo total de la busqueda ha sido  0.001941 segundos.
+AVISO: Durante tu busqueda se han realizado 41 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.034227 segundos.
 

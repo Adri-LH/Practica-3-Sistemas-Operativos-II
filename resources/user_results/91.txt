@@ -1,22 +1,27 @@
-Saludos usuario Premium con ID 91, has buscado la palabra 'Americano' en los archivos:
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Gratuito con ID 91, has buscado la palabra 'forma' en los archivos:
+./resources/Libros/prueba.txt
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1754 --> ricano d Americano del
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1784 --> ejemplos Americano y
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1791 --> ser Americano Para
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1819 --> americano Americano que
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2367 --> nazi a Americano John
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2509 --> judí Americano fui
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3769 --> no_word Americano se
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5125 --> fuera Americano estaba
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7200 --> americano Americano trasó
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7201 --> judí Americano por
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7205 --> no_word Americano no
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7273 --> un Americano Theodore
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10927 --> historiador Americano porque
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
 
-El tiempo total de la busqueda ha sido  0.020561 segundos.
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 95 --> e forma y
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 372 --> forma forma ositiva.
+
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 269 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 333 --> que forma el
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 651 --> forma forma de
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 702 --> no_word forma volutas
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 761 --> que forma la
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 792 --> as f forma raída
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 895 --> extrañ forma e
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 943 --> que forma la
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 972 --> que forma tanto
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.001923 segundos.
 

@@ -1,100 +1,11 @@
-Saludos usuario Premium con ID 80, has buscado la palabra 'talento' en los archivos:
-../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
-../resources/Libros/La-Ãºltima-sirena.txt
+Saludos usuario Gratuito con ID 80, has buscado la palabra 'Americano' en los archivos:
+./resources/Libros/ACTITUD-DE-VENDEDOR.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 91 --> talento talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 138 --> igualmente talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 141 --> unfar:  talento poyo,
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 322 --> hombre talento siempre
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 323 --> bre t talento La
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 372 --> talento talento sino
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1028 --> sus talento sus
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1072 --> talento talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1106 --> individuos talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1110 --> sus talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1125 --> talento talento umenta,
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1262 --> t talento Mover
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1500 --> talento talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1501 --> ese talento A
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1502 --> talento talento en
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1507 --> y talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1872 -->  t talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1878 --> los talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2075 --> no_word talento capacidad
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2127 --> talento talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2165 --> su talento Esta
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2173 --> de talento no
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2176 --> talento talento en
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2204 --> voluntarios talento Para
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2235 --> no_word talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2237 --> talento talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2238 --> y talento Eso
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2239 --> talento talento sabe
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2242 --> talento talento en
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2322 --> no_word talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2395 --> s talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2406 --> y talento Usted
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2491 --> de talento recursos
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2627 --> verdaderamente talento Ellos
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2806 --> talento talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2807 --> mucho talento uÃ¡nto
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2815 --> talento talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2843 --> TALENTO talento NO
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2845 --> ento n talento no
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2846 --> no_word talento Mi
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2849 --> no_word talento para
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2850 --> de talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2852 --> talento talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2884 --> un talento tÃ¡
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> ento s talento solo
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> talento talento con
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2888 --> no_word talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2890 --> amente t talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2897 --> n t talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2903 --> n t talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2908 --> n t talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2913 --> n t talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2919 --> talento talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2924 --> contagiosas talento experiencia
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3006 --> del talento rendimiento
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3065 --> del talento los
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3634 --> talento talento que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3648 -->  t talento el
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3828 --> ento d talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3875 --> mÃ talento sean
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4309 --> miembros talento del
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4314 --> de talento mergentes.
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4321 --> es,  talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4342 --> personas talento las
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4373 --> no_word talento Creo
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4902 --> talento talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4933 --> no_word talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5383 --> igualmente talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5386 --> nuevos talento o
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5395 --> Ã©xi talento Trabajo
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5411 --> igualmente talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5420 --> un talento grupo
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5425 --> mucho talento esto
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5429 --> talento talento no
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5431 --> mÃ talento desde
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5435 --> no_word talento tenemos
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5445 --> igualmente talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5615 --> mayor talento no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5707 --> igualmente talento es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5727 --> talento talento y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> talento talento a
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> a talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6189 --> mÃ talento en
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6222 --> talento talento de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6269 --> son talento sin
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6507 --> poseÃ talento pero
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 745 --> americano Americano Hubert
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4215 --> colonos Americano durante
 
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/La-Ãºltima-sirena.txt Linea: 3463 --> verdadero talento no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/La-Ãºltima-sirena.txt Linea: 7668 --> su talento  Ahor
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/La-Ãºltima-sirena.txt Linea: 11036 --> talento talento y
-
-El tiempo total de la busqueda ha sido  0.027214 segundos.
+El tiempo total de la busqueda ha sido  0.009948 segundos.
 

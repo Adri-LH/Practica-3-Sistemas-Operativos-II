@@ -1,25 +1,239 @@
-Saludos usuario Gratuito con ID 70, has buscado la palabra 'Luna' en los archivos:
-../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Premium limitado con ID 70, has buscado la palabra 'Sol' en los archivos:
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1155 --> luna Luna se
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1925 --> medias Luna su
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2859 --> la Luna  L
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2870 --> la Luna recía
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2961 --> la Luna no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> la Luna a
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> luna Luna que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3116 --> la Luna no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3552 --> ros,  Luna sol
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3574 --> luna Luna velaba
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3586 --> luna Luna erida;
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 68 --> conquist Sol uno
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 72 --> pero Sol uno
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 73 --> error Sol pregunte
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 85 --> supo Sol dos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 86 --> en Sol �Sabe
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 92 --> Si Sol hubiesen
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 234 --> insisti Sol necesito
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 234 --> quiero Sol aquello
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 276 --> luchadores Sol que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 279 --> vuelan Sol a
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 280 --> la Sol de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 283 --> LLANERO Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 284 --> triunfadores Sol la
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 285 --> er s Sol algo
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 285 --> persona Sol puede
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 287 --> derrotan Sol a
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 288 --> nero S Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 288 --> un Sol Adonde
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 289 --> s Sol Daniel
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 291 --> no_word Sol El
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 302 --> persona Sol puede
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 316 --> los Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 326 --> cosas Sol usted
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 329 --> podamos Sol untos,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 330 --> no_word Sol por
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 334 --> un Sol hecho
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 335 --> humano Sol No
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 338 --> no_word Sol untos,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 338 --> podamos Sol por
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 340 --> evidente Sol en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 343 --> una Sol persona
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 353 --> derrotas Sol Esto
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 356 --> bajan s Sol pueden
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 357 --> persona Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 364 --> PERMANECEMOS Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 366 --> cosas Sol Creo
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 379 --> hacer Sol Si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 391 --> liderazgo Sol los
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 399 --> « Sol beríamos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 407 --> caminar Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 409 --> o  Sol beríamos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 416 --> que Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 427 --> andar Sol cuando
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 435 --> hace Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 450 --> demasiado Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 453 --> todo Sol el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 461 --> no_word Sol verdad
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 505 --> HACERLO Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 507 --> no Sol ser
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 510 --> hacerlo Sol Necesitaba
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 526 --> fue Sol el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 552 --> una Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 569 --> haciendo Sol tá
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 573 --> trabajar Sol Si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 616 --> pensando Sol en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 649 --> pensando Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 697 --> los Sol y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 706 -->  s Sol que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 714 --> no_word Sol firme
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 724 --> y Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 751 --> juntos Sol si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 753 --> que Sol usted
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 760 --> todo Sol ver
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 770 --> nivel Sol necesitamos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 820 --> no_word Sol cuando
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 827 --> no_word Sol piensan
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 871 --> Carter Sol ería
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 900 --> a Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 927 --> hace Sol una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 928 --> negros Sol drían
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 930 --> no Sol porque
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 936 --> como Sol Bush
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 941 --> un Sol ha
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 954 --> no_word Sol dentro
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 956 --> ser Sol entonces
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 957 --> no_word Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 967 --> dirigiendo Sol se
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 974 --> los Sol mbién
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 991 --> no Sol onsejó
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1007 --> hab� Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1021 --> no Sol es
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1105 --> es Sol estión
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1117 --> est Sol entonces
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1133 --> de Sol roblemas.
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1137 --> persona Sol entonces
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1155 --> equipo Sol tiene
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1306 --> seguir Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1310 --> no_word Sol alguien
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1329 --> no Sol lo
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1346 --> personas Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1352 --> una Sol Tenzing
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1357 --> con Sol llevar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1363 --> trabajar Sol o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1381 --> Fue Sol gracias
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1388 --> hecho Sol Tenzing
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1406 --> mundo Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1414 --> realidad Sol si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1461 --> no Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1463 --> equipo Sol  par
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1469 --> en Sol una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1474 --> ne s Sol dos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1484 --> tiene Sol dos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1511 --> un Sol der,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1533 --> a,  Sol cuatro
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1660 --> de Sol el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1660 --> problema Sol Se
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1662 --> equipo Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1664 --> cima Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1714 --> permanec� Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1752 --> o s Sol porque
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1805 --> no Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1823 --> no Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1949 --> ección Sol cierta
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1950 --> hacerlo Sol uno
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1974 --> hacerlo Sol y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2040 --> Hay Sol apropiadas
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2060 --> deja Sol  n
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2065 --> es Sol estión
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2074 --> no Sol por
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2098 --> era Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2137 --> hoy Sol tenté
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2153 --> realidad Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2159 --> dar Sol se
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2266 --> s Sol son
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2334 --> jueces Sol le
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2360 --> no_word Sol dían
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2374 --> una Sol vez
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2402 --> jugadores Sol se
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2456 --> no Sol fallaba
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2507 --> como Sol cribió
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2508 --> todo Sol debe
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2514 --> los Sol de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2543 --> uerzo.  Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2547 --> pero Sol si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2553 --> convicci� Sol viene
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2599 --> un Sol pósito:
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2637 --> que Sol las
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2642 --> no Sol es
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2840 --> es Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> ento s Sol o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2949 --> no_word Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2971 --> no_word Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3039 --> sino Sol las
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3047 --> s Sol si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3051 --> usted Sol opina
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3291 --> uno Sol de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3726 --> que Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3730 --> que Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3747 --> equipo Sol llega
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3786 --> todo Sol o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3799 --> dad,  Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3805 --> mil Sol entraron
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3820 --> febrero Sol bían
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3825 --> que Sol esperar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3826 --> mejores Sol Antes
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3831 --> de Sol A
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3835 --> de Sol incluso
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3983 --> no Sol ha
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4015 --> juego Sol mientras
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4047 --> donde Sol tar»
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4048 --> el Sol cambio
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4062 --> individual Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4206 --> no_word Sol jugar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4213 --> no_word Sol ESTIÓN
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4223 --> s Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4249 --> s Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4252 --> no Sol en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4253 --> con Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4287 --> s s Sol verdades
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4330 --> no Sol tarían
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4349 --> pero Sol cinco
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4371 --> compa� Sol tomar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4376 --> y Sol pudiera
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4412 --> dijo Sol existen
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4416 --> realmente Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4431 --> puede Sol los
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4431 --> con Sol de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4438 --> puede Sol los
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4438 --> con Sol de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4479 --> y Sol no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4556 --> no_word Sol o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4583 --> no Sol bería
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4694 --> no_word Sol cuando
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4746 --> padre Sol pagarnos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4910 --> dijo Sol somos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4936 --> no Sol hacer
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5002 --> No Sol ramos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5035 --> con Sol y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5079 --> equipo Sol puede
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5095 --> que Sol ocurre
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5102 --> ocurre Sol una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5143 --> en Sol cuarenta
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5176 --> con Sol una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5186 --> un Sol instrumento
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5192 --> un Sol instrumento
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5211 --> una Sol a.
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5247 --> arrollan s Sol cuando
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5299 --> de Sol estadounidenses
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5305 --> la Sol bligada.
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5441 --> no_word Sol una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5472 --> potencial Sol si
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5475 --> no Sol como
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5551 --> hecho Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5554 --> hizo Sol para
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5581 --> un Sol �a
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5636 --> yac� Sol a
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5670 --> En Sol  una
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5699 --> ¡pe Sol cuatro
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5754 --> con Sol y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5759 --> y Sol cuenta
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5784 --> tiene Sol treinta
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5788 --> segundos Sol hice
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5797 --> un Sol pie
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5834 --> no Sol debe
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5861 --> lidad s Sol es
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5920 --> no_word Sol no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5969 --> tan Sol un
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5970 --> el Sol manejar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5977 --> tan Sol que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6125 --> a Sol Al
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6163 --> y Sol  e
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6191 --> un Sol artido:
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6249 --> S Sol SE
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6259 --> no Sol cosecha
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6318 --> potencial Sol hay
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6341 --> no Sol en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6365 --> « Sol leará
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6395 --> no Sol da
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+AVISO: Durante tu busqueda se han realizado 55 recargas de saldo.
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.007827 segundos.
+El tiempo total de la busqueda ha sido  0.019702 segundos.
 

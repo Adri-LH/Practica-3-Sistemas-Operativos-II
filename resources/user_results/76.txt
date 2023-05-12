@@ -1,175 +1,46 @@
-Saludos usuario Premium con ID 76, has buscado la palabra 'Casa' en los archivos:
-../resources/Libros/ACTITUD-DE-VENDEDOR.txt
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Premium con ID 76, has buscado la palabra 'talento' en los archivos:
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
 
 
 RESULTADOS:
 
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 262 --> fracasa Casa de
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 422 --> o Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 664 --> a Casa luego
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 698 --> a Casa No
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 753 --> proyectos Casa o
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 926 --> casa Casa con
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 927 --> a Casa algunas
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 933 --> en Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 944 --> a d Casa del
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1015 --> personas Casa que
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1168 --> casa Casa para
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1170 --> esa Casa De
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1307 --> las Casa rodantes
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1311 --> quisieran Casa con
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1313 --> quisiera Casa con
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1427 --> casa Casa y
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1557 --> casa Casa le
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1567 --> casa Casa al
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1650 --> casa Casa Ã³xima
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1683 --> Estaban Casa amueblados
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1706 --> a y Casa y
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1708 --> nos Casa ©
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1709 --> me Casa con
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1756 --> nos Casa  Es
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1771 --> no_word Casa y
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2093 --> casa Casa a
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2251 --> fracasa Casa es
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2257 --> no_word Casa en
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2262 --> vez Casa en
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2267 --> no_word Casa con
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2278 --> a Casa es
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2293 --> no_word Casa La
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2327 --> de Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2367 --> de Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2406 --> HE Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2410 --> un Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2543 --> casa Casa para
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2544 --> casa Casa ¡s
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2886 --> a Casa prepara
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2919 --> su Casa una
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2923 --> casa Casa para
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3117 --> casa Casa luego
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3587 --> su Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3610 --> casa Casa gotados,
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3744 --> casa Casa del
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4070 --> a p Casa para
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4481 --> la Casa Cuando
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4648 --> no_word Casa no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4895 --> a Casa es
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 360 --> talento talento ntribuyÃ³
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 361 --> talento talento era
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 461 --> ento d talento del
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 461 --> sumamente talento  E
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 489 --> inteligentes talento no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 960 --> ento n talento atural,
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1187 --> y talento articulares.
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2104 --> talento talento sico.
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2429 --> vocalistas talento En
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2434 --> talento talento musical
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2465 --> talento talento y
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3004 --> con talento Aunque
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3006 --> talento talento no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3007 --> personas talento a
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3946 --> ento y talento y
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3969 --> talento talento ndividual,
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3999 --> talento talento o
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4003 --> muy talento no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4015 --> diversos talento en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4026 --> de talento no
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4535 --> talento talento especial
 
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 388 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 815 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 885 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 914 --> por Casa ntiguas,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 915 --> no_word Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 916 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 937 --> segunda Casa el
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1255 --> las Casa Ante
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1501 --> las Casa  par
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2149 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2605 --> se Casa onmigo,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2910 --> sus Casa a
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2936 --> su Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2942 --> su Casa en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2942 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2988 --> mi Casa media
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3011 --> casa Casa confiscada
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3069 --> las Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3112 --> a Casa Eran
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3115 --> casa Casa bÃ­a
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3188 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3191 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3277 --> a f Casa familiar
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3280 --> habÃ Casa en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3301 --> mi Casa todo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3397 --> casa Casa  d
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3847 --> las Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3966 --> las Casa donde
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4134 --> las Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4201 --> a Casa al
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4234 --> casa Casa aliviado
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4350 -->  c Casa entre
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4487 --> casa Casa amiliar,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4530 --> casa Casa del
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4542 --> mi Casa ©lix
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4565 --> a d Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4780 --> casa Casa  de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4895 --> casa Casa ndependiente,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5024 --> la Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5054 --> en Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5142 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5400 --> su Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5437 --> no_word Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5456 --> casa Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5458 --> no_word Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5683 --> casa Casa  d
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5733 --> de Casa conmigo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5746 --> nunca Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5750 --> para Casa ontigo,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5765 --> casa Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5775 --> me Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5803 --> bÃ¡rba Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5865 --> se Casa lo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5911 --> querÃ Casa contigo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5915 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6084 --> casa Casa muy
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6085 --> casa Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6090 --> su Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6344 --> mi Casa en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6349 --> mi Casa en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6349 --> nuestra Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6490 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6566 --> a Casa contrÃ©
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6603 --> su Casa dispuesta
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6644 --> de Casa Hitler
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6745 --> su Casa sa
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6784 --> casa Casa  d
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6852 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6949 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7330 --> hombre Casa que
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7763 --> casa Casa hay
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7957 --> casa Casa del
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7993 --> unas Casa polacas
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8114 --> sus Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8263 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8414 --> casa Casa para
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8466 --> la Casa me
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8596 --> a Casa Antes
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8739 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8974 --> sus Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8981 --> las Casa soladas,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9358 --> casa Casa  n
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9420 --> de Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9425 --> de Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9430 --> y Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9471 --> casa Casa cuando
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9494 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9495 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9515 --> casa Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9542 --> casa Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9596 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9954 --> nuestra Casa con
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9980 --> casa Casa o
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9985 --> casa Casa para
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10199 --> una Casa Comenzaron
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10221 --> no_word Casa los
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10223 --> en Casa Mi
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10239 --> a Casa Por
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10412 --> su Casa  E
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10478 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10540 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10664 --> mi Casa en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10686 --> no_word Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10882 --> las Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10954 --> su Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11243 --> casa Casa y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11287 --> las Casa no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11453 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11462 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11537 --> su Casa yo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11538 --> su Casa lÃ­
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11679 --> casa Casa ropia,
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11713 --> casa Casa de
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11759 --> casa Casa para
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11791 --> casa Casa en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1526 --> talento talento genuino
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1539 --> jÃ³ven talento  d
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1547 --> ento f talento fue
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2095 --> el talento La
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2211 --> el talento La
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2217 --> el talento el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2925 --> talento talento que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3491 --> no_word talento aprenden
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3672 --> no_word talento no
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4797 --> talento talento atural,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5065 --> artista talento No
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5298 --> no_word talento de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5314 --> bastante talento en
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5319 --> mucho talento pero
 
-El tiempo total de la busqueda ha sido  0.029000 segundos.
+El tiempo total de la busqueda ha sido  0.011345 segundos.
 

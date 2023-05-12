@@ -97,6 +97,8 @@ int main(int argc, char *argv[])
     createUsersThreads(USERS_NUM);
 
     //Volvemos a crear usurios y peticiones a los 5 segundos
+    std::for_each(g_user_threads.begin(), g_user_threads.end(), std::mem_fn(&std::thread::join));
+    std::cout << "\n\033[0m" << "[SSOOIIGLE] en 5 segundos se volveran a enviar " << std::to_string(USERS_NUM) << " peticiones.\n";
     std::this_thread::sleep_for(std::chrono::seconds(5));
     createUsersThreads(USERS_NUM);
 

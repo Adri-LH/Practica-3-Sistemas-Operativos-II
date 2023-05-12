@@ -17,8 +17,8 @@
 #define SEARCHERS_NUM   4       //Numero de buscadores a crear.
 #define USERS_NUM       50      //Numero de usuarios a crear. Sus tipos (free, premium) seran aleatorios.
 
-#define FILES_PATH      "../resources/Libros/"          //Ruta donde estarán los ficheros txt donde los buscadores buscarán palabras.
-#define RESULTS_PATH    "../resources/user_results/"    //Ruta donde se almacenaran los resultados de cada usuario.
+#define FILES_PATH      "./resources/Libros/"          //Ruta donde estarán los ficheros txt donde los buscadores buscarán palabras.
+#define RESULTS_PATH    "./resources/user_results/"    //Ruta donde se almacenaran los resultados de cada usuario.
 
 #define MIN_FILES 1         //Numero minimo de archivos que puede buscar un usuario.
 #define MAX_FILES 3         //Numero maximo de archivos que puede buscar un usuario.

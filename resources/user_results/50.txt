@@ -1,229 +1,41 @@
-Saludos usuario Premium con ID 50, has buscado la palabra 'poder' en los archivos:
-../resources/Libros/VIVE-TU-SUEﾃ前.txt
-../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+Saludos usuario Premium con ID 50, has buscado la palabra 'Americano' en los archivos:
+./resources/Libros/El-oro-y-la-ceniza.txt
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 188 --> declaraciﾃ poder y
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 271 --> poder poder aprender
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 386 --> poder poder usarla
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 536 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> es poder Mucha
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> poder poder  e
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 637 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 726 --> poder poder  par
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 886 --> er h poder hacerles
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1136 --> poder poder para
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1209 --> poder poder navegar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1352 --> el poder Fue
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1578 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1585 --> PODER poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1596 --> se poder  d
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1886 --> para poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1947 --> su poder liderazgo
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2548 --> es poder Cualquiera
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2628 --> poder poder conectarse
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2696 --> poder poder ervirle,
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2768 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2858 --> poder poder llevar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2891 --> el poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2914 --> poder poder se
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2937 --> poder poder que
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3015 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3095 --> no_word poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3096 --> poder poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3119 --> de poder Henry
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3132 --> otorgar poder Siempre
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3182 --> de poder la
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3185 --> poder poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3197 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3205 --> poder poder e
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3219 --> de poder En
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3224 --> otorgar poder Teodoro
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3230 --> no_word poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3233 --> otorga poder abandona
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3233 --> de poder y
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3235 --> poder poder pueden
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3236 --> otorgar poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3239 --> de poder Considere
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3243 --> de poder es
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3247 --> no_word poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3247 --> esos poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3249 --> de poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3254 --> de poder produce
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3264 --> otorgan poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3271 --> de poder en
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3279 --> poder poder y
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3291 --> sus poder  d
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3294 --> de poder Su
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3295 --> no_word poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3298 --> OTORGARLES poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3300 --> otorgar poder gﾃｳ
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3304 --> poder poder y
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3321 --> poder poder que
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3324 --> de poder fue
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3329 --> otorgar poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3332 --> PODER poder DEL
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3333 --> no_word poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3335 --> poder poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3337 --> otorgado poder Su
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3342 --> de poder Puedo
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3343 --> otorg poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3357 --> de poder es
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3357 --> es poder no
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3362 --> de poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3424 --> de poder ｳlo
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3424 --> poder poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3433 --> poder poder mostrar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3447 --> y poder nzﾃｳ
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3449 --> rey poder ni
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3474 --> poder poder seguir
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3604 --> no_word poder que
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3604 --> mﾃ poder seﾃｱada
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3798 --> otorg poder a
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3840 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3858 --> el poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4027 --> los poder y
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4135 --> poder poder seﾃｱar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4156 --> poder poder hacer
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4280 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4333 --> MAS poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4375 --> poder poder  de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4377 --> poder poder del
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4647 --> para poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4679 --> poder poder transformar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4728 --> del poder No
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4754 --> para poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4791 --> mﾃ poder del
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4852 --> un poder ｭder
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5035 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5039 --> de poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5048 --> se poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5132 --> poder poder dedicarles
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5144 --> poder poder elevar
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5176 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5176 --> poder poder de
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5208 --> mulan p poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5209 --> pensan p poder no_word
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5260 --> poder poder hacerlo
-Buscador: 0 Hilo: 2 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5285 --> el poder no_word
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 659 --> americano Americano de
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 923 --> afroamericano Americano umﾃｭa
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1001 --> afro-american Americano ocupaba
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2205 --> americano Americano drﾃｭa
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2846 --> fﾃｺtb Americano no_word
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2960 --> no_word Americano un
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3149 --> (fﾃｺt Americano o
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3677 --> americano Americano en
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4057 --> tbol Americano el
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4205 --> ricano c Americano con
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4247 --> americano Americano profesional
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4351 --> americano Americano profesional
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5141 --> americano Americano en
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5170 --> americano Americano es
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5180 --> tbol Americano Sin
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6203 --> tbol Americano mﾃ｡s,
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6239 --> americano Americano nﾃｳ
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 93 --> er d poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 96 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 179 --> poder poder influir
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 271 --> influencia poder positiva
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 289 --> er d poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 660 --> del poder con
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 724 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 942 --> poder poder puede
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 943 --> poder poder tal
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 946 --> dﾃｩ poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 947 --> poder poder e
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 949 --> poder poder para
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 951 --> el poder y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 976 -->  p poder enganza,
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1204 --> poder poder del
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1254 --> poder poder del
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1661 --> poder poder divino
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1667 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1668 --> poder poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1752 --> mﾃ poder del
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1904 --> poder poder acerlo.
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1913 --> de poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2099 --> poder poder  d
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2241 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2251 --> poder poder lidiar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2598 --> poder poder  responde
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2810 --> poder poder trabajar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3191 --> poder poder  encontra
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3276 --> poder poder llegar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3689 --> o poder  Esa
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4592 --> er s poder saludarlas
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4624 --> De poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4708 --> asociaciﾃ poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4783 --> poder poder o
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5081 --> posiciﾃ poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5112 --> poder poder sobre
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5145 --> nuevo poder No
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5219 --> da poder fortalece
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5290 --> poder poder y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5369 --> poder poder siempre
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5514 --> PODER poder DE
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5565 --> poder poder  dedicars
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5764 --> poder poder ayudarlos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5768 --> poder poder moverlos
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1754 --> ricano d Americano del
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1784 --> ejemplos Americano y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1791 --> ser Americano Para
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1819 --> americano Americano que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2367 --> nazi a Americano John
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2509 --> judﾃｭ Americano fui
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3769 --> no_word Americano se
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5125 --> fuera Americano estaba
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7200 --> americano Americano trasﾃｳ
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7201 --> judﾃｭ Americano por
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7205 --> no_word Americano no
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7273 --> un Americano Theodore
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10927 --> historiador Americano porque
 
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 270 --> er g poder arlaﾂｻ.
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 336 --> el poder mar
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 585 --> contribuyen poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 633 --> poder poder alcanzar
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 811 --> veﾃｭ poder rcﾃｺleos
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 854 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 889 --> no_word poder en
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1056 --> s poder ｡s
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1133 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1145 --> somos poder ｡s
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1228 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1243 --> mﾃ poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1244 --> poder poder y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1258 --> poder poder productivo
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1450 --> poder poder norme.
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1477 --> poder poder  responderl
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1691 --> poder poder pintarles
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1735 --> de poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1902 --> poder poder ver
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2047 --> er d poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2208 --> poder poder erlo.
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2263 --> poder poder venderles
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2423 --> poder poder  gana
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2619 --> poder poder lograr
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2700 --> poder poder ver
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2966 --> poder poder y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2992 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3284 --> poder poder responder
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3298 --> ni poder  sin
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3307 --> PODER poder DE
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3377 --> poder poder celebrar
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3788 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3865 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3962 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 3975 --> poder poder alcanzar
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4011 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4113 --> para poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4207 --> poder poder ｡gico
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4227 --> poder poder ｡gico
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4234 --> no_word poder ahora
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4378 --> poder poder seguirlos
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4536 --> y poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 4649 --> poder poder convertir
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5227 --> el poder y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5244 --> er c poder cuando
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5245 --> poder poder puede
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5249 --> no_word poder Un
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5402 --> poder poder para
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5480 --> no_word poder es
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 5547 --> poder poder ﾃ｡mico,
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6116 --> er v poder ver
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6210 --> poder poder acerlo,
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6942 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6942 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6945 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7456 --> er d poder del
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7456 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7458 --> poder poder y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 7548 --> poder poder responder
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8243 --> poder poder divino
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8251 --> el poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8361 --> para poder no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8726 --> poder poder de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 8774 --> PODER poder DE
-
-El tiempo total de la busqueda ha sido  0.015300 segundos.
+El tiempo total de la busqueda ha sido  0.019122 segundos.
 

@@ -1,10 +1,188 @@
-Saludos usuario Gratuito con ID 65, has buscado la palabra 'Mal' en los archivos:
-../resources/Libros/prueba2.txt
+Saludos usuario Premium limitado con ID 65, has buscado la palabra 'Capítulo' en los archivos:
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+./resources/Libros/El-oro-y-la-ceniza.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 220 --> entes c Capítulo sin
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 366 --> siguientes Capítulo dicaré
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 372 --> los Capítulo en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 373 --> capítu Capítulo en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1329 --> capítu Capítulo que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2089 --> capítu Capítulo anterior
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2401 --> los Capítulo Escuche
 
-El tiempo total de la busqueda ha sido  0.000094 segundos.
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1076 --> capítu Capítulo para
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1258 --> este Capítulo conozca
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2010 --> del Capítulo amínese
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2415 --> capítu Capítulo para
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3511 --> capítu Capítulo seis
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3517 --> el Capítulo no_word
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3546 --> capítu Capítulo siete
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3893 --> capítu Capítulo anterior
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4595 --> capítu Capítulo ya
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4717 --> en Capítulo nteriores.
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5367 --> ítulo Capítulo menciono
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6166 --> capítu Capítulo para
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6284 --> los Capítulo de
+
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 12 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 13 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 14 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 16 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 17 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 18 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 19 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 20 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 22 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 23 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 24 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 25 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 26 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 28 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 29 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 30 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 31 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 32 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 34 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 35 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 36 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 37 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 38 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 39 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 41 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 43 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 44 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 45 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 46 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 47 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 49 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 50 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 51 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 52 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 53 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 54 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 55 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 56 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 57 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 58 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 59 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 60 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 61 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 84 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 85 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 86 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 87 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 88 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 90 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 91 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 92 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 93 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 94 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 96 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 97 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 99 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 100 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 101 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 103 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 104 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 105 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 106 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 107 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 109 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 110 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 111 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 112 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 113 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 115 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 116 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 117 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 118 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 119 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 120 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 122 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 123 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 124 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 125 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 126 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 127 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 129 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 130 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 131 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 132 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 133 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 134 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 135 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 136 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 137 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 138 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 139 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 141 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 142 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 221 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 370 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 545 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 892 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1296 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1646 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1895 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2230 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2601 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3006 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3123 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3395 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3747 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4340 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4538 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4666 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5019 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5431 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5753 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5947 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6270 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6842 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6869 --> capítu Capítulo indagaba
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6892 --> mi Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7427 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7719 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8015 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8094 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8261 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8407 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8620 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8745 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8804 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9037 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9700 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9887 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10181 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10284 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10402 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10421 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10634 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10735 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10865 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10947 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11049 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11237 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11352 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11443 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11484 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11588 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11626 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11695 --> ítulo Capítulo no_word
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11838 --> capítu Capítulo pertenecen
+
+AVISO: Durante tu busqueda se han realizado 41 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.025857 segundos.
 

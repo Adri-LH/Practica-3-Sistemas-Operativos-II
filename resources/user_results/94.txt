@@ -1,41 +1,10 @@
-Saludos usuario Premium limitado con ID 94, has buscado la palabra 'David' en los archivos:
-../resources/Libros/VIVE-TU-SUEﾃ前.txt
-../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+Saludos usuario Gratuito con ID 94, has buscado la palabra 'Casa' en los archivos:
+./resources/Libros/prueba.txt
 
 
 RESULTADOS:
 
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 190 --> David David estaba
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 192 --> de David aun
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 194 --> de David no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 201 --> David David alaba
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 206 --> David David demuestra
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 208 --> no_word David hovﾃ｡
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 304 --> David David y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 307 --> David David al
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 308 --> David David conmigo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 309 --> Saﾃ David no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 828 --> David David Sarnoff
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 856 --> David David rﾃｳ
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2682 --> y David el
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2745 --> David David pidiendo
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2746 --> David David  dej
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2750 --> David David ﾃｳ
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2758 --> David David clama
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3631 --> David David y
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3633 --> de David Por
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3642 --> David David abﾃｭ
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3816 --> no_word David en
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3818 --> de David no_word
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3825 --> que David usted
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4381 --> David David se
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4602 --> rey David Describa
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
 
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 1033 --> David David Thoreau
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 2510 --> David David Letterman
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEﾃ前.txt Linea: 6250 --> David David Mamet
-
-AVISO: Durante tu busqueda se han realizado 5 recargas de saldo.
-
-El tiempo total de la busqueda ha sido  0.014316 segundos.
+El tiempo total de la busqueda ha sido  0.000153 segundos.
 

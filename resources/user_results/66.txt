@@ -1,18 +1,25 @@
-Saludos usuario Premium con ID 66, has buscado la palabra 'Nube' en los archivos:
-../resources/Libros/VIVE-TU-SUEÑO.txt
-../resources/Libros/ACTITUD-DE-VENDEDOR.txt
-../resources/Libros/prueba2.txt
+Saludos usuario Gratuito con ID 66, has buscado la palabra 'Mal' en los archivos:
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+./resources/Libros/prueba2.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 2 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+Buscador: 3 Hilo: 1 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
 
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1919 --> e d Nube de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2073 --> nube Nube  d
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3364 --> nube Nube negra
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 90 -->  m Mal actitudes
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 476 --> el Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 497 --> mal Mal  d
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 509 --> los Mal efectos
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 572 --> mal Mal el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 788 --> con Mal no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 848 --> G Mal En
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1344 --> del Mal y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1519 --> para Mal Ese
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1569 --> poder Mal Sumado
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1587 --> normal Mal de
 
-Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 
-El tiempo total de la busqueda ha sido  0.015767 segundos.
+El tiempo total de la busqueda ha sido  0.003768 segundos.
 

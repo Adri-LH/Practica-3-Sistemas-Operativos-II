@@ -1,24 +1,10 @@
-Saludos usuario Gratuito con ID 51, has buscado la palabra 'Casa' en los archivos:
-../resources/Libros/ACTITUD-DE-VENDEDOR.txt
-../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+Saludos usuario Gratuito con ID 51, has buscado la palabra 'Luna' en los archivos:
+./resources/Libros/prueba.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 262 --> fracasa Casa de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 422 --> o Casa no_word
+Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
 
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 262 --> fracasa Casa de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 422 --> o Casa no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 664 --> a Casa luego
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 698 --> a Casa No
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 753 --> proyectos Casa o
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 926 --> casa Casa con
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 927 --> a Casa algunas
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 933 --> en Casa no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 944 --> a d Casa del
-
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.003625 segundos.
+El tiempo total de la busqueda ha sido  0.003036 segundos.
 

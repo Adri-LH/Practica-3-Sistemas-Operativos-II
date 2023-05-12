@@ -1,196 +1,22 @@
-Saludos usuario Premium con ID 95, has buscado la palabra 'poder' en los archivos:
-../resources/Libros/VIVE-TU-SUEÑO.txt
-../resources/Libros/El-oro-y-la-ceniza.txt
-../resources/Libros/VIVE-TU-SUEÑO.txt
+Saludos usuario Gratuito con ID 95, has buscado la palabra 'Grupo' en los archivos:
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 270 --> er g poder arla».
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 336 --> el poder mar
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 585 --> contribuyen poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 633 --> poder poder alcanzar
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 811 --> veí poder rcúleos
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 854 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 889 --> no_word poder en
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1056 --> s poder �s
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1133 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1145 --> somos poder �s
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1228 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1243 --> m� poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1244 --> poder poder y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1258 --> poder poder productivo
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1450 --> poder poder norme.
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1477 --> poder poder  responderl
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1691 --> poder poder pintarles
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1735 --> de poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1902 --> poder poder ver
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2047 --> er d poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2208 --> poder poder erlo.
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2263 --> poder poder venderles
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2423 --> poder poder  gana
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2619 --> poder poder lograr
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2700 --> poder poder ver
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2966 --> poder poder y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2992 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3284 --> poder poder responder
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3298 --> ni poder  sin
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3307 --> PODER poder DE
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3377 --> poder poder celebrar
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3788 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3865 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3962 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3975 --> poder poder alcanzar
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4011 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4113 --> para poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4207 --> poder poder �gico
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4227 --> poder poder �gico
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4234 --> no_word poder ahora
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4378 --> poder poder seguirlos
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4536 --> y poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4649 --> poder poder convertir
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5227 --> el poder y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5244 --> er c poder cuando
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5245 --> poder poder puede
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5249 --> no_word poder Un
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5402 --> poder poder para
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5480 --> no_word poder es
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5547 --> poder poder ámico,
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6116 --> er v poder ver
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6210 --> poder poder acerlo,
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6942 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6942 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6945 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7456 --> er d poder del
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7456 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7458 --> poder poder y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7548 --> poder poder responder
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8243 --> poder poder divino
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8251 --> el poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8361 --> para poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8726 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8774 --> PODER poder DE
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 729 --> grupo Grupo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 742 --> un Grupo no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 896 --> grupo Grupo en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1056 --> DOS Grupo DE
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1058 --> estos Grupo son
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1060 --> los Grupo fue
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1074 --> grupo Grupo avanzaba
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1078 --> grupo Grupo no
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1079 --> grupo Grupo  co
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1097 --> del Grupo La
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1099 --> po n Grupo necesitaba
 
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 270 --> er g poder arla».
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 336 --> el poder mar
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 585 --> contribuyen poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 633 --> poder poder alcanzar
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 811 --> veí poder rcúleos
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 854 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 889 --> no_word poder en
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1056 --> s poder �s
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1133 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1145 --> somos poder �s
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1228 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1243 --> m� poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1244 --> poder poder y
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1258 --> poder poder productivo
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1450 --> poder poder norme.
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1477 --> poder poder  responderl
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1691 --> poder poder pintarles
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1735 --> de poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1902 --> poder poder ver
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2047 --> er d poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2208 --> poder poder erlo.
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2263 --> poder poder venderles
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2423 --> poder poder  gana
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2619 --> poder poder lograr
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2700 --> poder poder ver
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2966 --> poder poder y
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2992 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3284 --> poder poder responder
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3298 --> ni poder  sin
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3307 --> PODER poder DE
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3377 --> poder poder celebrar
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3788 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3865 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3962 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3975 --> poder poder alcanzar
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4011 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4113 --> para poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4207 --> poder poder �gico
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4227 --> poder poder �gico
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4234 --> no_word poder ahora
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4378 --> poder poder seguirlos
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4536 --> y poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4649 --> poder poder convertir
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5227 --> el poder y
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5244 --> er c poder cuando
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5245 --> poder poder puede
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5249 --> no_word poder Un
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5402 --> poder poder para
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5480 --> no_word poder es
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5547 --> poder poder ámico,
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6116 --> er v poder ver
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6210 --> poder poder acerlo,
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6942 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6942 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6945 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7456 --> er d poder del
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7456 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7458 --> poder poder y
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7548 --> poder poder responder
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8243 --> poder poder divino
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8251 --> el poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8361 --> para poder no_word
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8726 --> poder poder de
-Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8774 --> PODER poder DE
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 567 --> poder poder vitarlo,
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 824 --> el poder la
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1074 --> er s poder salir
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1191 --> poder poder que
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1200 --> m� poder el
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1207 --> poder poder upremo,
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1266 --> de poder que
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1300 --> y poder el
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1311 --> el poder en
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1934 --> poder poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2079 --> poder poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2115 --> no_word poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2418 --> poder poder providencial
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2619 --> no poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2736 --> no poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2744 --> para poder tomar
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2776 --> de poder soportar
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2888 --> es poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2889 --> es poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2905 -->  p poder hubiera
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2993 --> se poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3977 --> se poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4103 --> poder poder  de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4447 --> poder poder apartar
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4685 --> los poder igual
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4791 --> plenos poder al
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4927 --> no_word poder que
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6142 --> no poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6445 --> er t poder tentacular
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6591 --> extra� poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6628 --> er m poder nético.
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6667 --> poder poder  alcanza
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6694 --> er d poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 6959 --> poder poder  victorios
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7037 --> poder poder  comparti
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7155 --> el poder exaltado
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7302 --> poder poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7334 --> del poder no_word
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7401 --> er d poder ecirlo,
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7568 --> no_word poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7601 --> no_word poder spués
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7678 --> poder poder de
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7773 --> de poder �sculos
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7966 --> poder poder supremo
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8219 --> el poder �—.
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8767 --> er l poder lavar
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9048 --> poder poder que
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 9370 --> poder poder pelear
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10294 --> extrañ poder y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10386 --> raños poder Y
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10450 --> no_word poder mnisciente,
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10818 --> poder poder son
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10888 --> er p poder para
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11293 --> no poder lví
-Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11592 --> se poder de
-
-El tiempo total de la busqueda ha sido  0.025921 segundos.
+El tiempo total de la busqueda ha sido  0.002575 segundos.
 

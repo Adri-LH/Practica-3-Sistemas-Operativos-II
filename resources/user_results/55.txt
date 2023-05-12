@@ -1,96 +1,31 @@
-Saludos usuario Premium limitado con ID 55, has buscado la palabra 'Nube' en los archivos:
-../resources/Libros/La-última-sirena.txt
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Premium limitado con ID 55, has buscado la palabra 'Luna' en los archivos:
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1983 --> nube Nube de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3560 --> las Nube de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3589 --> no_word Nube enicientas;
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7509 --> nube Nube asfixiante
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7682 --> las Nube descargan
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube derramaban
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube prestaban
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10683 --> las Nube el
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10874 --> no_word Nube menazadoras.
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3721 --> la Luna  Es
 
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 479 --> Las Nube del
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 559 --> las Nube que
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 781 --> las Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 800 --> nube Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 826 --> y Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 1619 --> de Nube hacia
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2613 --> y Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2902 --> de Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3007 --> de Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3021 --> por Nube que
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3058 --> las Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3222 --> las Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3469 --> las Nube y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3603 --> de Nube y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3665 --> de Nube el
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4825 --> de Nube en
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5117 --> Una Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5220 --> las Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5252 --> nube Nube rojiza
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5323 -->  n Nube se
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5929 --> de Nube y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5966 --> las Nube en
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6039 --> las Nube Para
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6415 --> las Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6623 --> Leila Nube rosadas
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6897 --> las Nube marfil
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 6918 --> Las Nube soplaban
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7723 -->  n Nube que
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7730 --> esas Nube Por
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7763 --> las Nube Nadie
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8277 --> una Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8658 --> las Nube entraba
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 8964 --> las Nube un
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9061 --> una Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9435 --> nube Nube o
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9511 --> las Nube y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9822 --> las Nube Se
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9835 --> y Nube el
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 9858 --> hab� Nube a
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10203 --> las Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10322 --> haber Nube sobre
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10530 --> nube Nube blanca
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11363 --> las Nube pronto
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11426 --> las Nube He
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11648 --> sin Nube suave
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11750 --> ella Nube magulladas
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11996 --> las Nube comenzaban
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12147 -->  n Nube que
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12168 --> sin Nube �stino.
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12890 --> de Nube francesas
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12892 --> esas Nube y
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 12909 --> aquellas Nube gordas
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13063 --> cielo Nube color
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13078 --> Las Nube  s
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13121 --> Las Nube se
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13192 --> esas Nube La
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13215 --> de Nube negras
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13218 --> Las Nube gían
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13246 --> las Nube estaban
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13292 --> horribles Nube ía
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13680 --> una Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13826 --> de Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14149 -->  n Nube burbujeaban
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14296 --> Las Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14302 --> no Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14443 --> de Nube Sin
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14679 --> nube Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14930 --> de Nube no_word
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15400 --> las Nube  negra
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15436 --> las Nube eran
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15448 --> las Nube Su
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15474 --> e c Nube cristalina
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15483 --> nube Nube de
-Buscador: 0 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 15498 --> nube Nube de
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3721 --> la Luna  Es
 
-AVISO: Durante tu busqueda se han realizado 18 recargas de saldo.
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 310 --> luna Luna ,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1572 --> la Luna este
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1581 --> módu Luna L)
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1584 --> no_word Luna cuario,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1606 --> módu Luna Y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1611 --> módu Luna mientras
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1613 --> módu Luna Un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1619 --> módu Luna que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1626 --> dulo Luna y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1627 --> módu Luna y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1632 --> módu Luna nía
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1634 --> la Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1637 --> módu Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1646 --> luna Luna es
 
-El tiempo total de la busqueda ha sido  0.028737 segundos.
+AVISO: Durante tu busqueda se han realizado 2 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.012186 segundos.
 

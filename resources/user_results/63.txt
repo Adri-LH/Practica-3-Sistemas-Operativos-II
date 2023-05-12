@@ -1,52 +1,50 @@
-Saludos usuario Premium con ID 63, has buscado la palabra 'poder' en los archivos:
-../resources/Libros/prueba.txt
-../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+Saludos usuario Premium limitado con ID 63, has buscado la palabra 'Capítulo' en los archivos:
+./resources/Libros/VIVE-TU-SUEÑO.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 228 --> capítu Capítulo agíneselo
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1270 --> capítu Capítulo nterior.
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1557 --> capítu Capítulo nterior,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1649 --> no_word Capítulo enideros,
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2758 --> este Capítulo �dale
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3465 --> tres Capítulo nos
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3709 --> primer Capítulo  l
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3836 --> capítu Capítulo hablamos
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4084 --> el Capítulo no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4750 --> capítu Capítulo probablemente
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4943 --> próxi Capítulo no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5125 --> los Capítulo no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5317 --> capítu Capítulo que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5435 --> capítu Capítulo final
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5784 --> capítu Capítulo anterior
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 97 --> poder poder contar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 281 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 339 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 391 --> poder poder a
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 449 --> todo poder dejemos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 511 --> de poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 833 --> �rguele poder Pocas
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 833 --> poder poder que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 884 --> famosos poder y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 984 --> los poder extranjeros
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1024 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1029 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1110 --> poder poder poner
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1569 --> poder poder ormal.
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1585 --> vivos poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1884 --> poder poder y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2879 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3142 --> poder poder contar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3218 --> poder poder contar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3231 --> poder poder contar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3257 --> no_word poder Hela
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3451 --> poder poder contar
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3462 --> poder poder que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3497 --> deben poder no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3567 --> poder poder seguir
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3881 --> poder poder a
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3985 --> m� poder en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4229 --> nsiva p poder Sin
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4233 --> no_word poder banca
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4773 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4779 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5077 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5275 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5282 --> poder poder en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5613 --> poder poder  de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5654 --> su poder iderazgo.
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5673 --> venci poder intereses
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6057 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6280 --> poder poder de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6358 --> su poder tréguelo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 503 --> diez Capítulo de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 659 --> ítulo Capítulo de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1433 --> (capít Capítulo Lo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1550 --> ítulo Capítulo sobre
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2735 --> capítu Capítulo te
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2818 --> ítulo Capítulo escrito
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3213 --> capítu Capítulo anterior
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3279 --> primer Capítulo no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4197 --> capítu Capítulo su
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4322 --> capítu Capítulo es
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4696 --> al Capítulo no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5056 --> capítu Capítulo de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5064 --> ítulo Capítulo de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5068 --> capítu Capítulo  qu
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5625 --> este Capítulo junto
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7309 --> capítu Capítulo  debe
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7984 --> capítu Capítulo �s
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8309 --> presente Capítulo no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8549 --> este Capítulo ncioné
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8552 --> este Capítulo no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8642 --> capítu Capítulo he
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8646 --> los Capítulo  d
 
-El tiempo total de la busqueda ha sido  0.011232 segundos.
+AVISO: Durante tu busqueda se han realizado 7 recargas de saldo.
+
+El tiempo total de la busqueda ha sido  0.014484 segundos.
 

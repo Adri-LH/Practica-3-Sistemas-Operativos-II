@@ -1,98 +1,117 @@
-Saludos usuario Premium con ID 82, has buscado la palabra 'talento' en los archivos:
-../resources/Libros/prueba2.txt
-../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+Saludos usuario Premium con ID 82, has buscado la palabra 'poder' en los archivos:
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
 
 
 RESULTADOS:
 
-Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 188 --> declaraci√ poder y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 271 --> poder poder aprender
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 386 --> poder poder usarla
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 536 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> es poder Mucha
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 633 --> poder poder  e
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 637 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 726 --> poder poder  par
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 886 --> er h poder hacerles
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1136 --> poder poder para
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1209 --> poder poder navegar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1352 --> el poder Fue
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1578 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1585 --> PODER poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1596 --> se poder  d
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1886 --> para poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1947 --> su poder liderazgo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2548 --> es poder Cualquiera
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2628 --> poder poder conectarse
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2696 --> poder poder ervirle,
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2768 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2858 --> poder poder llevar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2891 --> el poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2914 --> poder poder se
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2937 --> poder poder que
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3015 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3095 --> no_word poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3096 --> poder poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3119 --> de poder Henry
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3132 --> otorgar poder Siempre
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3182 --> de poder la
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3185 --> poder poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3197 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3205 --> poder poder e
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3219 --> de poder En
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3224 --> otorgar poder Teodoro
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3230 --> no_word poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3233 --> otorga poder abandona
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3233 --> de poder y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3235 --> poder poder pueden
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3236 --> otorgar poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3239 --> de poder Considere
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3243 --> de poder es
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3247 --> no_word poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3247 --> esos poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3249 --> de poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3254 --> de poder produce
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3264 --> otorgan poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3271 --> de poder en
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3279 --> poder poder y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3291 --> sus poder  d
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3294 --> de poder Su
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3295 --> no_word poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3298 --> OTORGARLES poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3300 --> otorgar poder g√≥
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3304 --> poder poder y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3321 --> poder poder que
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3324 --> de poder fue
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3329 --> otorgar poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3332 --> PODER poder DEL
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3333 --> no_word poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3335 --> poder poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3337 --> otorgado poder Su
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3342 --> de poder Puedo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3343 --> otorg poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3357 --> de poder es
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3357 --> es poder no
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3362 --> de poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3424 --> de poder ≥lo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3424 --> poder poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3433 --> poder poder mostrar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3447 --> y poder nz√≥
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3449 --> rey poder ni
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3474 --> poder poder seguir
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3604 --> no_word poder que
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3604 --> m√ poder se√±ada
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3798 --> otorg poder a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3840 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3858 --> el poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4027 --> los poder y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4135 --> poder poder se√±ar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4156 --> poder poder hacer
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4280 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4333 --> MAS poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4375 --> poder poder  de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4377 --> poder poder del
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4647 --> para poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4679 --> poder poder transformar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4728 --> del poder No
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4754 --> para poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4791 --> m√ poder del
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4852 --> un poder ≠der
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5035 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5039 --> de poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5048 --> se poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5132 --> poder poder dedicarles
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5144 --> poder poder elevar
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5176 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5176 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5208 --> mulan p poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5209 --> pensan p poder no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5260 --> poder poder hacerlo
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5285 --> el poder no_word
 
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 91 --> talento talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 138 --> igualmente talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 141 --> unfar:  talento poyo,
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 322 --> hombre talento siempre
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 323 --> bre t talento La
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 372 --> talento talento sino
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1028 --> sus talento sus
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1072 --> talento talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1106 --> individuos talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1110 --> sus talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1125 --> talento talento umenta,
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1262 --> t talento Mover
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1500 --> talento talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1501 --> ese talento A
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1502 --> talento talento en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1507 --> y talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1872 -->  t talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1878 --> los talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2075 --> no_word talento capacidad
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2127 --> talento talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2165 --> su talento Esta
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2173 --> de talento no
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2176 --> talento talento en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2204 --> voluntarios talento Para
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2235 --> no_word talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2237 --> talento talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2238 --> y talento Eso
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2239 --> talento talento sabe
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2242 --> talento talento en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2322 --> no_word talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2395 --> s talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2406 --> y talento Usted
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2491 --> de talento recursos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2627 --> verdaderamente talento Ellos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2806 --> talento talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2807 --> mucho talento u√°nto
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2815 --> talento talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2843 --> TALENTO talento NO
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2845 --> ento n talento no
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2846 --> no_word talento Mi
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2849 --> no_word talento para
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2850 --> de talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2852 --> talento talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2884 --> un talento t√°
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> ento s talento solo
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> talento talento con
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2888 --> no_word talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2890 --> amente t talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2897 --> n t talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2903 --> n t talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2908 --> n t talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2913 --> n t talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2919 --> talento talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2924 --> contagiosas talento experiencia
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3006 --> del talento rendimiento
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3065 --> del talento los
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3634 --> talento talento que
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3648 -->  t talento el
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3828 --> ento d talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3875 --> m√ talento sean
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4309 --> miembros talento del
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4314 --> de talento mergentes.
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4321 --> es,  talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4342 --> personas talento las
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4373 --> no_word talento Creo
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4902 --> talento talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4933 --> no_word talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5383 --> igualmente talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5386 --> nuevos talento o
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5395 --> √©xi talento Trabajo
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5411 --> igualmente talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5420 --> un talento grupo
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5425 --> mucho talento esto
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5429 --> talento talento no
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5431 --> m√ talento desde
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5435 --> no_word talento tenemos
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5445 --> igualmente talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5615 --> mayor talento no_word
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5707 --> igualmente talento es
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5727 --> talento talento y
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> talento talento a
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> a talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6189 --> m√ talento en
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6222 --> talento talento de
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6269 --> son talento sin
-Buscador: 0 Hilo: 1 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6507 --> pose√ talento pero
-
-El tiempo total de la busqueda ha sido  0.012727 segundos.
+El tiempo total de la busqueda ha sido  0.013859 segundos.
 

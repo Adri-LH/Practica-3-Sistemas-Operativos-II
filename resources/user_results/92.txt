@@ -1,24 +1,10 @@
-Saludos usuario Gratuito con ID 92, has buscado la palabra 'Grupo' en los archivos:
-../resources/Libros/VIVE-TU-SUEÑO.txt
-../resources/Libros/La-última-sirena.txt
+Saludos usuario Premium limitado con ID 92, has buscado la palabra 'Nube' en los archivos:
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 509 --> grupo Grupo como
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 852 --> grupo Grupo que
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2575 --> en Grupo  la
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3582 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4666 --> po d Grupo de
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1812 --> nube Nube de
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 210 --> grupo Grupo  d
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 223 --> grupo Grupo pezó
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2513 --> grupo Grupo se
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3332 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4031 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4033 --> no_word Grupo í
-
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.010892 segundos.
+El tiempo total de la busqueda ha sido  0.011878 segundos.
 

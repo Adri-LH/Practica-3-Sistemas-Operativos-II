@@ -1,41 +1,16 @@
-Saludos usuario Premium con ID 78, has buscado la palabra 'Luna' en los archivos:
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Premium limitado con ID 78, has buscado la palabra 'Árbol' en los archivos:
+./resources/Libros/prueba.txt
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+./resources/Libros/La-última-sirena.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1155 --> luna Luna se
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1925 --> medias Luna su
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2859 --> la Luna  L
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2870 --> la Luna recía
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2961 --> la Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> la Luna a
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> luna Luna que
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3116 --> la Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3552 --> ros,  Luna sol
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3574 --> luna Luna velaba
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3586 --> luna Luna erida;
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4128 --> soldados Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 4291 --> la Luna el
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5335 --> luna Luna ía
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5402 --> a y Luna y
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5786 --> a y Luna y
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5889 --> no_word Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7160 --> luna Luna no
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7286 --> luna Luna ría
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7486 --> la Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 8183 --> luna Luna creciente
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10431 --> lumbreras Luna sol
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10444 --> luna Luna nví
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10448 --> luna Luna no
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10890 --> ciudad Luna llena
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11261 --> Era Luna porque
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> la Luna una
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> luna Luna ora.
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> La Luna no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11315 --> la Luna ncé
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11327 --> la Luna el
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 11345 --> Es Luna ama
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
 
-El tiempo total de la busqueda ha sido  0.022855 segundos.
+Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+
+Buscador: 2 Hilo: 2 no pudo encontrar ningun resultado en el archivo./resources/Libros/La-última-sirena.txt
+
+El tiempo total de la busqueda ha sido  0.033687 segundos.
 

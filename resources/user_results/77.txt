@@ -1,42 +1,20 @@
-Saludos usuario Premium con ID 77, has buscado la palabra 'Grupo' en los archivos:
-../resources/Libros/La-última-sirena.txt
-../resources/Libros/VIVE-TU-SUEÑO.txt
+Saludos usuario Premium con ID 77, has buscado la palabra 'Capítulo' en los archivos:
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 210 --> grupo Grupo  d
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 223 --> grupo Grupo pezó
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2513 --> grupo Grupo se
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3332 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4031 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 4033 --> no_word Grupo í
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5544 --> po d Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5804 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7448 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 7992 --> grupo Grupo de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8269 --> gieron g Grupo buscando
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8740 --> no_word Grupo no_word
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8782 --> no_word Grupo no_word
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8784 --> PO N Grupo  NELSO
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 192 --> capítu Capítulo John
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 265 --> siguientes Capítulo tenga
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1483 --> ítulo Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 1507 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 2521 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3412 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 3736 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 4034 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5235 --> en Capítulo nteriores,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5425 --> capítu Capítulo de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 5533 --> capítu Capítulo final
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 509 --> grupo Grupo como
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 852 --> grupo Grupo que
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 2575 --> en Grupo  la
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3582 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 4666 --> po d Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5505 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5538 --> grupo Grupo  d
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 5666 --> del Grupo  s
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7030 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7906 --> el Grupo no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10531 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10660 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10785 --> grupo Grupo y
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 10812 --> grupo Grupo de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11186 --> o Grupo  n
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 13230 --> grupo Grupo dio
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 14825 --> grupo Grupo menzó
-
-El tiempo total de la busqueda ha sido  0.030684 segundos.
+El tiempo total de la busqueda ha sido  0.011287 segundos.
 

@@ -1,24 +1,69 @@
-Saludos usuario Gratuito con ID 53, has buscado la palabra 'Americano' en los archivos:
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
-../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+Saludos usuario Premium limitado con ID 53, has buscado la palabra 'poder' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/El-oro-y-la-ceniza.txt
 
 
 RESULTADOS:
 
-Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 224 --> americano Americano ijo:
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
 
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 41 --> Americano Americano pero
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 94 --> no_word Americano son
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 121 --> Fútb Americano Usted
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 304 --> Sue� Americano Acababan
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 351 --> gordo Americano Y
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 465 --> americano Americano de
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 472 --> fútb Americano cedía
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 475 --> Fútb Americano Antes
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 484 --> fútb Americano no_word
-Buscador: 2 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 990 --> oeste Americano no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 567 --> poder poder vitarlo,
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 824 --> el poder la
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1074 --> er s poder salir
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1191 --> poder poder que
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1200 --> m� poder el
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1207 --> poder poder upremo,
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1266 --> de poder que
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1300 --> y poder el
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1311 --> el poder en
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1934 --> poder poder y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2079 --> poder poder y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2115 --> no_word poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2418 --> poder poder providencial
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2619 --> no poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2736 --> no poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2744 --> para poder tomar
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2776 --> de poder soportar
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2888 --> es poder y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2889 --> es poder y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2905 -->  p poder hubiera
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2993 --> se poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3977 --> se poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4103 --> poder poder  de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4447 --> poder poder apartar
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4685 --> los poder igual
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4791 --> plenos poder al
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4927 --> no_word poder que
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6142 --> no poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6445 --> er t poder tentacular
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6591 --> extra� poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6628 --> er m poder nético.
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6667 --> poder poder  alcanza
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6694 --> er d poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6959 --> poder poder  victorios
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7037 --> poder poder  comparti
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7155 --> el poder exaltado
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7302 --> poder poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7334 --> del poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7401 --> er d poder ecirlo,
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7568 --> no_word poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7601 --> no_word poder spués
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7678 --> poder poder de
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7773 --> de poder �sculos
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7966 --> poder poder supremo
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8219 --> el poder �—.
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8767 --> er l poder lavar
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9048 --> poder poder que
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9370 --> poder poder pelear
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10294 --> extrañ poder y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10386 --> raños poder Y
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10450 --> no_word poder mnisciente,
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10818 --> poder poder son
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10888 --> er p poder para
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11293 --> no poder lví
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11592 --> se poder de
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+AVISO: Durante tu busqueda se han realizado 11 recargas de saldo.
 
-El tiempo total de la busqueda ha sido  0.004253 segundos.
+El tiempo total de la busqueda ha sido  0.022706 segundos.
 

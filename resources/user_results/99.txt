@@ -1,24 +1,22 @@
-Saludos usuario Premium limitado con ID 99, has buscado la palabra 'Americano' en los archivos:
-../resources/Libros/El-oro-y-la-ceniza.txt
+Saludos usuario Gratuito con ID 99, has buscado la palabra 'Casa' en los archivos:
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1754 --> ricano d Americano del
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1784 --> ejemplos Americano y
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1791 --> ser Americano Para
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 1819 --> americano Americano que
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2367 --> nazi a Americano John
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 2509 --> judí Americano fui
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 3769 --> no_word Americano se
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 5125 --> fuera Americano estaba
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7200 --> americano Americano trasó
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7201 --> judí Americano por
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7205 --> no_word Americano no
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 7273 --> un Americano Theodore
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/El-oro-y-la-ceniza.txt Linea: 10927 --> historiador Americano porque
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 156 --> otros Casa Tienen
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 195 --> Casa Casa Blanca
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 220 --> est Casa y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 641 --> una Casa no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 644 --> la Casa se
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 687 --> no_word Casa y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 936 --> persona Casa  Su
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 968 --> para Casa Decida
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1154 --> a h Casa hacia
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1213 --> Casa Casa Blanca
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1322 --> a Casa má
 
-AVISO: Durante tu busqueda se han realizado 1 recargas de saldo.
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 
-El tiempo total de la busqueda ha sido  0.023280 segundos.
+El tiempo total de la busqueda ha sido  0.002817 segundos.
 

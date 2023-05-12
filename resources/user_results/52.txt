@@ -1,22 +1,18 @@
-Saludos usuario Gratuito con ID 52, has buscado la palabra 'Americano' en los archivos:
-../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+Saludos usuario Premium con ID 52, has buscado la palabra 'Nube' en los archivos:
+./resources/Libros/El-oro-y-la-ceniza.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 659 --> americano Americano de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 923 --> afroamericano Americano umía
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1001 --> afro-american Americano ocupaba
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2205 --> americano Americano dría
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2846 --> fútb Americano no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2960 --> no_word Americano un
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3149 --> (fút Americano o
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3677 --> americano Americano en
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4057 --> tbol Americano el
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4205 --> ricano c Americano con
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4247 --> americano Americano profesional
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1983 --> nube Nube de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3560 --> las Nube de
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3589 --> no_word Nube enicientas;
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7509 --> nube Nube asfixiante
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7682 --> las Nube descargan
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube derramaban
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8149 --> las Nube prestaban
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10683 --> las Nube el
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10874 --> no_word Nube menazadoras.
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
-
-El tiempo total de la busqueda ha sido  0.010938 segundos.
+El tiempo total de la busqueda ha sido  0.024182 segundos.
 
