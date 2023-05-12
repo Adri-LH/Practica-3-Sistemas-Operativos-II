@@ -228,7 +228,7 @@ class Searcher{
                 
             //Comprobamos si el fichero se abre
             std::fstream  file = openFileRead(file_name);
-            if (!file){std::cout << "Error de lectura"; exit(1);}
+            if (!file){std::cerr << "Error de lectura"; exit(1);}
 
             std::string line;
             int num_line = 0;

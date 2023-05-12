@@ -45,7 +45,7 @@ std::fstream openFileRead(std::string file_path) {
     file.open(file_path, std::ios::in);
     
     if (!file) {
-        std::cout << "Error opening file" << std::endl;
+        std::cerr << "Error opening file" << std::endl;
         file.close();
     }
 
@@ -70,7 +70,7 @@ int countLines(std::string path) {
     file.open(path, std::ios::in);
     
     if (!file) {
-        std::cout << "Error opening file" << std::endl;
+        std::cerr << "Error opening file" << std::endl;
         file.close();
     }
 
@@ -107,7 +107,7 @@ std::string getRelativeWord(std::string line, int pos, bool previous)
 
     if (pos < 0 || pos > line.size() || line.size() == 0)
     {
-        std::cout << "Error en getRelativeWord, pos se sale de los limites o la línea está vacia\n";
+        std::cerr << "Error en getRelativeWord, pos se sale de los limites o la línea está vacia\n";
         exit(1);
     }
 
@@ -189,7 +189,7 @@ std::string getLineByPosition(std::string path, int position)
 
         currentPos++;
     }
-    std::cout << "Line does not exist";
+    std::cerr << "Line does not exist";
     return ""; // si no se encuentra la posición, devuelve una cadena vacía
 }
 
@@ -230,7 +230,7 @@ void writeFile(const std::string path, const std::string text)
     std::ofstream file(path, std::ios::app | std::ios::binary);
     if (!file.is_open())
     {
-        printf("Error opening source file: %s\n", path.c_str());
+        std::cerr << "Error opening source file:" << path.c_str() << "\n";
         return;
     }
 

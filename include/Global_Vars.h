@@ -21,10 +21,10 @@
 #define RESULTS_PATH    "./resources/user_results/"    //Ruta donde se almacenaran los resultados de cada usuario.
 
 #define MIN_FILES 1         //Numero minimo de archivos que puede buscar un usuario.
-#define MAX_FILES 3         //Numero maximo de archivos que puede buscar un usuario.
+#define MAX_FILES 10         //Numero maximo de archivos que puede buscar un usuario.
 
-#define USER_BALANCE    11   //Saldo por defecto que tendra un usuario
-#define RELOAD_BALANCE  4   //Cantidad de recargo de saldo que aplicara el siste,a de pago
+#define USER_BALANCE    10   //Saldo por defecto que tendra un usuario
+#define RELOAD_BALANCE  5   //Cantidad de recargo de saldo que aplicara el siste,a de pago
 
 enum USER_TYPE { FREE, PREMIUMLIMITED, PREMIUM };   //Tipos de usuario posibles
 

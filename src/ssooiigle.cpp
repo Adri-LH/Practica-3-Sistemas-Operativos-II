@@ -40,6 +40,7 @@
 #include "../include/Global_Vars.h"
 
 //Declaracion de funciones
+void checkResources(int argc);
 void createPaySys();
 void createSearchers(int searcher_id, std::string color);
 void createSearchersThreads(int num_searchers);
@@ -80,12 +81,8 @@ std::shared_ptr<std::queue<std::shared_ptr<Request>>> p_request_queue = std::mak
 
 int main(int argc, char *argv[])
 {
-    //Control de argumentos
-    if (argc != 1)
-    {
-        std::cerr << "Use: /program\n";
-        return EXIT_FAILURE;
-    }
+    //Comrpobamos que los recursos esten correctamente
+    checkResources(argc);
 
     //Creamos hilo del Sistema de Pago
     std::thread T_Pay_Sys(createPaySys);
@@ -98,8 +95,8 @@ int main(int argc, char *argv[])
 
     //Volvemos a crear usurios y peticiones a los 5 segundos
     std::for_each(g_user_threads.begin(), g_user_threads.end(), std::mem_fn(&std::thread::join));
-    std::cout << "\n\033[0m" << "[SSOOIIGLE] en 5 segundos se volveran a enviar " << std::to_string(USERS_NUM) << " peticiones.\n";
-    std::this_thread::sleep_for(std::chrono::seconds(5));
+    std::cout << "\n\033[0m" << "[SSOOIIGLE] en 3 segundos se volveran a enviar " << std::to_string(USERS_NUM) << " peticiones.\n";
+    std::this_thread::sleep_for(std::chrono::seconds(3));
     createUsersThreads(USERS_NUM);
 
     //Espera a todas las entidades
@@ -107,6 +104,37 @@ int main(int argc, char *argv[])
     std::for_each(g_user_threads.begin(), g_user_threads.end(), std::mem_fn(&std::thread::join));
     std::for_each(g_searcher_threads.begin(), g_searcher_threads.end(), std::mem_fn(&std::thread::join));
 
+}
+
+/*Descripcion: Realiza una serie de comprobaciones antes de empezar*/
+void checkResources(int argc){
+
+    //Control de argumentos
+    if (argc != 1)
+    {
+        std::cerr << "Errro: Uso: /programa\n";
+        return exit(1);
+    }
+
+    //Comprobamos si existen los directorios necesarios
+    if(!std::filesystem::exists(FILES_PATH)){std::cerr << "Error: El directorio de archivos a buscar no existe" << std::endl; exit(1);};
+    if(!std::filesystem::exists(RESULTS_PATH)){std::cerr << "Error: El directorio de resultados de usuarios no existe" << std::endl; exit(1);};
+    
+    //Comrpobamos si el directorio de ficheros contiene archivos
+    std::vector<std::string> files = getFilesInDirectory(FILES_PATH);
+
+    //Comprobamos si hay archivos en el directorio
+    if(files.size() == 0){std::cerr << "Error: No hay ficheros donde buscar palabras" << std::endl; exit(1);};
+
+    //Comprobamos compatibilidad de variables constantes
+    if(files.size() < MIN_FILES || files.size() < MAX_FILES){std::cerr << "Error: El número de archivos donde buscar palabras "
+    << "no es compatible con los valores MIN_FILES y MAX_FILES del archivo Global_vars.h" << std::endl; exit(1);};
+
+    //Comprobamos más compatibilidades
+    if(MIN_FILES < 1){std::cerr << "Error: Un usuario debe buscar en al menos 1 archivo" << std::endl; exit(1);};
+    if(USER_BALANCE < 0){std::cerr << "Error: El saldo inicial de un usuario no puede ser menor que 0" << std::endl; exit(1);};
+    if(DICTIONARY.size() <= 0){std::cerr << "Error: El diccionario debe contener palabras" << std::endl; exit(1);};
+    
 }
 
 /*Descripcion: Crea el sistema de pago*/
@@ -242,7 +270,6 @@ std::vector<std::string> getRandomFiles(){
 
     //Archivos aleatorios a buscar
     std::vector<std::string> files = getFilesInDirectory(FILES_PATH);
-    if(files.size() == 0) std::cout << " Files directory is empty" << std::endl;
 
     //Archivos seleccionados
     std::vector<std::string> selected_files;
