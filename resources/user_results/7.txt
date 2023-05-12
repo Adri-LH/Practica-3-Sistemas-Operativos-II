@@ -1,12 +1,10 @@
-Saludos usuario Premium limitado con ID 7, has buscado la palabra 'Casa' en los archivos:
-../resources/Libros/prueba2.txt
-../resources/Libros/prueba.txt
+Saludos usuario Premium limitado con ID 7, has buscado la palabra 'talento' en los archivos:
+../resources/Libros/VIVE-TU-SUEÑO.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba.txt
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
 
-Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
-
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 

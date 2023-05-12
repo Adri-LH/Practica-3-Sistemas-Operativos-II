@@ -1,12 +1,13 @@
 /************************************************************************************
 *
-* Nombre: main.cpp
+* Nombre: ssooiigle.cpp
 * 
 * Nombre de Autor/es:Adrian Carrasco Espinosa y Javier de la Concepcion Dorado 
 * 
-* Fecha de creación/actualización: 13/04/2023
+* Fecha de creación/actualización: SSOO 2023
 
-* Descripción: Utilizada para la creacion de hilos y su tarea
+* Descripción: Clase encargada de creacion de usuarios, buscadores y sistema de pago.
+  Interesante mirar Global_Vars.h
 
 ************************************************************************************/
 
@@ -38,30 +39,43 @@
 #include "../include/Searcher.h"
 #include "../include/Global_Vars.h"
 
+//Declaracion de funciones
 void createPaySys();
-void createUsersThreads(int num_users);
-void createRequest(int user_id);
+void createSearchers(int searcher_id, std::string color);
 void createSearchersThreads(int num_searchers);
+void createUsersThreads(int num_users);
+void createRandomUser(int user_id);
+void createUserRequest(std::shared_ptr<User> user);
+void createTxtResults(std::string path, std::string request, std::string result);
+std::string getRandomWordDictionary();
+std::vector<std::string> getRandomFiles();
 
-//Memorias compartidas (no todas lo tendran que ser)
-std::vector<std::thread> user_threads;
-std::vector<std::thread> searcher_threads;
+//Variables globales
+std::vector<std::thread> g_user_threads;      //Vector de hilos de usuarios
+std::vector<std::thread> g_searcher_threads;  //Vector de hilos de buscadores
 
-//Para el sistema de pago
-std::shared_ptr<std::mutex> sem_system_pay_queue = std::make_shared<std::mutex>(); //a los dos
-std::shared_ptr<std::condition_variable> cond_var_system_pay_queue = std::make_shared<std::condition_variable>();
-std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>> system_pay_queue = std::make_shared<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>>();
+//PARA EL SISTEMA DE PAGO
 
+//Puntero a semaforo que controla el acceso a la cola del sistema de pago
+std::shared_ptr<std::mutex> p_sem_system_pay_queue = std::make_shared<std::mutex>();
+//Puntero a la variable de condicion del sistema de pago. Buscadores la usaran para el notify en una solicitud.
+//El sistema de pago lo usara para el wait.
+std::shared_ptr<std::condition_variable> p_cond_var_system_pay_queue = std::make_shared<std::condition_variable>();
+//Puntero a cola de peticiones del sistema de pago. Es una tupla que contiene 3 elementos:
+//Puntero a saldo de un usuario, puntero a semaforo del buscador y id del usuario.
+std::shared_ptr<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>> p_system_pay_queue 
+= std::make_shared<std::queue<std::tuple<std::shared_ptr<int>, std::shared_ptr<std::mutex>, int>>>();
 
-//Para el sistema de búsqueda
-std::queue<std::shared_ptr<Request>> request_queue;
+//PARA EL SISTEMA DE BUSQUEDA
 
-//Para los buscadores
-std::condition_variable cond_var_request_queue;
-std::mutex sem_request_queue;
-//Son los users
+//Puntero a semaforo que controla el acceso a la cola de peticiones de buscadores
+std::shared_ptr<std::mutex> p_sem_request_queue = std::make_shared<std::mutex>();
+//Puntero a variable de condicion del sistema de busqueda. Los usuarios lo usaran para el notify en una solicitud.
+//Los buscadores lo usaran para el wait.
+std::shared_ptr<std::condition_variable> p_cond_var_request_queue = std::make_shared<std::condition_variable>();
+//Puntero a una cola de punteros de peticiones de busqueda.
+std::shared_ptr<std::queue<std::shared_ptr<Request>>> p_request_queue = std::make_shared<std::queue<std::shared_ptr<Request>>>();
 
-//std::shared_ptr<UserPremiumLimited> user = std::make_shared<UserPremiumLimited>(1, 100);
 int main(int argc, char *argv[])
 {
     //Control de argumentos
@@ -80,25 +94,118 @@ int main(int argc, char *argv[])
     //Creamos usuarios y peticiones
     createUsersThreads(USERS_NUM);
     
+    //Espera a todas las entidades
     T_Pay_Sys.join();
-    std::for_each(user_threads.begin(), user_threads.end(), std::mem_fn(&std::thread::join));
-    std::for_each(searcher_threads.begin(), searcher_threads.end(), std::mem_fn(&std::thread::join));
+    std::for_each(g_user_threads.begin(), g_user_threads.end(), std::mem_fn(&std::thread::join));
+    std::for_each(g_searcher_threads.begin(), g_searcher_threads.end(), std::mem_fn(&std::thread::join));
 
 }
 
+/*Descripcion: Crea el sistema de pago*/
 void createPaySys(){
     Pay_Sys Paysystem;
-    Paysystem.paySysWorking(sem_system_pay_queue, cond_var_system_pay_queue, system_pay_queue);
+    Paysystem.paySysWorking(p_sem_system_pay_queue, p_cond_var_system_pay_queue, p_system_pay_queue);
     
 }
 
-std::string getRandomWordDictionary() {
-    //Obtenemos una palabra aleatoria
-    int random_number = getRandomNumber(0, dictionary.size()-1);
-    //return dictionary[random_number];
-    return "David";
+/*Descripcion: Crea los buscadores*/
+void createSearchers(int searcher_id, std::string color){
+    Searcher searcher = Searcher(searcher_id, color, p_sem_system_pay_queue, p_cond_var_system_pay_queue, p_system_pay_queue);
+    searcher.searcherWorking(p_sem_request_queue, p_cond_var_request_queue, p_request_queue);
 }
 
+/*Descripcion: Crea los hilos de los buscadores*/
+void createSearchersThreads(int num_searchers){
+    //Se obtiene un color para la impresión del buscador
+    int color_index = 0;
+    for(int i = 0; i < num_searchers; i++){
+        std::string color = COLORS[color_index];
+
+        g_searcher_threads.push_back(std::thread(createSearchers, i,color));
+        color_index++;
+
+        //Los colores son limitados, hay que reiniciar el index
+        if(color_index == COLORS.size())
+            color_index = 0;
+    }
+
+}
+
+/*Descripcion: Crea los hilos de los usuarios*/
+void createUsersThreads(int num_users){
+    //Borramos el contenido de la carpeta user_results (resultados antiguos)
+    deleteDirectoryFiles(RESULTS_PATH);
+
+    for(int i = 0; i < num_users; i++){
+        g_user_threads.push_back(std::thread(createRandomUser, i));
+    }
+
+}
+
+/*Descripcion: Creacion de usuarios y creacion de peticion*/
+void createRandomUser(int user_id){ 
+    //Creacion usuario, por defecto Free
+    std::shared_ptr<User> user = std::make_shared<User>(user_id, USER_BALANCE, USER_TYPE::FREE);
+    int random_number = getRandomNumber(0, 2);
+
+    switch (random_number){
+        case 0:
+            //Usuario Free
+            break;
+        case 1:
+            //Usuario PremiumLimited
+            user->setType(USER_TYPE::PREMIUMLIMITED);
+            break;
+        
+        case 2:
+            //Usuario Premium
+            user->setType(USER_TYPE::PREMIUM);
+            break;
+    }
+
+    //El usuario hace la peticion
+    createUserRequest(user);
+
+}
+
+/*Descripcion: Creacion, envio y recepcion de peticion y resultado del usuario*/
+void createUserRequest(std::shared_ptr<User> user){
+    //Se generan los datos de la busqueda
+    std::string word = getRandomWordDictionary();
+    std::vector<std::string> files = getRandomFiles();
+
+    //Se hace la peticion
+    user->makeRequest(word, files);
+
+    //Colocamos la peticion en la cola de peticiones, bloqueando el semaforo de peticiones
+    std::unique_lock<std::mutex> lock_request_queue(*p_sem_request_queue);
+        p_request_queue->push(user->getRequest());
+        //Avisamos a un buscador de que hay una peticion
+        p_cond_var_request_queue->notify_one(); 
+    lock_request_queue.unlock();
+
+    //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará.
+    user->getSemUser()->lock();
+
+    //Creamos resultados
+    std::string path = std::string(RESULTS_PATH) + std::to_string(user->getID()) + ".txt";
+    createTxtResults(path, user-> getRequest()->requestToString(), user-> getResult()->resultToString(*(user->getBalance())));
+}
+
+/*Descripcion: Crea un txt de resultado de busqueda y le añade informacion*/
+void createTxtResults(std::string path, std::string request, std::string result){
+    writeFile(path, request);
+    writeFile(path, result);
+}
+
+/*Descripcion: Obtiene una palabra aleatoria del diccionario*/
+std::string getRandomWordDictionary() {
+    //Obtenemos una palabra aleatoria
+    int random_number = getRandomNumber(0, DICTIONARY.size()-1);
+    return DICTIONARY[random_number];
+}
+
+/*Descripcion: Obtiene un numero aleatorio de archivos aleatorios*/
 std::vector<std::string> getRandomFiles(){
     //Numero archivos a buscar
     int num_files = getRandomNumber(MIN_FILES, MAX_FILES);
@@ -110,87 +217,13 @@ std::vector<std::string> getRandomFiles(){
     //Archivos seleccionados
     std::vector<std::string> selected_files;
     
-    // for (int i = 0; i < num_files; i++){
-    //     //Obtenemos archivo aleatorio
-    //     std::string file = files[getRandomNumber(0, files.size() - 1)];
-    //     selected_files.push_back((std::string(FILES_PATH) + file));
+    for (int i = 0; i < num_files; i++){
+        //Obtenemos archivo aleatorio
+        std::string file = files[getRandomNumber(0, files.size() - 1)];
+        selected_files.push_back((std::string(FILES_PATH) + file));
 
-    // }
-
-    selected_files.push_back((std::string(FILES_PATH) + "prueba.txt"));
-    selected_files.push_back((std::string(FILES_PATH) + "prueba2.txt"));
+    }
 
     return selected_files;
 }
 
-//Cada usuario será un hilo
-void createRandomUser(int user_id){ 
-    //Creacion usuario, por defecto Free
-    std::shared_ptr<User> user = std::make_shared<User>(user_id, USER_BALANCE, User_Type::FREE);
-    int random_number = getRandomNumber(0, 2);
-
-    switch (random_number){
-        case 0:
-            //Usuario Free
-            break;
-        case 1:
-            //Usuario PremiumLimited
-            user->setType(User_Type::PREMIUMLIMITED);
-            break;
-        
-        case 2:
-            //Usuario Premium
-            user->setType(User_Type::PREMIUM);
-            break;
-    }
-
-    std::string word = getRandomWordDictionary();
-    std::vector<std::string> files = getRandomFiles();
-
-    user->makeRequest(word, files);
-
-    //Colocamos la peticion en la cola de peticiones, bloqueando el semaforo de peticiones
-    std::unique_lock<std::mutex> lock_request_queue(sem_request_queue);
-    request_queue.push(user->getRequest());
-    cond_var_request_queue.notify_one(); //Avisamos a un buscador de que hay una peticion
-    lock_request_queue.unlock();
-
-    //El usuario se bloquea, cuando su peticion sea atendida se desbloqueará (se hace 2 veces porque la primera es para inicializarlo)
-    user->getSemUser()->lock();
-    user->getSemUser()->lock();
-
-    //Creamos el archivo txt que guarda la petición y el resultado
-    std::string path = std::string(RESULTS_PATH) + std::to_string(user_id) + ".txt";
-    writeFile(path, user-> getRequest()->requestToString());
-    writeFile(path, user-> getResult()->resultToString(*(user->getBalance())));
-    
-}
-
-void createUsersThreads(int num_users){
-    //Borramos el contenido de la carpeta user_results.
-    deleteDirectoryFiles(RESULTS_PATH);
-
-    for(int i = 0; i < num_users; i++){
-        user_threads.push_back(std::thread(createRandomUser, i));
-    }
-
-}
-
-void createSearchers(int searcher_id, std::string color){
-    Searcher searcher = Searcher(searcher_id, color, sem_system_pay_queue, cond_var_system_pay_queue, system_pay_queue);
-    searcher.searcherWorking(std::ref(sem_request_queue), std::ref(cond_var_request_queue), request_queue);
-}
-
-void createSearchersThreads(int num_searchers){
-    int color_index = 0;
-    for(int i = 0; i < num_searchers; i++){
-        std::string color = colors[color_index];
-
-        searcher_threads.push_back(std::thread(createSearchers, i,color));
-        color_index++;
-
-        if(color_index == colors.size())
-            color_index = 0;
-    }
-
-}

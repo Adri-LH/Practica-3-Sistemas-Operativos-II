@@ -1,27 +1,16 @@
-Saludos usuario Premium con ID 6, has buscado la palabra 'talento' en los archivos:
-../resources/Libros/La-última-sirena.txt
+Saludos usuario Premium limitado con ID 6, has buscado la palabra 'Grupo' en los archivos:
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1526 --> talento talento genuino
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1539 --> jóven talento  d
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1547 --> ento f talento fue
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2095 --> el talento La
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2211 --> el talento La
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2217 --> el talento el
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2925 --> talento talento que
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3491 --> no_word talento aprenden
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3672 --> no_word talento no
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4797 --> talento talento atural,
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5065 --> artista talento No
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5298 --> no_word talento de
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5314 --> bastante talento en
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5319 --> mucho talento pero
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3463 --> verdadero talento no_word
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 7668 --> su talento  Ahor
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 11036 --> talento talento y
+Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 
+Buscador: 2 Hilo: 2 no pudo encontrar ningun resultado en el archivo../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 

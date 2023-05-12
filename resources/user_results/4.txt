@@ -1,14 +1,13 @@
-Saludos usuario Gratuito con ID 4, has buscado la palabra 'poder' en los archivos:
-../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+Saludos usuario Premium con ID 4, has buscado la palabra 'Capítulo' en los archivos:
+../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 
 
 RESULTADOS:
 
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
-Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 
 AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
 

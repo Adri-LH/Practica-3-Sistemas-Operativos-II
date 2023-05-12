@@ -4,10 +4,10 @@
 * 
 * Nombre de Autor/es:Adrian Carrasco Espinosa y Javier de la Concepcion Dorado 
 * 
-* Fecha de creación/actualización: 13/04/2023
-
-* Descripción: Tratamiento de ficheros
-
+* Fecha de creación/actualización: SSOO2 2023
+*
+* Descripción: Tratamiento de ficheros y otros.
+*
 ************************************************************************************/
 
 #ifndef MYFILES_H

@@ -1,6 +1,18 @@
 #ifndef USER_H
 #define USER_H
 
+/************************************************************************************
+* Nombre: User.h
+* 
+* Nombre de Autor/es:Adrian Carrasco Espinosa y Javier de la Concepcion Dorado 
+* 
+* Fecha de creación/actualización: SSOO2 2023
+*
+* Descripción: Clase usuario. Contiene un objeto puntero peticion y un objeto
+* puntero resultado. Cuando se crea un usuario, se rellenan los datos de la peticion
+* y se envia a la cola de peticiones. Tambien se rellenan algunos datos del resultado
+************************************************************************************/
+
 #include <mutex>
 #include <shared_mutex>
 #include "../include/Request.h"
@@ -9,16 +21,22 @@
 class User{//Clase usuario
     public:
 
-        User(int _id, int _balance, User_Type _type){ //Constructor usuario
+        User(int _id, int _balance, USER_TYPE _type){ //Constructor usuario
             id = _id;
-            *balance = _balance;
+            *p_balance = _balance;
             type = _type;
+
+            p_result->setUserType(type); //Se inicia el resultado rellenando algunas variables
+
+
+            p_sem->lock(); //Se inicializa el semaforo (no se bloquea)
+        
         }
 
         User(){};
 
         void balanceUp(double _balance){
-            *balance = _balance;
+            *p_balance = _balance;
         }
 
         int getID(){
@@ -26,54 +44,61 @@ class User{//Clase usuario
         }
 
         std::shared_ptr<int> getBalance(){
-            return balance;
+            return p_balance;
     
         }
 
-        void setType(User_Type _type){
+        void setType(USER_TYPE _type){
             type = _type;
         }
 
-        User_Type getType(){
+        USER_TYPE getType(){
             return type;
         }
 
         std::shared_ptr<Request> getRequest(){
-            return request;
+            return p_request;
         }
 
         void setResult(std::shared_ptr<Result> _result){
-            result = _result;
+            p_result = _result;
         }
 
         std::shared_ptr<std::mutex> getSemUser(){
-            return sem;
+            return p_sem;
         }
 
         std::shared_ptr<Result> getResult(){
-            return result;
+            return p_result;
         }
 
+        /*Descripcion: Completa los datos de la peticion*/
         void makeRequest(std::string _word, std::vector<std::string> _files){
-            request -> setWord(_word);
-            request -> setFiles(_files);
-            request -> setSemUser(sem);
-            request -> setResult(result);
-            request -> setUserId(id);
-            request -> setUserBalance(balance);
-            request -> setUserType(type);
-        }
+            p_request -> setWord(_word);
+            p_request -> setFiles(_files);
+            p_request -> setSemUser(p_sem);
+            p_request -> setResult(p_result);
+            p_request -> setUserId(id);
+            p_request -> setUserBalance(p_balance);
+            p_request -> setUserType(type);
 
+            //Se le informa al resultado de la palabra a buscar
+            p_result->setWordSearched(_word);
+        }
 
 
     private:
-        int id;
-        std::shared_ptr<int> balance = std::make_shared<int>(0);
-        User_Type type;
+        int id;         //ID del usuario
+        //Puntero al saldo del usuario
+        std::shared_ptr<int> p_balance = std::make_shared<int>(0);
+        USER_TYPE type; //Tipo de usuario
 
-        std::shared_ptr<std::mutex> sem = std::make_shared<std::mutex>();
-        std::shared_ptr<Request> request = std::make_shared<Request>();
-        std::shared_ptr<Result> result = std::make_shared<Result>();
+        //Puntero al semaforo del usuario
+        std::shared_ptr<std::mutex> p_sem = std::make_shared<std::mutex>();
+        //Puntero a la peticion del usuario
+        std::shared_ptr<Request> p_request = std::make_shared<Request>();
+        //Puntero al resultado del usuario
+        std::shared_ptr<Result> p_result = std::make_shared<Result>();
 
 };
 

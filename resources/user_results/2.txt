@@ -1,16 +1,147 @@
-Saludos usuario Gratuito con ID 2, has buscado la palabra 'forma' en los archivos:
+Saludos usuario Premium limitado con ID 2, has buscado la palabra 'Grupo' en los archivos:
+../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+../resources/Libros/ACTITUD-DE-VENDEDOR.txt
 ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
-../resources/Libros/VIVE-TU-SUEÑO.txt
 
 
 RESULTADOS:
 
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 173 --> forma forma parte
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 189 --> forma forma individual
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 205 --> la forma de
-Buscador: 3 Hilo: 0 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 222 --> todas forma y
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 301 --> grupo Grupo  d
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1407 --> grupo Grupo acerca
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1481 --> grupo Grupo de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 1487 --> grupo Grupo de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 2670 --> grupo Grupo y
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 3385 --> con Grupo ositivos.
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4456 --> grupo Grupo uestionable.
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 4468 --> grupo Grupo de
+Buscador: 1 Hilo: 1 Archivo: ../resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 5053 --> grupo Grupo hable
 
-Buscador: 3 Hilo: 1 Archivo: ../resources/Libros/VIVE-TU-SUEÑO.txt Linea: 98 --> desearí forma  Si
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 123 --> grupo Grupo bastante
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 935 --> po d Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1255 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1320 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1363 --> al Grupo La
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1527 --> grupo Grupo lo
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1529 --> un Grupo y
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1538 --> dos Grupo salieron
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1547 --> grupo Grupo hubiera
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2225 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2494 --> grupo Grupo en
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2496 --> un Grupo en
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2875 --> Ambos Grupo con
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2900 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3125 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3517 --> un Grupo sea
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3518 --> grupo Grupo se
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3525 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3937 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4165 --> dos Grupo En
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4167 --> segundo Grupo tableció
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4174 --> grupo Grupo con
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4175 --> grupo Grupo con
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4205 --> [Grup Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4827 --> po d Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4982 --> grupo Grupo de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4988 --> po s Grupo se
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5773 --> grupo Grupo de
 
-AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 30 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 219 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 350 --> un Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 371 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 414 --> grupo Grupo al
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 600 --> grupo Grupo abí
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 618 --> al Grupo firiéndome
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 637 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 732 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 741 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 743 -->  g Grupo entonces
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 765 --> Grupo Grupo NJOY,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 956 --> no_word Grupo Si
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1106 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1183 --> los Grupo debe
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1189 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1278 --> grupo Grupo bía
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1328 --> grupo Grupo ritánic
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1335 --> grupo Grupo itánico
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1357 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1358 --> siguiente Grupo Equipos
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1549 --> ambos Grupo Tenzing
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1786 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1787 --> grupo Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1828 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1922 --> el Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1926 --> po d Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1960 --> en Grupo  d
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1961 --> grupo Grupo nía
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1962 --> grupo Grupo esmayaba,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1973 --> grupo Grupo aprende
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1984 --> habido Grupo donde
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1986 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2163 --> grupo Grupo contiene
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2168 --> grupo Grupo inal,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2183 --> grupo Grupo y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2199 --> grupo Grupo determina
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2345 --> Grupo Grupo NJOY,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2348 --> del Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2491 --> grupo Grupo estaba
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2495 --> grupo Grupo sufra
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2742 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2755 --> del Grupo entonces
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3077 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3089 --> grupo Grupo en
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3351 --> Grupo Grupo NJOY,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3438 --> grupo Grupo para
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3444 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3531 --> del Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3532 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3535 --> grupo Grupo al
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3566 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3699 --> como Grupo el
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3791 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3835 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3875 --> del Grupo Mientras
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4128 --> grupo Grupo especial
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4267 --> Ambos Grupo son
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4424 --> Grupo Grupo NJOY.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4514 --> Grupo Grupo  INJO
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4520 --> al Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4531 --> Grupo Grupo NJOY,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4566 --> nueve Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4567 --> po I Grupo NJOY.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4595 --> tres Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4598 --> grupo Grupo es
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4601 --> po s Grupo se
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4608 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4691 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4730 --> GRUPO Grupo  INJO
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4731 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4738 --> al Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4758 --> a Grupo �as.
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4767 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4782 --> Grupo Grupo NJOY,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4792 --> al Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4828 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4843 --> grupo Grupo  d
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4855 --> del Grupo údelos
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4862 --> ese Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4869 --> grupo Grupo earán
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4944 --> po I Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5222 --> al Grupo A
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5244 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5250 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5267 --> del Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5279 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5420 --> grupo Grupo de
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5425 --> grupo Grupo con
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5572 --> po I Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5673 --> de Grupo mbientalistas,
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5984 --> del Grupo y
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6316 --> grupo Grupo  posibl
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6321 --> de Grupo se
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6405 --> el Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6427 --> al Grupo no_word
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6446 --> Grupo Grupo INJOY
+Buscador: 1 Hilo: 2 Archivo: ../resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6506 --> de Grupo Se
 
+AVISO: Durante tu busqueda se han realizado 34 recargas de saldo.
