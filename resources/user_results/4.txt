@@ -1,0 +1,14 @@
+Saludos usuario Gratuito con ID 4, has buscado la palabra 'poder' en los archivos:
+../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 54 --> poder poder undial,
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 82 --> poder poder de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 110 --> DE poder no_word
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 112 --> poder poder a
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/21-LEYES-DEL-LIDERAZGO.txt Linea: 116 --> de poder no_word
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+

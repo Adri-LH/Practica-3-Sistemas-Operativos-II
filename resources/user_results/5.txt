@@ -1,0 +1,18 @@
+Saludos usuario Premium limitado con ID 5, has buscado la palabra 'Americano' en los archivos:
+../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+../resources/Libros/prueba2.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 1 no pudo encontrar ningun resultado en el archivo../resources/Libros/prueba2.txt
+
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 224 --> americano Americano ijo:
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 459 --> americano Americano de
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 635 --> Psicólo Americano no_word
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1589 --> Psicólo Americano no_word
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1939 --> o A Americano no_word
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2280 --> no_word Americano día
+Buscador: 1 Hilo: 0 Archivo: ../resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3032 --> Psicólo Americano no_word
+
+AVISO: Durante tu busqueda se han realizado 1 recargas de saldo.

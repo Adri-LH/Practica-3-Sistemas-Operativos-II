@@ -1,0 +1,17 @@
+Saludos usuario Gratuito con ID 3, has buscado la palabra 'Ley' en los archivos:
+../resources/Libros/VIVE-TU-SUEÑO.txt
+../resources/Libros/La-última-sirena.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo../resources/Libros/VIVE-TU-SUEÑO.txt
+
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 3 --> La Ley no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 70 --> La Ley no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 152 --> La Ley no_word
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 158 --> de Ley y
+Buscador: 2 Hilo: 1 Archivo: ../resources/Libros/La-última-sirena.txt Linea: 198 --> la Ley Kell
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
