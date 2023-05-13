@@ -2,7 +2,7 @@ DIROBJ := obj/
 DIREXE := exec/
 DIRHEA := include/
 DIRSRC := src/
-DIRRES := resources/
+DIRRES := resources/user_results
 
 CFLAGS := -I$(DIRHEA) -c -std=c++20
 LDLIBS := -lpthread -lrt 
@@ -11,7 +11,7 @@ CC := g++
 all : dirs ssooiicle
 
 dirs:
-	mkdir -p $(DIROBJ) $(DIREXE)
+	mkdir -p $(DIROBJ) $(DIREXE) $(DIRRES)
 
 ssooiicle: $(DIROBJ)ssooiigle.o 
 	$(CC) -o $(DIREXE)$@ $^ $(LDLIBS)
@@ -19,8 +19,8 @@ ssooiicle: $(DIROBJ)ssooiigle.o
 $(DIROBJ)%.o: $(DIRSRC)%.cpp
 	$(CC) $(CFLAGS) $^ -o $@
 
-test:
+solucion:
 	./$(DIREXE)ssooiicle 
 
 clean : 
-	rm -rf *~ core $(DIROBJ) $(DIREXE) $(DIRHEA)*~ $(DIRSRC)*~
+	rm -rf *~ core $(DIROBJ) $(DIREXE) $(DIRHEA)*~ $(DIRSRC)*~ $(DIRRES)

@@ -16,8 +16,8 @@ Realizado por Adrián Carrasco Espinosa y Javier De la Concepción Dorado.
 ## Archivo Make
 
 - Usa la versión del compilador 20 de g++.
-- Para crear ejecutables: sudo make.
-- Para ejecutar: sudo make test (necesario ejecutar desde el directorio raiz del archivo).
+- Para crear ejecutables: sudo make all.
+- Para ejecutar: sudo make solucion (necesario ejecutar desde el directorio raiz del archivo).
 - Para limpiar archivos: sudo make clean.
 
 ## Funcionamiento del programa
