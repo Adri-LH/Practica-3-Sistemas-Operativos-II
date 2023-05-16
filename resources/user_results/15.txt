@@ -1,0 +1,14 @@
+Saludos usuario Gratuito con ID 15, has buscado la palabra 'Americano' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
+
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3180 --> Fútb Americano ijo:
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5617 --> americano Americano en
+
+El tiempo total de la busqueda ha sido  0.026415 segundos.
+

@@ -1,0 +1,24 @@
+Saludos usuario Gratuito con ID 9, has buscado la palabra 'Nube' en los archivos:
+./resources/Libros/prueba.txt
+./resources/Libros/La-última-sirena.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
+
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 479 --> Las Nube del
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 559 --> las Nube que
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 781 --> las Nube no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 800 --> nube Nube de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 826 --> y Nube de
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1619 --> de Nube hacia
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2613 --> y Nube no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2902 --> de Nube no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3007 --> de Nube no_word
+Buscador: 1 Hilo: 1 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3021 --> por Nube que
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.014183 segundos.
+

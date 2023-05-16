@@ -1,0 +1,222 @@
+Saludos usuario Premium con ID 7, has buscado la palabra 'poder' en los archivos:
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 182 --> poder poder culti
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 285 --> poder poder  cambia
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 308 --> m� poder que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 312 --> los poder lefantes,
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 367 --> poder poder mostrarle
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 453 --> gran poder no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 468 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 539 --> poder poder en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 690 --> poder poder encontrar
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 810 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1050 --> poder poder reíble.
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1052 --> poder poder para
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1093 --> PODER poder DE
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1111 --> poder poder del
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1166 --> poder poder pedirle
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1175 --> poder poder en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1509 --> lo poder que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1795 --> poder poder conectarse
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1857 --> poder poder seguir
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2032 --> PODER poder  ENTENDE
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2033 --> poder poder enten
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2034 --> poder poder ontestar.
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2135 --> poder poder articular
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2204 --> poder poder ayudar
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2319 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2362 --> poder poder �adirles
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2509 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2599 --> poder poder para
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2628 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2648 --> poder poder relacionarse
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2883 --> poder poder hacer
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2989 --> poder poder averiguar
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3039 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3062 --> poder poder ino…
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3066 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3067 --> poder poder no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3081 --> poder poder alentador
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3083 --> ese poder He
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3107 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3131 --> poder poder del
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3132 --> tan poder No
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3134 --> tan poder no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3162 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3182 --> poder poder de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3287 --> [ poder que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3288 --> m� poder que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3290 --> m� poder y
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3291 --> poder poder nos
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3301 --> poder poder hacer
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3312 --> poder poder llegar
+
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1216 --> poder poder ontrolarlas;
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1425 --> la poder fortaleza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2032 --> poder poder separarle
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2064 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2132 --> no_word poder corcel
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2214 --> poder poder sentarse
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2579 --> y poder fuerza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3331 --> mi poder rderé
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3518 --> poder poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3670 --> significaba poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3671 --> er p poder día
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3692 --> poder poder descansar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3894 --> una poder fuerza
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4009 --> poder poder ponerse
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4919 --> poder poder o
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4921 --> poder poder al
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4976 --> poder poder llevarles
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5066 --> er d poder del
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5169 --> poder poder pelear
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5201 --> poder poder darle
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5338 --> una poder mirada
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5560 --> poder poder ensar,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5598 --> poder poder del
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5854 --> se poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6133 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6518 --> poder poder escapar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6529 --> hombre poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6531 --> hombre poder ntinuó
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6532 --> no_word poder Reina
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6921 --> poder poder sentir
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7154 --> m� poder que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7178 --> poder poder confiar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7286 --> poder poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7567 --> el poder Leila
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7790 --> se poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8098 --> sentido poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8503 --> poder poder y
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9131 --> era poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9285 --> poder poder ayudar
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9446 --> poder poder ver
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10142 --> Tengo poder que
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11674 --> para poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11774 --> poder poder superarlo
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13267 --> para poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13370 --> pueblo poder ustera,
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13662 --> poder poder vivir
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13852 --> no_word poder de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14019 --> er v poder ver
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14033 --> poder poder responder
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14759 --> sin poder no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15104 --> se poder de
+
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 567 --> poder poder vitarlo,
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 824 --> el poder la
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1074 --> er s poder salir
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1191 --> poder poder que
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1200 --> m� poder el
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1207 --> poder poder upremo,
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1266 --> de poder que
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1300 --> y poder el
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1311 --> el poder en
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1934 --> poder poder y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2079 --> poder poder y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2115 --> no_word poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2418 --> poder poder providencial
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2619 --> no poder no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2736 --> no poder no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2744 --> para poder tomar
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2776 --> de poder soportar
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2888 --> es poder y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2889 --> es poder y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2905 -->  p poder hubiera
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2993 --> se poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3977 --> se poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4103 --> poder poder  de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4447 --> poder poder apartar
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4685 --> los poder igual
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4791 --> plenos poder al
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4927 --> no_word poder que
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6142 --> no poder no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6445 --> er t poder tentacular
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6591 --> extra� poder no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6628 --> er m poder nético.
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6667 --> poder poder  alcanza
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6694 --> er d poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 6959 --> poder poder  victorios
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7037 --> poder poder  comparti
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7155 --> el poder exaltado
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7302 --> poder poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7334 --> del poder no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7401 --> er d poder ecirlo,
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7568 --> no_word poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7601 --> no_word poder spués
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7678 --> poder poder de
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7773 --> de poder �sculos
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7966 --> poder poder supremo
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8219 --> el poder �—.
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8767 --> er l poder lavar
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9048 --> poder poder que
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 9370 --> poder poder pelear
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10294 --> extrañ poder y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10386 --> raños poder Y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10450 --> no_word poder mnisciente,
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10818 --> poder poder son
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10888 --> er p poder para
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11293 --> no poder lví
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11592 --> se poder de
+
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1216 --> poder poder ontrolarlas;
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1425 --> la poder fortaleza
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2032 --> poder poder separarle
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2064 --> poder poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2132 --> no_word poder corcel
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2214 --> poder poder sentarse
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2579 --> y poder fuerza
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3331 --> mi poder rderé
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3518 --> poder poder y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3670 --> significaba poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3671 --> er p poder día
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3692 --> poder poder descansar
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3894 --> una poder fuerza
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4009 --> poder poder ponerse
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4919 --> poder poder o
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4921 --> poder poder al
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4976 --> poder poder llevarles
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5066 --> er d poder del
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5169 --> poder poder pelear
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5201 --> poder poder darle
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5338 --> una poder mirada
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5560 --> poder poder ensar,
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5598 --> poder poder del
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5854 --> se poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6133 --> poder poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6518 --> poder poder escapar
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6529 --> hombre poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6531 --> hombre poder ntinuó
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6532 --> no_word poder Reina
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6921 --> poder poder sentir
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7154 --> m� poder que
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7178 --> poder poder confiar
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7286 --> poder poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7567 --> el poder Leila
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 7790 --> se poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8098 --> sentido poder y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8503 --> poder poder y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9131 --> era poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9285 --> poder poder ayudar
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9446 --> poder poder ver
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10142 --> Tengo poder que
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11674 --> para poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11774 --> poder poder superarlo
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13267 --> para poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13370 --> pueblo poder ustera,
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13662 --> poder poder vivir
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13852 --> no_word poder de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14019 --> er v poder ver
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14033 --> poder poder responder
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14759 --> sin poder no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15104 --> se poder de
+
+El tiempo total de la busqueda ha sido  0.060724 segundos.
+

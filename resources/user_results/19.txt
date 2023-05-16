@@ -1,0 +1,177 @@
+Saludos usuario Premium con ID 19, has buscado la palabra 'talento' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+./resources/Libros/VIVE-TU-SUEÑO.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
+
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 543 --> mis talento Es
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1441 --> don talento recurso
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2013 --> era talento inteligente
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2106 --> diferentes talento y
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2213 --> talento talento o
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2712 --> su talento no_word
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2941 --> talento talento para
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2969 --> talento talento que
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2971 --> ese talento Si
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3262 --> o talento para
+Buscador: 3 Hilo: 3 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3335 --> no_word talento y
+
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1526 --> talento talento genuino
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1539 --> jóven talento  d
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 1547 --> ento f talento fue
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2095 --> el talento La
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2211 --> el talento La
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2217 --> el talento el
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 2925 --> talento talento que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3491 --> no_word talento aprenden
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 3672 --> no_word talento no
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 4797 --> talento talento atural,
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5065 --> artista talento No
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5298 --> no_word talento de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5314 --> bastante talento en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 5319 --> mucho talento pero
+
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 91 --> talento talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 138 --> igualmente talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 141 --> unfar:  talento poyo,
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 322 --> hombre talento siempre
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 323 --> bre t talento La
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 372 --> talento talento sino
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1028 --> sus talento sus
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1072 --> talento talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1106 --> individuos talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1110 --> sus talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1125 --> talento talento umenta,
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1262 --> t talento Mover
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1500 --> talento talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1501 --> ese talento A
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1502 --> talento talento en
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1507 --> y talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1872 -->  t talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1878 --> los talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2075 --> no_word talento capacidad
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2127 --> talento talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2165 --> su talento Esta
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2173 --> de talento no
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2176 --> talento talento en
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2204 --> voluntarios talento Para
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2235 --> no_word talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2237 --> talento talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2238 --> y talento Eso
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2239 --> talento talento sabe
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2242 --> talento talento en
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2322 --> no_word talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2395 --> s talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2406 --> y talento Usted
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2491 --> de talento recursos
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2627 --> verdaderamente talento Ellos
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2806 --> talento talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2807 --> mucho talento uánto
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2815 --> talento talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2843 --> TALENTO talento NO
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2845 --> ento n talento no
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2846 --> no_word talento Mi
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2849 --> no_word talento para
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2850 --> de talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2852 --> talento talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2884 --> un talento tá
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> ento s talento solo
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2887 --> talento talento con
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2888 --> no_word talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2890 --> amente t talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2897 --> n t talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2903 --> n t talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2908 --> n t talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2913 --> n t talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2919 --> talento talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 2924 --> contagiosas talento experiencia
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3006 --> del talento rendimiento
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3065 --> del talento los
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3634 --> talento talento que
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3648 -->  t talento el
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3828 --> ento d talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 3875 --> m� talento sean
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4309 --> miembros talento del
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4314 --> de talento mergentes.
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4321 --> es,  talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4342 --> personas talento las
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4373 --> no_word talento Creo
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4902 --> talento talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 4933 --> no_word talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5383 --> igualmente talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5386 --> nuevos talento o
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5395 --> éxi talento Trabajo
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5411 --> igualmente talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5420 --> un talento grupo
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5425 --> mucho talento esto
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5429 --> talento talento no
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5431 --> m� talento desde
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5435 --> no_word talento tenemos
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5445 --> igualmente talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5615 --> mayor talento no_word
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5707 --> igualmente talento es
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5727 --> talento talento y
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> talento talento a
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 5865 --> a talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6189 --> m� talento en
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6222 --> talento talento de
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6269 --> son talento sin
+Buscador: 3 Hilo: 4 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 6507 --> pose� talento pero
+
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 418 --> ento d talento de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 580 --> mejores talento y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 769 --> talento talento usical.
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 782 --> talento talento suficiente
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1147 --> moso,  talento y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1164 --> el talento l
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1213 --> posees talento  experiencia
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1302 --> su talento no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1303 --> el talento el
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1305 --> talento talento en
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1307 --> talento talento con
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1502 --> no_word talento habilidades
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2386 --> su talento aun
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2407 --> no_word talento TRABAJO
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2699 --> talento talento ni
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2707 --> talento talento usical.
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2717 --> talento talento de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2720 --> de talento no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2785 --> de talento  e
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2786 --> ento h talento hecho
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2786 --> talento talento dado
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2787 --> ento h talento hecho
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2788 --> ento d talento dado
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2790 --> talento talento atural,
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2791 --> ento q talento que
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2803 --> talento talento de
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2825 --> de talento el
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2825 --> talento talento hecho
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2827 --> talento talento dado
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2827 --> talento talento hecho
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2829 --> talento talento dado
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2902 --> talento talento que
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2902 --> ese talento no_word
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2937 --> talento talento en
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 2939 --> talento talento es
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3425 --> tecibimos talento y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3430 --> verdaderos talento por
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3431 --> o talento no
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 3985 --> no_word talento y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 5028 --> tus talento y
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6728 --> no_word talento artista
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 6917 --> el talento iempo,
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8045 --> ENTO A talento  ASOMBROS
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8080 --> y talento pero
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8111 --> talento talento natural
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8284 --> nuestros talento explorar
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8371 --> talento talento natural
+Buscador: 3 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 8676 --> habilidades talento trabajo
+
+El tiempo total de la busqueda ha sido  0.030112 segundos.
+

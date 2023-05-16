@@ -1,0 +1,127 @@
+Saludos usuario Premium con ID 1, has buscado la palabra 'Luna' en los archivos:
+./resources/Libros/La-última-sirena.txt
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+./resources/Libros/VIVE-TU-SUEÑO.txt
+./resources/Libros/VIVE-TU-SUEÑO.txt
+./resources/Libros/La-última-sirena.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 3 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1055 --> l Luna Y
+Buscador: 0 Hilo: 3 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1855 --> no_word Luna Albert
+
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 310 --> luna Luna ,
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1572 --> la Luna este
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1581 --> módu Luna L)
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1584 --> no_word Luna cuario,
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1606 --> módu Luna Y
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1611 --> módu Luna mientras
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1613 --> módu Luna Un
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1619 --> módu Luna que
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1626 --> dulo Luna y
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1627 --> módu Luna y
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1632 --> módu Luna nía
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1634 --> la Luna no_word
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1637 --> módu Luna no_word
+Buscador: 0 Hilo: 1 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1646 --> luna Luna es
+
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1055 --> l Luna Y
+Buscador: 0 Hilo: 2 Archivo: ./resources/Libros/VIVE-TU-SUEÑO.txt Linea: 1855 --> no_word Luna Albert
+
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 222 --> sin Luna Kell
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 266 --> la Luna capas
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 639 --> la Luna colores
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 651 --> luna Luna vorecía
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 861 --> y Luna  disco
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1811 --> luna Luna llena
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1830 --> luna Luna  qu
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1909 --> luna Luna culpía
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1960 --> la Luna recía
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2086 --> luna Luna brillaba
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2234 --> luna Luna y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2240 --> luna Luna y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2762 --> luna Luna reciente,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2773 --> luna Luna creciente
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3365 --> la Luna un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3826 --> caza Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4054 --> luna Luna un
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5986 --> luna Luna nrió
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6897 --> luna Luna ía
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6911 --> luna Luna a
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6971 --> la Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6988 --> la Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8632 --> medialuna Luna roja
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8659 --> luna Luna erdadera,
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9717 --> a c Luna contra
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9902 --> la Luna una
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10151 --> luna Luna nueva
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10153 --> luna Luna que
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10314 --> la Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11198 --> hab� Luna Una
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11198 --> luna Luna delgada
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11218 --> luna Luna destellaba
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11276 --> la Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11538 --> la Luna Otra
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11645 --> luna Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11908 --> luna Luna  sobr
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12377 --> no_word Luna no_word
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12396 --> pequeñ Luna en
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12404 -->  m Luna se
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12434 --> las Luna eran
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13135 --> luna Luna era
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14404 --> luna Luna o
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15114 --> luna Luna de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15191 --> luna Luna  y
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15433 --> luna Luna de
+Buscador: 0 Hilo: 0 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15863 --> luna Luna iluminaba
+
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 222 --> sin Luna Kell
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 266 --> la Luna capas
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 639 --> la Luna colores
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 651 --> luna Luna vorecía
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 861 --> y Luna  disco
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1811 --> luna Luna llena
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1830 --> luna Luna  qu
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1909 --> luna Luna culpía
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 1960 --> la Luna recía
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2086 --> luna Luna brillaba
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2234 --> luna Luna y
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2240 --> luna Luna y
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2762 --> luna Luna reciente,
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 2773 --> luna Luna creciente
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3365 --> la Luna un
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 3826 --> caza Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 4054 --> luna Luna un
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 5986 --> luna Luna nrió
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6897 --> luna Luna ía
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6911 --> luna Luna a
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6971 --> la Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 6988 --> la Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8632 --> medialuna Luna roja
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 8659 --> luna Luna erdadera,
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9717 --> a c Luna contra
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 9902 --> la Luna una
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10151 --> luna Luna nueva
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10153 --> luna Luna que
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 10314 --> la Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11198 --> hab� Luna Una
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11198 --> luna Luna delgada
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11218 --> luna Luna destellaba
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11276 --> la Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11538 --> la Luna Otra
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11645 --> luna Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 11908 --> luna Luna  sobr
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12377 --> no_word Luna no_word
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12396 --> pequeñ Luna en
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12404 -->  m Luna se
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 12434 --> las Luna eran
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 13135 --> luna Luna era
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 14404 --> luna Luna o
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15114 --> luna Luna de
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15191 --> luna Luna  y
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15433 --> luna Luna de
+Buscador: 0 Hilo: 4 Archivo: ./resources/Libros/La-última-sirena.txt Linea: 15863 --> luna Luna iluminaba
+
+El tiempo total de la busqueda ha sido  0.091065 segundos.
+

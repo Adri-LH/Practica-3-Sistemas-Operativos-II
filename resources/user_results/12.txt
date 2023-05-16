@@ -1,0 +1,26 @@
+Saludos usuario Gratuito con ID 12, has buscado la palabra 'poder' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/ACTITUD-DE-VENDEDOR.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba2.txt
+
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 93 --> er d poder de
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 96 --> poder poder de
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 179 --> poder poder influir
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 271 --> influencia poder positiva
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 289 --> er d poder de
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt Linea: 660 --> del poder con
+
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 336 --> el poder no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 355 --> poder poder  d
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 825 --> er d poder dentro
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/ACTITUD-DE-VENDEDOR.txt Linea: 826 --> una poder onda
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.003955 segundos.
+

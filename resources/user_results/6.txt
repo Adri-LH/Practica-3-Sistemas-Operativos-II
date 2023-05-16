@@ -1,0 +1,21 @@
+Saludos usuario Gratuito con ID 6, has buscado la palabra 'forma' en los archivos:
+./resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 158 --> forma forma blanda
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 169 --> la forma de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 273 --> las forma de
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 419 --> obtenido forma mportante.
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 432 --> no_word forma invitaban
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 444 --> que forma no_word
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 458 --> forma forma el
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 649 --> rema;  forma parte
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 660 --> que forma simas
+Buscador: 3 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 829 --> forma forma aquinal,
+
+AVISO: Durante tu busqueda te has quedado sin saldo. Es posible que falten palabras.
+
+El tiempo total de la busqueda ha sido  0.005342 segundos.
+

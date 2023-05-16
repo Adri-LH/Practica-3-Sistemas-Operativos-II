@@ -122,7 +122,7 @@ class Searcher{
 
                 //Imprimimos información
                 std::cout << color << "[Buscador " << id_searcher << "] procesará la petición del Usuario " << UserTypeToString(current_user_type) 
-                 << " " << p_current_request->getUserId() << std::endl;
+                << " " << p_current_request->getUserId() << std::endl;
 
                 //Se saca la peticion de la cola
                 p_request_queue->pop();

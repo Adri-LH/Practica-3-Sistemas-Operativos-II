@@ -1,0 +1,44 @@
+Saludos usuario Premium con ID 4, has buscado la palabra 'David' en los archivos:
+./resources/Libros/prueba2.txt
+./resources/Libros/prueba2.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/El-oro-y-la-ceniza.txt
+./resources/Libros/El-oro-y-la-ceniza.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 1 --> David David me
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 6 --> bien David no_word
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> david David me
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> o David o
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> vez David no_word
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 10 --> igual David que
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 10 --> que David no_word
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 12 --> david David DAvid
+Buscador: 2 Hilo: 0 Archivo: ./resources/Libros/prueba2.txt Linea: 12 --> DAvid David Davi
+
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 1 --> David David me
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 6 --> bien David no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> david David me
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> o David o
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 9 --> vez David no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 10 --> igual David que
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 10 --> que David no_word
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 12 --> david David DAvid
+Buscador: 2 Hilo: 1 Archivo: ./resources/Libros/prueba2.txt Linea: 12 --> DAvid David Davi
+
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 398 --> no_word David supe
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 516 --> DAVID David  THOREA
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1659 --> David David  Augsburge
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1666 --> Fuller David no_word
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2034 --> David David urns,
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3131 --> David David Jeremiah
+Buscador: 2 Hilo: 2 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3135 --> David David  Jeremia
+
+Buscador: 2 Hilo: 3 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10560 --> David David cribió
+
+Buscador: 2 Hilo: 4 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10560 --> David David cribió
+
+El tiempo total de la busqueda ha sido  0.075972 segundos.
+

@@ -1,0 +1,22 @@
+Saludos usuario Premium con ID 10, has buscado la palabra 'Árbol' en los archivos:
+./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+./resources/Libros/VIVE-TU-SUEÑO.txt
+
+
+RESULTADOS:
+
+Buscador: 2 Hilo: 2 no pudo encontrar ningun resultado en el archivo./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+Buscador: 2 Hilo: 1 no pudo encontrar ningun resultado en el archivo./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+Buscador: 2 Hilo: 3 no pudo encontrar ningun resultado en el archivo./resources/Libros/SEAMOS-PERSONAS-DE-INFLUENCIA.txt
+
+Buscador: 2 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/21-LEYES-DEL-LIDERAZGO.txt
+
+Buscador: 2 Hilo: 4 no pudo encontrar ningun resultado en el archivo./resources/Libros/VIVE-TU-SUEÑO.txt
+
+El tiempo total de la busqueda ha sido  0.034796 segundos.
+

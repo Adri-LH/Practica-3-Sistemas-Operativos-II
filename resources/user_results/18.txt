@@ -1,0 +1,10 @@
+Saludos usuario Gratuito con ID 18, has buscado la palabra 'Ley' en los archivos:
+./resources/Libros/prueba.txt
+
+
+RESULTADOS:
+
+Buscador: 0 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
+
+El tiempo total de la busqueda ha sido  0.000171 segundos.
+

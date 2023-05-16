@@ -119,6 +119,8 @@ void checkResources(int argc){
     //Comprobamos si existen los directorios necesarios
     if(!std::filesystem::exists(FILES_PATH)){std::cerr << "Error: El directorio de archivos a buscar no existe" << std::endl; exit(1);};
     if(!std::filesystem::exists(RESULTS_PATH)){std::cerr << "Error: El directorio de resultados de usuarios no existe" << std::endl; exit(1);};
+    //Borramos el contenido de la carpeta user_results (resultados antiguos)
+    deleteDirectoryFiles(RESULTS_PATH);
     
     //Comrpobamos si el directorio de ficheros contiene archivos
     std::vector<std::string> files = getFilesInDirectory(FILES_PATH);
@@ -169,8 +171,6 @@ void createSearchersThreads(int num_searchers){
 
 /*Descripcion: Crea los hilos de los usuarios*/
 void createUsersThreads(int num_users){
-    //Borramos el contenido de la carpeta user_results (resultados antiguos)
-    deleteDirectoryFiles(RESULTS_PATH);
 
     for(int i = 0; i < num_users; i++){
         g_user_threads.push_back(std::thread(createRandomUser, g_user_id_counter));

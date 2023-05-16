@@ -1,0 +1,35 @@
+Saludos usuario Premium con ID 16, has buscado la palabra 'Casa' en los archivos:
+./resources/Libros/prueba.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+
+RESULTADOS:
+
+Buscador: 3 Hilo: 0 no pudo encontrar ningun resultado en el archivo./resources/Libros/prueba.txt
+
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 218 --> demÃ Casa si
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 338 --> casa Casa y
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 460 --> habÃ Casa  e
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 666 --> parejas Casa que
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 732 --> ya Casa y
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 903 --> Casa Casa de
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 904 --> ni Casa pelearemos
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1029 --> casa Casa en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1035 --> a Casa no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1097 --> casa Casa hecha
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1279 --> a e Casa editorial
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1354 --> casa Casa se
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1467 --> casa Casa vieja
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1487 --> casa Casa para
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1641 --> su Casa donde
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1877 --> en Casa Fue
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 1955 --> escasa Casa en
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2251 --> habÃ Casa no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2256 --> hermano Casa pensaba
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2261 --> sus Casa Se
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 2283 --> Si Casa no_word
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3044 --> su Casa donde
+Buscador: 3 Hilo: 1 Archivo: ./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt Linea: 3252 --> casa Casa de
+
+El tiempo total de la busqueda ha sido  0.015074 segundos.
+

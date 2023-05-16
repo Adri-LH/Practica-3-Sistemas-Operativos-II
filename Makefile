@@ -2,7 +2,7 @@ DIROBJ := obj/
 DIREXE := exec/
 DIRHEA := include/
 DIRSRC := src/
-DIRRES := resources/user_results
+DIRRES := resources/user_results/
 
 CFLAGS := -I$(DIRHEA) -c -std=c++20
 LDLIBS := -lpthread -lrt 
@@ -20,7 +20,7 @@ $(DIROBJ)%.o: $(DIRSRC)%.cpp
 	$(CC) $(CFLAGS) $^ -o $@
 
 solucion:
-	./$(DIREXE)ssooiicle 
+	./$(DIREXE)ssooiicle  
 
 clean : 
-	rm -rf *~ core $(DIROBJ) $(DIREXE) $(DIRHEA)*~ $(DIRSRC)*~ $(DIRRES)
+	rm -rf *~ core $(DIROBJ) $(DIREXE) $(DIRHEA)*~ $(DIRSRC)*~ $(DIRRES)*

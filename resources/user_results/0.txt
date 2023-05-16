@@ -1,0 +1,66 @@
+Saludos usuario Premium con ID 0, has buscado la palabra 'Luna' en los archivos:
+./resources/Libros/El-oro-y-la-ceniza.txt
+./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+./resources/Libros/ACTITUD-DE-VENDEDOR.txt
+./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt
+./resources/Libros/ACTITUD-DE-VENDEDOR.txt
+
+
+RESULTADOS:
+
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 310 --> luna Luna ,
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1572 --> la Luna este
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1581 --> módu Luna L)
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1584 --> no_word Luna cuario,
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1606 --> módu Luna Y
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1611 --> módu Luna mientras
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1613 --> módu Luna Un
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1619 --> módu Luna que
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1626 --> dulo Luna y
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1627 --> módu Luna y
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1632 --> módu Luna nía
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1634 --> la Luna no_word
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1637 --> módu Luna no_word
+Buscador: 1 Hilo: 3 Archivo: ./resources/Libros/17-LEYES-DEL-TRABJO-EN-EQUIPO.txt Linea: 1646 --> luna Luna es
+
+Buscador: 1 Hilo: 2 no pudo encontrar ningun resultado en el archivo./resources/Libros/ACTITUD-DE-VENDEDOR.txt
+
+Buscador: 1 Hilo: 1 no pudo encontrar ningun resultado en el archivo./resources/Libros/25-MANERAS-DE-GANARSE-A-LA-GENTE.txt
+
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1155 --> luna Luna se
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 1925 --> medias Luna su
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2859 --> la Luna  L
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2870 --> la Luna recía
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 2961 --> la Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> la Luna a
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3098 --> luna Luna que
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3116 --> la Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3552 --> ros,  Luna sol
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3574 --> luna Luna velaba
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 3586 --> luna Luna erida;
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4128 --> soldados Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 4291 --> la Luna el
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5335 --> luna Luna ía
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5402 --> a y Luna y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5786 --> a y Luna y
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 5889 --> no_word Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7160 --> luna Luna no
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7286 --> luna Luna ría
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 7486 --> la Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 8183 --> luna Luna creciente
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10431 --> lumbreras Luna sol
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10444 --> luna Luna nví
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10448 --> luna Luna no
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 10890 --> ciudad Luna llena
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11261 --> Era Luna porque
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> la Luna una
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> luna Luna ora.
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11285 --> La Luna no_word
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11315 --> la Luna ncé
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11327 --> la Luna el
+Buscador: 1 Hilo: 0 Archivo: ./resources/Libros/El-oro-y-la-ceniza.txt Linea: 11345 --> Es Luna ama
+
+Buscador: 1 Hilo: 4 no pudo encontrar ningun resultado en el archivo./resources/Libros/ACTITUD-DE-VENDEDOR.txt
+
+El tiempo total de la busqueda ha sido  0.038958 segundos.
+
